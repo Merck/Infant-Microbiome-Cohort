@@ -1,0 +1,21 @@
+dependencies:
+- pandas
+- matplotlib
+- seaborn
+- scipy
+- r-tidyverse
+- scikit-bio
+- r-vegan
+- r-broom
+- r-patchwork
+- numpy
+- r-cowplot
+- r-readxl
+- statsmodels
+- matplotlib-venn
+- r-ggsci
+- r-rcolorbrewer
+- r-scales
+- jupyterlab
+- r-irkernel
+- openpyxl

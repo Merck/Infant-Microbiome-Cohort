@@ -1,0 +1,181 @@
+Subject	Type of Visit	Visit #	Visit Date	DOB	Age (days)	Method	Serum or Plasma	Freeze/Thaw Cycles	Proteomics (10-15ul)	Proteo Box Location	Metabolomics (55ul)	Metabol Box Location
+103	Well Check 02m	V5	4/27/18	2/21/18	65	Heelstick	Serum	1	15UL	Box1_A1	----	----
+106	Well Check 02m	V5	5/29/18	3/27/18	63	Heelstick	Serum	2	15UL	Box1_A2	----	----
+110	Well Check 02m	V5	7/9/18	5/7/18	63	Heelstick	Serum	2	15UL	Box1_A3	----	----
+113	Well Check 02m	V5	7/26/18	5/15/18	72	Heelstick	Serum	2	15UL	Box1_A4	----	----
+115	Well Check 04m	V6	8/24/18	5/24/18	92	Heelstick	Serum	2	15UL	Box1_A5	----	----
+119	Well Check 02m	V5	8/30/18	6/30/18	61	Heelstick	Serum	1	15UL	Box1_A6	55UL	Box1_A1
+121	Well Check 02m	V5	8/31/18	6/30/18	62	Heelstick	Serum	1	15UL	Box1_A7	55UL	Box1_A2
+122	Well Check 02m	V5	9/7/18	7/5/18	64	Heelstick	Serum	1	15UL	Box1_A8	55UL	Box1_A3
+123	Well Check 02m	V5	9/4/18	7/8/18	58	Heelstick	Serum	1	15UL	Box1_A9	55UL	Box1_A4
+124	Well Check 02m	V5	11/27/18	8/22/18	97	Heelstick	Serum	1	15UL	Box1_B1	----	----
+129	Well Check 02m	V5	11/5/18	9/5/18	61	Heelstick	Serum	1	15UL	Box1_B2	55UL	Box1_A5
+132	Well Check 02m	V5	1/16/19	11/18/18	59	Heelstick	Serum	1	15UL	Box1_B3	55UL	Box1_A6
+136	Well Check 02m	V5	2/14/19	12/14/18	62	Heelstick	Serum	1	15UL	Box1_B4	55UL	Box1_A7
+201	Well Check 02m	V5	4/30/18	2/22/18	67	Heelstick	Serum	2	15UL	Box1_B5	55UL	Box1_A8
+202	Well Check 02m	V5	5/8/18	2/27/18	70	Heelstick	Serum	2	15UL	Box1_B6	55UL	Box1_A9
+203	Well Check 02m	V5	4/30/18	2/28/18	61	Heelstick	Serum	1	15UL	Box1_B7	55UL	Box1_B1
+206	Well Check 02m	V5	5/9/18	3/9/18	61	Heelstick	Serum	1	15UL	Box1_B8	55UL	Box1_B2
+207	Well Check 02m	V5	5/18/18	3/11/18	68	Heelstick	Serum	1	15UL	Box1_B9	55UL	Box1_B3
+208	Well Check 02m	V5	5/9/18	3/7/18	63	Heelstick	Serum	2	15UL	Box1_C1	55UL	Box1_B4
+209	Well Check 02m	V5	5/8/18	3/14/18	55	Heelstick	Serum	2	15UL	Box1_C2	55UL	Box1_B5
+210	Well Check 02m	V5	5/16/18	3/10/18	67	Heelstick	Serum	2	15UL	Box1_C3	55UL	Box1_B6
+211	Well Check 02m	V5	5/16/18	3/11/18	66	Heelstick	Serum	2	15UL	Box1_C4	55UL	Box1_B7
+212	Well Check 02m	V5	5/23/18	3/18/18	66	Heelstick	Serum	2	15UL	Box1_C5	55UL	Box1_B8
+214	Well Check 02m	V5	7/2/18	4/4/18	89	Heelstick	Serum	2	15UL	Box1_C6	55UL	Box1_B9
+215	Well Check 02m	V5	6/1/18	3/29/18	64	Heelstick	Serum	2	15UL	Box1_C7	55UL	Box1_C1
+216	Well Check 02m	V5	6/11/18	4/6/18	66	Heelstick	Serum	1	15UL	Box1_C8	55UL	Box1_C2
+217	Well Check 02m	V5	6/12/18	4/8/18	65	Heelstick	Serum	2	15UL	Box1_C9	55UL	Box1_C3
+218	"Well Check 02m, Sick"	V5	6/6/18	4/3/18	64	Heelstick	Serum	2	15UL	Box1_D1	55UL	Box1_C4
+219	Well Check 02m	V5	6/25/18	4/10/18	76	Heelstick	Serum	2	15UL	Box1_D2	55UL	Box1_C5
+220	Well Check 02m	V5	6/13/18	4/13/18	61	Heelstick	Serum	2	15UL	Box1_D3	55UL	Box1_C6
+221	Well Check 02m	V5	6/25/18	4/16/18	70	Heelstick	Serum	2	15UL	Box1_D4	55UL	Box1_C7
+222	Well Check 04m	V6	8/9/18	4/17/18	114	Heelstick	Serum	1	15UL	Box1_D5	55UL	Box1_C8
+223	Well Check 02m	V5	7/2/18	4/27/18	66	Heelstick	Serum	2	15UL	Box1_D6	55UL	Box1_C9
+224	Well Check 02m	V5	7/19/18	4/22/18	88	Heelstick	Serum	2	15UL	Box1_D7	55UL	Box1_D1
+225	Well Check 02m	V5	7/19/18	4/30/18	80	Heelstick	Serum	1	15UL	Box1_D8	55UL	Box1_D2
+226	Well Check 02m	V5	6/28/18	5/3/18	56	Heelstick	Serum	2	15UL	Box1_D9	55UL	Box1_D3
+227	Well Check 02m	V5	6/26/18	4/30/18	57	Heelstick	Serum	2	15UL	Box1_E1	----	----
+228	Well Check 02m	V5	7/9/18	5/7/18	63	Heelstick	Serum	2	15UL	Box1_E2	55UL	Box1_D4
+229	Well Check 02m	V5	7/2/18	4/29/18	64	Heelstick	Serum	2	15UL	Box1_E3	55UL	Box1_D5
+231	Well Check 02m	V5	7/10/18	5/9/18	62	Heelstick	Serum	1	15UL	Box1_E4	----	----
+232	Well Check 02m	V5	7/20/18	5/14/18	67	Heelstick	Serum	1	15UL	Box1_E5	55UL	Box1_D6
+233	Well Check 02m	V5	7/18/18	5/21/18	58	Heelstick	Serum	2	15UL	Box1_E6	55UL	Box1_D7
+234	Well Check 02m	V5	8/7/18	6/15/18	53	Heelstick	Serum	1	15UL	Box1_E7	55UL	Box1_D8
+235	Well Check 02m	V5	8/15/18	6/13/18	63	Heelstick	Serum	2	15UL	Box1_E8	55UL	Box1_D9
+236	Well Check 02m	V5	8/14/18	6/12/18	63	Heelstick	Serum	1	15UL	Box1_E9	55UL	Box1_E1
+238	Well Check 02m	V5	8/21/18	6/20/18	62	Heelstick	Serum	1	15UL	Box1_F1	55UL	Box1_E2
+239	Well Check 02m	V5	8/29/18	6/24/18	66	Heelstick	Serum	1	15UL	Box1_F2	55UL	Box1_E3
+241	Well Check 02m	V5	8/29/18	6/24/18	66	Heelstick	Serum	1	15UL	Box1_F3	----	----
+243	Well Check 02m	V5	9/6/18	7/11/18	57	Heelstick	Serum	1	15UL	Box1_F4	55UL	Box1_E4
+246	"Well Check 02m, Sick"	V5	10/1/18	7/28/18	65	Heelstick	Serum	1	15UL	Box1_F5	55UL	Box1_E5
+247	Well Check 02m	V5	11/1/18	8/24/18	69	Heelstick	Serum	1	15UL	Box1_F6	----	----
+248	"Well Check 02m, Sick"	V5	10/29/18	8/19/18	71	Heelstick	Serum	1	15UL	Box1_F7	55UL	Box1_E6
+249	Well Check 02m	V5	10/29/18	8/24/18	66	Heelstick	Serum	1	15UL	Box1_F8	55UL	Box1_E7
+250	Well Check 02m	V5	11/6/18	9/5/18	62	Heelstick	Serum	1	15UL	Box1_F9	55UL	Box1_E8
+255	Well Check 02m	V5	11/29/18	9/27/18	63	Heelstick	Serum	1	15UL	Box1_G1	----	----
+258	Well Check 02m	V5	1/3/19	10/23/18	72	Heelstick	Serum	1	15UL	Box1_G2	55UL	Box1_E9
+261	Well Check 02m	V5	1/3/19	11/1/18	63	Heelstick	Serum	1	15UL	Box1_G3	55UL	Box1_F1
+106	Well Check 12m	V9	4/2/19	3/27/18	371	Venous	Plasma	2	15UL	Box1_G4	55UL	Box1_F2
+107	AOM	A1	4/15/19	4/2/18	378	Venous	Plasma	2	15UL	Box1_G5	55UL	Box1_F3
+108	"Well Check 12m, Sick"	V9	4/2/19	3/28/18	370	Venous	Plasma	2	15UL	Box1_G6	55UL	Box1_F4
+109	Well Check 15m	V10	7/1/19	4/17/18	440	Fingerstick	Plasma	2	15UL	Box1_G7	----	----
+110	Well Check 12m	V9	5/17/19	5/7/18	375	Venous	Plasma	2	15UL	Box1_G8	55UL	Box1_F5
+113	Well Check 12m	V9	5/24/19	5/15/18	374	Venous	Plasma	2	15UL	Box1_G9	55UL	Box1_F6
+114	"Well Check 12m, AOM"	V9	5/22/19	5/21/18	366	Venous	Plasma	2	15UL	Box1_H1	55UL	Box1_F7
+115	Well Check 12m	V9	6/3/19	5/24/18	375	Venous	Plasma	2	15UL	Box1_H2	55UL	Box1_F8
+117	Well Check 12m	V9	6/12/19	6/10/18	367	Venous	Plasma	2	15UL	Box1_H3	55UL	Box1_F9
+118	Well Check 12m	V9	6/24/19	6/25/18	364	Venous	Plasma	2	15UL	Box1_H4	55UL	Box1_G1
+119	Well Check 12m	V9	7/8/19	6/30/18	373	Venous	Plasma	2	15UL	Box1_H5	55UL	Box1_G2
+121	Well Check 12m	V9	7/11/19	6/30/18	376	Venous	Plasma	2	15UL	Box1_H6	55UL	Box1_G3
+122	Well Check 12m	V9	7/19/19	7/5/18	379	Venous	Plasma	2	15UL	Box1_H7	55UL	Box1_G4
+123	Well Check 12m	V9	7/10/19	7/8/18	367	Venous	Plasma	2	15UL	Box1_H8	55UL	Box1_G5
+125	Well Check 12m	V9	8/20/19	8/16/18	369	Venous	Plasma	2	15UL	Box1_H9	55UL	Box1_G6
+127	Well Check 12m	V9	9/23/19	8/31/18	388	Venous	Plasma	2	15UL	Box1_I1	55UL	Box1_G7
+129	Well Check 12m	V9	9/9/19	9/5/18	369	Venous	Plasma	2	15UL	Box1_I2	55UL	Box1_G8
+131	Well Check 12m	V9	11/19/19	11/8/18	376	Venous	Plasma	2	15UL	Box1_I3	55UL	Box1_G9
+134	Well Check 12m	V9	12/6/19	11/22/18	379	Venous	Plasma	2	15UL	Box1_I4	55UL	Box1_H1
+136	Well Check 12m	V9	1/9/20	12/14/18	391	Venous	Plasma	2	15UL	Box1_I5	55UL	Box1_H2
+201	Sick	S3	3/28/19	2/22/18	399	Venous	Plasma	2	15UL	Box1_I6	55UL	Box1_H3
+202	AOM	A1	4/18/19	2/27/18	415	Venous	Plasma	2	15UL	Box1_I7	55UL	Box1_H4
+204	Aom Follow-up	A1F	6/18/19	2/26/18	477	Fingerstick	Plasma	2	15UL	Box1_I8	----	----
+205	"Sick, AOM Follow-up"	S1	3/27/19	2/28/18	392	Fingerstick	Serum	2	15UL	Box1_I9	----	----
+208	Well Check 12m	V9	3/25/19	3/7/18	383	Fingerstick	Serum	2	15UL	Box2_A1	55UL	Box1_H5
+210	Well Check 15m	V10	6/11/19	3/10/18	458	Fingerstick	Plasma	2	15UL	Box2_A2	55UL	Box1_H6
+211	Well Check 15m	V10	6/14/19	3/11/18	460	Fingerstick	Plasma	2	15UL	Box2_A3	55UL	Box1_H7
+212	Well Check 12m	V9	3/21/19	3/18/18	368	Fingerstick	Serum	2	15UL	Box2_A4	55UL	Box1_H8
+214	"Well Check 12m, AOM"	V9	4/22/19	4/4/18	383	Fingerstick	Serum	2	10UL	Box2_A5	----	----
+215	Well Check 12m	V9	3/29/19	3/29/18	365	Venous	Plasma	2	15UL	Box2_A6	55UL	Box1_H9
+217	"Well Check 12m, Sick"	V9	4/12/19	4/8/18	369	Fingerstick	Serum	2	15UL	Box2_A7	55UL	Box1_I1
+218	Well Check 12m	V9	4/9/19	4/3/18	371	Fingerstick	Serum	2	10UL	Box2_A8	----	----
+219	"Well Check 12m, Sick"	V9	5/29/19	4/10/18	414	Fingerstick	Serum	2	15UL	Box2_A9	55UL	Box1_I2
+220	Well Check 12m	V9	4/18/19	4/13/18	370	Fingerstick	Serum	2	15UL	Box2_B1	55UL	Box1_I3
+221	Well Check 12m	V9	4/22/19	4/16/18	371	Venous	Plasma	2	15UL	Box2_B2	55UL	Box1_I4
+223	Well Check 12m	V9	4/30/19	4/27/18	368	Fingerstick	Serum	2	15UL	Box2_B3	----	----
+224	Well Check 12m	V9	5/29/19	4/22/18	402	Fingerstick	Serum	2	15UL	Box2_B4	55UL	Box1_I5
+226	"Well Check 12m, Sick"	V9	5/10/19	5/3/18	372	Fingerstick	Serum	2	15UL	Box2_B5	55UL	Box1_I6
+228	"Well Check 12m, Sick"	V9	5/10/19	5/7/18	368	Fingerstick	Serum	2	15UL	Box2_B6	55UL	Box1_I7
+229	Well Check 12m	V9	6/12/19	4/29/18	409	Venous	Plasma	2	15UL	Box2_B7	55UL	Box1_I8
+230	"Well Check 12m, AOM"	V9	7/10/19	5/10/18	426	Venous	Plasma	2	15UL	Box2_B8	55UL	Box1_I9
+231	Well Check 15m	V10	9/11/19	5/9/18	490	Fingerstick	Plasma	2	15UL	Box2_B9	55UL	Box2_A1
+233	Well Check 12m	V9	5/23/19	5/21/18	367	Fingerstick	Serum	2	15UL	Box2_C1	55UL	Box2_A2
+234	Well Check 12m	V9	8/8/19	6/15/18	419	Venous	Plasma	2	15UL	Box2_C2	55UL	Box2_A3
+235	Well Check 12m	V9	6/17/19	6/13/18	369	Venous	Plasma	2	15UL	Box2_C3	55UL	Box2_A4
+237	Well Check 12m	V9	6/24/19	6/20/18	369	Fingerstick	Plasma	2	15UL	Box2_C4	55UL	Box2_A5
+238	Well Check 12m	V9	6/24/19	6/20/18	369	Venous	Plasma	2	15UL	Box2_C5	55UL	Box2_A6
+240	Well Check 12m	V9	6/24/19	6/21/18	368	Venous	Plasma	2	15UL	Box2_C6	55UL	Box2_A7
+240	AOM	A2	7/19/19	6/21/18	393	Fingerstick	Plasma	2	15UL	Box2_C7	55UL	Box2_A8
+243	"Well Check 12m, Sick"	V9	7/15/19	7/11/18	369	Venous	Plasma	2	15UL	Box2_C8	55UL	Box2_A9
+245	AOM	A3	7/19/19	7/22/18	362	Venous	Plasma	2	15UL	Box2_C9	55UL	Box2_B1
+245	Well Check 12m	V9	8/7/19	7/22/18	381	Fingerstick	Plasma	2	15UL	Box2_D1	55UL	Box2_B2
+246	Well Check 15m	V10	10/3/19	7/28/18	432	Venous	Plasma	2	15UL	Box2_D2	55UL	Box2_B3
+247	Well Check 12m	V9	9/3/19	8/24/18	375	Fingerstick	Plasma	2	15UL	Box2_D3	----	----
+249	Well Check 12m	V9	9/6/19	8/24/18	378	Venous	Plasma	2	15UL	Box2_D4	55UL	Box2_B4
+250	Well Check 12m	V9	9/9/19	9/5/18	369	Fingerstick	Plasma	2	15UL	Box2_D5	55UL	Box2_B5
+251	Well Check 12m	V9	9/9/19	8/29/18	386	Fingerstick	Plasma	2	15UL	Box2_D6	55UL	Box2_B6
+252	Well Check 12m	V9	9/10/19	9/6/18	369	Venous	Plasma	2	15UL	Box2_D7	55UL	Box2_B7
+253	Well Check 12m	V9	9/30/19	9/27/18	368	Fingerstick	Plasma	2	15UL	Box2_D8	55UL	Box2_B8
+254	Well Check 12m	V9	9/30/19	9/28/18	367	Fingerstick	Plasma	2	15UL	Box2_D9	----	----
+255	Well Check 12m	V9	9/30/19	9/27/18	368	Fingerstick	Plasma	2	15UL	Box2_E1	55UL	Box2_B9
+256	Well Check 12m	V9	10/8/19	10/2/18	371	Fingerstick	Plasma	2	15UL	Box2_E2	55UL	Box2_C1
+258	Well Check 12m	V9	11/18/19	10/23/18	391	Fingerstick	Plasma	2	15UL	Box2_E3	55UL	Box2_C2
+259	Well Check 12m	V9	10/30/19	10/26/18	369	Fingerstick	Plasma	2	15UL	Box2_E4	55UL	Box2_C3
+260	Well Check 12m	V9	11/7/19	11/5/18	367	Fingerstick	Plasma	2	15UL	Box2_E5	55UL	Box2_C4
+261	Well Check 12m	V9	11/6/19	11/1/18	370	Fingerstick	Plasma	2	15UL	Box2_E6	55UL	Box2_C5
+263	Well Check 12m	V9	11/26/19	11/24/18	367	Venous	Plasma	2	15UL	Box2_E7	55UL	Box2_C6
+264	Well Check 12m	V9	12/6/19	12/4/18	367	Fingerstick	Plasma	2	15UL	Box2_E8	55UL	Box2_C7
+265	Well Check 12m	V9	12/9/19	12/6/18	368	Fingerstick	Plasma	2	15UL	Box2_E9	55UL	Box2_C8
+103	Well Check 24m	V12	5/5/20	2/21/18	804	Fingerstick	Plasma	2	15UL	Box2_F1	55UL	Box2_C9
+108	Well Check 24m	V12	5/21/20	3/28/18	785	Fingerstick	Plasma	2	15UL	Box2_F2	55UL	Box2_D1
+110	Well Check 24m	V12	5/13/20	5/7/18	737	Fingerstick	Plasma	2	15UL	Box2_F3	55UL	Box2_D2
+112	Well Check 24m	V12	7/13/20	5/3/18	802	Fingerstick	Plasma	2	15UL	Box2_F4	55UL	Box2_D3
+113	Well Check 24m	V12	6/10/20	5/15/18	757	Fingerstick	Plasma	2	15UL	Box2_F5	55UL	Box2_D4
+115	Well Check 24m	V12	5/28/20	5/24/18	735	Fingerstick	Plasma	2	15UL	Box2_F6	55UL	Box2_D5
+117	Well Check 24m	V12	6/11/20	6/10/18	732	Fingerstick	Plasma	2	15UL	Box2_F7	----	----
+118	Well Check 24m	V12	6/26/20	6/25/18	732	Fingerstick	Plasma	2	15UL	Box2_F8	----	----
+119	Well Check 24m	V12	7/7/20	6/30/18	738	Fingerstick	Plasma	2	15UL	Box2_F9	55UL	Box2_D6
+122	Well Check 24m	V12	7/10/20	7/5/18	736	Fingerstick	Plasma	2	15UL	Box2_G1	----	----
+123	Well Check 24m	V12	7/10/20	7/8/18	733	Fingerstick	Plasma	2	15UL	Box2_G2	----	----
+125	Well Check 24m	V12	8/21/20	8/16/18	736	Fingerstick	Plasma	2	15UL	Box2_G3	55UL	Box2_D7
+127	Well Check 24m	V12	9/2/20	8/31/18	733	Fingerstick	Plasma	2	15UL	Box2_G4	55UL	Box2_D8
+130	Well Check 24m	V12	10/27/20	10/27/18	731	Fingerstick	Plasma	2	15UL	Box2_G5	55UL	Box2_D9
+131	Well Check 24m	V12	12/21/20	11/8/18	774	Venous	Plasma	2	15UL	Box2_G6	55UL	Box2_E1
+134	Well Check 24m	V12	10/5/20	11/22/18	683	Venous	Plasma	2	15UL	Box2_G7	55UL	Box2_E2
+136	Well Check 24m	V12	1/4/21	12/14/18	752	Venous	Plasma	2	15UL	Box2_G8	55UL	Box2_E3
+202	"Well Check 24m, Sick"	V12	2/25/20	2/27/18	728	Fingerstick	Plasma	2	15UL	Box2_G9	55UL	Box2_E4
+204	"Well Check 24m, Sick"	V12	2/11/20	2/26/18	715	Venous	Plasma	2	15UL	Box2_H1	55UL	Box2_E5
+205	Well Check 24m	V12	2/25/20	2/28/18	727	Fingerstick	Plasma	2	15UL	Box2_H2	55UL	Box2_E6
+207	Well Check 24m	V12	4/27/20	3/11/18	778	Fingerstick	Plasma	2	15UL	Box2_H3	55UL	Box2_E7
+208	"Well Check 24m, Sick"	V12	3/2/20	3/7/18	726	Fingerstick	Plasma	2	15UL	Box2_H4	55UL	Box2_E8
+209	Well Check 24m	V12	3/10/20	3/14/18	727	Venous	Plasma	2	15UL	Box2_H5	55UL	Box2_E9
+210	Well Check 24m	V12	5/20/20	3/10/18	802	Fingerstick	Plasma	2	15UL	Box2_H6	----	----
+211	"Well Check 24m, Sick"	V12	3/6/20	3/11/18	726	Fingerstick	Plasma	2	15UL	Box2_H7	55UL	Box2_F1
+214	Well Check 24m	V12	5/12/20	4/4/18	769	Venous	Plasma	2	15UL	Box2_H8	55UL	Box2_F2
+215	Well Check 24m	V12	3/30/20	3/29/18	732	Venous	Plasma	2	15UL	Box2_H9	55UL	Box2_F3
+217	Well Check 24m	V12	4/9/20	4/8/18	732	Fingerstick	Plasma	2	15UL	Box2_I1	55UL	Box2_F4
+218	Well Check 24m	V12	3/30/20	4/3/18	727	Fingerstick	Plasma	2	15UL	Box2_I2	55UL	Box2_F5
+220	Well Check 24m	V12	4/10/20	4/13/18	728	Venous	Plasma	2	15UL	Box2_I3	55UL	Box2_F6
+222	Well Check 24m	V12	4/16/20	4/17/18	730	Fingerstick	Plasma	2	15UL	Box2_I4	55UL	Box2_F7
+223	Well Check 24m	V12	9/10/20	4/27/18	867	Fingerstick	Plasma	2	15UL	Box2_I5	55UL	Box2_F8
+226	Well Check 24m	V12	9/30/20	5/3/18	881	Venous	Plasma	2	15UL	Box2_I6	55UL	Box2_F9
+228	Well Check 24m	V12	4/28/20	5/7/18	722	Fingerstick	Plasma	2	15UL	Box2_I7	55UL	Box2_G1
+230	Well Check 24m	V12	5/20/20	5/10/18	741	Venous	Plasma	2	15UL	Box2_I8	55UL	Box2_G2
+231	Well Check 24m	V12	6/3/20	5/9/18	756	Fingerstick	Plasma	2	15UL	Box2_I9	55UL	Box2_G3
+233	Well Check 24m	V12	5/28/20	5/21/18	738	Fingerstick	Plasma	2	15UL	Box3_A1	55UL	Box2_G4
+234	Well Check 24m	V12	6/12/20	6/15/18	728	Venous	Plasma	2	15UL	Box3_A2	55UL	Box2_G5
+235	Well Check 24m	V12	6/10/20	6/13/18	728	Venous	Plasma	2	15UL	Box3_A3	55UL	Box2_G6
+236	Well Check 24m	V12	6/16/20	6/12/18	735	Venous	Plasma	2	15UL	Box3_A4	55UL	Box2_G7
+239	Well Check 24m	V12	6/26/20	6/24/18	733	Venous	Plasma	2	15UL	Box3_A5	55UL	Box2_G8
+243	Well Check 24m	V12	7/6/20	7/11/18	726	Fingerstick	Plasma	2	15UL	Box3_A6	55UL	Box2_G9
+245	Well Check 24m	V12	7/15/20	7/22/18	724	Venous	Plasma	2	15UL	Box3_A7	55UL	Box2_H1
+247	Well Check 24m	V12	8/11/20	8/24/18	718	Fingerstick	Plasma	2	15UL	Box3_A8	55UL	Box2_H2
+249	Well Check 24m	V12	9/21/20	8/24/18	759	Venous	Plasma	2	15UL	Box3_A9	55UL	Box2_H3
+251	Well Check 24m	V12	9/10/20	8/29/18	743	Venous	Plasma	2	15UL	Box3_B1	55UL	Box2_H4
+252	Well Check 24m	V12	9/14/20	9/6/18	739	Venous	Plasma	2	15UL	Box3_B2	55UL	Box2_H5
+253	Well Check 24m	V12	9/24/20	9/27/18	728	Fingerstick	Plasma	2	15UL	Box3_B3	55UL	Box2_H6
+256	"Well Check 24m, AOM Follow-up"	V12	10/21/20	10/2/18	750	Venous	Plasma	2	15UL	Box3_B4	55UL	Box2_H7
+258	Well Check 24m	V12	10/15/20	10/23/18	723	Fingerstick	Plasma	2	15UL	Box3_B5	55UL	Box2_H8
+260	"Well Check 24m, Sick"	V12	11/10/20	11/5/18	736	Venous	Plasma	2	15UL	Box3_B6	55UL	Box2_H9
+261	Well Check 24m	V12	10/22/20	11/1/18	721	Fingerstick	Plasma	2	15UL	Box3_B7	55UL	Box2_I1
+263	Well Check 24m	V12	11/19/20	11/24/18	726	Venous	Plasma	2	15UL	Box3_B8	55UL	Box2_I2
+264	Well Check 24m	V12	12/23/20	12/4/18	750	Venous	Plasma	2	15UL	Box3_B9	55UL	Box2_I3

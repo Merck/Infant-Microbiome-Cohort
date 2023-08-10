@@ -1,0 +1,36 @@
+--------------------------------------------------
+Third party dependencies listed by License type
+[Format: name (R Library) - URL]
+--------------------------------------------------
+
+GNU General Public License v3.0 (GPL-3)
+
+* R (R Software Environment) - https://www.r-project.org/Licenses/GPL-3
+* ggsci (R library) - https://cran.r-project.org/web/licenses/GPL-3
+
+GNU General Public License v2.0 (GPL-2)
+* vegan (R library) - https://cran.r-project.org/web/licenses/GPL-2
+* cowplot (R library) - https://cran.r-project.org/web/licenses/GPL-2
+
+MIT License (MIT) 
+* tidyverse (R library) - https://cran.r-project.org/web/licenses/MIT
+* broom (R library) - https://cran.r-project.org/web/licenses/MIT
+* patchwork (R library) - https://cran.r-project.org/web/licenses/MIT
+* readxl (R library) - https://cran.r-project.org/web/licenses/MIT
+* matplotlib-venn (python library) - https://cran.r-project.org/web/licenses/MIT
+* scales (R library) - https://cran.r-project.org/web/licenses/MIT
+* openpyxl (python library) - https://cran.r-project.org/web/licenses/MIT
+
+The 3-Clause BSD License (BSD)
+* pandas (python library) - https://opensource.org/license/bsd-3-clause/
+* seaborn (python library) - https://opensource.org/license/bsd-3-clause/
+* sci-kit (python library) - https://opensource.org/license/bsd-3-clause/
+* statsmodels (python library) - https://opensource.org/license/bsd-3-clause/
+* jupyterlab - https://opensource.org/license/bsd-3-clause/
+
+Misc Licenses
+* python - https://docs.python.org/3/license.html
+* matplotlib (python library) - https://matplotlib.org/stable/users/project/license.html
+* numpy (python library) - https://numpy.org/doc/stable/license.html
+* RColorBrewer (R library) - https://www.apache.org/licenses/LICENSE-2.0
+* irkernal - https://rdrr.io/github/IRkernel/repr/f/LICENSE.md

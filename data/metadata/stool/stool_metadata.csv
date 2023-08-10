@@ -1,0 +1,710 @@
+SampleID,SubmissionType,SampleNumber,SampleIDValidation,DiversigenCheckInSampleName,BoxLocation,SampleType,SampleSource,SequencingType,BabyN,BabyN_checked,DOB,DOB_checked,CollectionDate,CollectionDate_checked,VisitCode,VisitCodeTimeEquivalent,VisitCode_or_TimeEquivalent_checked,OutputFileName,Plate,Row,Column,age_at_collection,collection_method,Count,gt_2.5
+204_V5,Primary in Tube,1,,204_S,"Box 7, A1",Stool,Human Infant,MetaG,204,,2018-02-26,,2018-05-04,,V5,2 months,,204_V5,3,3,8,67.0,Home,3628514,True
+226_V1,Primary in Tube,2,,,"Box 7, A2",Stool,Human Infant,MetaG,226,,2018-05-03,,2018-05-07,,V1,1-6 days,,226_V1,5,5,2,4.0,Clinic,3363490,True
+107_V3,Primary in Tube,3,,,"Box 7, A3",Stool,Human Infant,MetaG,107,,2018-04-02,,2018-04-20,,V3,2 weeks,,107_V3,7,3,7,18.0,Home,3350273,True
+108_V3,Primary in Tube,4,,,"Box 7, A4",Stool,Human Infant,MetaG,108,,2018-03-28,,2018-04-13,,V3,2 weeks,,108_V3,3,1,1,16.0,Home,5095831,True
+109_V1,Primary in Tube,5,,,"Box 7, A5",Stool,Human Infant,MetaG,109,,2018-04-17,,2018-04-20,,V1,1-6 days,,109_V1,6,6,12,3.0,Home,4963525,True
+108_V2,Primary in Tube,6,,,"Box 7, A6",Stool,Human Infant,MetaG,108,,2018-03-28,,2018-04-10,,V2,7-13 days,,108_V2,3,1,2,13.0,Clinic,5708650,True
+215_V3,Primary in Tube,7,,,"Box 7, B1",Stool,Human Infant,MetaG,215,,2018-03-29,,2018-04-17,,V3,2 weeks,,215_V3,5,1,1,19.0,Home,2642281,True
+203_V5,Primary in Tube,8,,,"Box 7, B2",Stool,Human Infant,MetaG,203,,2018-02-28,,2018-05-01,,V5,2 months,,203_V5,1,5,2,62.0,Home,3639715,True
+209_V4,Primary in Tube,9,,,"Box 7, B3",Stool,Human Infant,MetaG,209,,2018-03-14,,2018-04-27,,V4,1 month,,209_V4,4,1,1,44.0,Clinic,11261603,True
+219_V3,Primary in Tube,10,,,"Box 7, B4",Stool,Human Infant,MetaG,219,,2018-04-10,,2018-04-25,,V3,2 weeks,,219_V3,5,3,7,15.0,Home,2562229,True
+218_V2,Primary in Tube,11,,,"Box 7, B5",Stool,Human Infant,MetaG,218,,2018-04-03,,2018-04-16,,V2,7-13 days,,218_V2,2,3,12,13.0,Home,9812017,True
+227_V2,Primary in Tube,12,,,"Box 7, B6",Stool,Human Infant,MetaG,227,,2018-04-30,,2018-05-10,,V2,7-13 days,,227_V2,1,6,2,10.0,Clinic,3664295,True
+219_V2,Primary in Tube,13,,,"Box 7, C1",Stool,Human Infant,MetaG,219,,2018-04-10,,2018-04-20,,V2,7-13 days,,219_V2,5,3,8,10.0,Home,4154209,True
+220_V1,Primary in Tube,14,,,"Box 7, C2",Stool,Human Infant,MetaG,220,,2018-04-13,,2018-04-17,,V1,1-6 days,,220_V1,2,1,1,4.0,Clinic,2083451,False
+225_V1,Primary in Tube,15,,,"Box 7, C3",Stool,Human Infant,MetaG,225,,2018-04-30,,2018-05-04,,V1,1-6 days,,225_V1,1,1,1,4.0,Clinic,2983354,True
+228_V3,Primary in Tube,16,,,"Box 7, C4",Stool,Human Infant,MetaG,228,,2018-05-07,,2018-05-21,,V3,2 weeks,,228_V3,8,3,9,14.0,Clinic,5857315,True
+215_V2,Primary in Tube,17,,,"Box 7, C5",Stool,Human Infant,MetaG,215,,2018-03-29,,2018-04-10,,V2,7-13 days,,215_V2,5,1,2,12.0,Home,2540859,True
+222_V1,Primary in Tube,18,,,"Box 7, C6",Stool,Human Infant,MetaG,222,,2018-04-17,,2018-04-23,,V1,1-6 days,,222_V1,8,6,12,6.0,Home,4958369,True
+112_V3,Primary in Tube,19,,,"Box 7, D1",Stool,Human Infant,MetaG,112,,2018-05-03,,2018-05-18,,V3,2 weeks,,112_V3,6,5,3,15.0,Clinic,4641743,True
+108_V4,Primary in Tube,20,,,"Box 7, D2",Stool,Human Infant,MetaG,108,,2018-03-28,,2018-05-21,,V4,1 month,,108_V4,3,1,3,54.0,Clinic,5234628,True
+208_V4,Primary in Tube,21,,,"Box 7, D3",Stool,Human Infant,MetaG,208,,2018-03-07,,2018-04-10,,V4,1 month,,208_V4,7,7,1,34.0,Home,4629289,True
+109_V3,Primary in Tube,22,,,"Box 7, D4",Stool,Human Infant,MetaG,109,,2018-04-17,,2018-05-04,,V3,2 weeks,,109_V3,6,7,1,17.0,Home,5728209,True
+206_V5,Primary in Tube,23,,,"Box 7, D5",Stool,Human Infant,MetaG,206,,2018-03-09,,2018-05-09,,V5,2 months,,206_V5,1,7,12,61.0,Clinic,4071756,True
+208_V5,Primary in Tube,24,,,"Box 7, D6",Stool,Human Infant,MetaG,208,,2018-03-07,,2018-05-07,,V5,2 months,,208_V5,7,7,2,61.0,Home,5104233,True
+229_V2,Primary in Tube,25,,,"Box 7, E1",Stool,Human Infant,MetaG,229,,2018-04-29,,2018-05-11,,V2,7-13 days,,229_V2,7,7,11,12.0,Clinic,2667746,True
+228_V2,Primary in Tube,26,,,"Box 7, E2",Stool,Human Infant,MetaG,228,,2018-05-07,,2018-05-15,,V2,7-13 days,,228_V2,8,3,10,8.0,Home,5439371,True
+225_V2,Primary in Tube,27,,,"Box 7, E3",Stool,Human Infant,MetaG,225,,2018-04-30,,2018-05-08,,V2,7-13 days,,225_V2,1,1,2,8.0,Clinic,2701251,True
+217_V4,Primary in Tube,28,,,"Box 7, E4",Stool,Human Infant,MetaG,217,,2018-04-08,,2018-05-09,,V4,1 month,,217_V4,5,6,6,31.0,Clinic,3362897,True
+209_V5,Primary in Tube,29,,,"Box 7, E5",Stool,Human Infant,MetaG,209,,2018-03-14,,2018-05-08,,V5,2 months,,209_V5,4,1,2,55.0,Clinic,5197018,True
+201_V5,Primary in Tube,30,,,"Box 7, E6",Stool,Human Infant,MetaG,201,,2018-02-22,,2018-04-30,,V5,2 months,,201_V5,5,2,8,67.0,Home,2866056,True
+203_S1,Primary in Tube,31,,,"Box 7, F1",Stool,Human Infant,MetaG,203,,2018-02-28,,2018-04-11,,S1,,,203_S1,1,5,3,42.0,Clinic,3850415,True
+220_V3,Primary in Tube,32,,,"Box 7, F2",Stool,Human Infant,MetaG,220,,2018-04-13,,2018-04-28,,V3,2 weeks,,220_V3,2,1,2,15.0,Home,11975765,True
+222_V3,Primary in Tube,33,,,"Box 7, F3",Stool,Human Infant,MetaG,222,,2018-04-17,,2018-05-02,,V3,2 weeks,,222_V3,8,7,1,15.0,Home,5681537,True
+223_V2,Primary in Tube,34,,,"Box 7, F4",Stool,Human Infant,MetaG,223,,2018-04-27,,2018-05-04,,V2,7-13 days,,223_V2,1,5,9,7.0,Home,2031621,False
+225_V3,Primary in Tube,35,,,"Box 7, F5",Stool,Human Infant,MetaG,225,,2018-04-30,,2018-05-18,,V3,2 weeks,,225_V3,1,1,3,18.0,Clinic,5040717,True
+211_V5,Primary in Tube,36,,,"Box 7, F6",Stool,Human Infant,MetaG,211,,2018-03-11,,2018-05-16,,V5,2 months,,211_V5,1,4,7,66.0,Clinic,3053488,True
+230_V1,Primary in Tube,37,,,"Box 8, A1",Stool,Human Infant,MetaG,230,,2018-05-10,,2018-05-14,,V1,1-6 days,,230_V1,3,6,9,4.0,Clinic,2708569,True
+232_V1,Primary in Tube,38,,,"Box 8, A2",Stool,Human Infant,MetaG,232,,2018-05-14,,2018-05-17,,V1,1-6 days,,232_V1,3,4,8,3.0,Clinic,91669,False
+206_V6,Primary in Tube,39,,,"Box 8, A3",Stool,Human Infant,MetaG,206,,2018-03-09,,2018-07-16,,V6,4 months,,206_V6,1,8,1,129.0,Home,3977366,True
+209_V6,Primary in Tube,40,,,"Box 8, A4",Stool,Human Infant,MetaG,209,,2018-03-14,,2018-07-17,,V6,4 months,,209_V6,4,1,3,125.0,Clinic,5597708,True
+208_V6,Primary in Tube,41,,,"Box 8, A5",Stool,Human Infant,MetaG,208,,2018-03-07,,2018-07-09,,V6,4 months,,208_V6,7,7,3,124.0,Home,6439413,True
+227_V5,Primary in Tube,42,,,"Box 8, A6",Stool,Human Infant,MetaG,227,,2018-04-30,,2018-06-26,,V5,2 months,,227_V5,1,6,3,57.0,Home,2612543,True
+205_V6,Primary in Tube,43,,,"Box 8, B1",Stool,Human Infant,MetaG,205,,2018-02-28,,2018-06-30,,V6,4 months,,205_V6,7,4,6,122.0,Home,4177631,True
+212_V6,Primary in Tube,44,,,"Box 8, B2",Stool,Human Infant,MetaG,212,,2018-03-18,,2018-07-19,,V6,4 months,,212_V6,4,6,7,123.0,Home,6144237,True
+225_V5,Primary in Tube,45,,,"Box 8, B3",Stool,Human Infant,MetaG,225,,2018-04-30,,2018-07-19,,V5,2 months,,225_V5,1,1,4,80.0,Clinic,3349217,True
+116_V3,Primary in Tube,46,,,"Box 8, B4",Stool,Human Infant,MetaG,116,,2018-05-26,,2018-06-20,,V3,2 weeks,,116_V3,6,4,2,25.0,Home,4162379,True
+117_V3,Primary in Tube,47,,,"Box 8, B5",Stool,Human Infant,MetaG,117,,2018-06-10,,,,V3,2 weeks,,117_V3,8,7,8,,Home,3914224,True
+228_V5,Primary in Tube,48,,,"Box 8, B6",Stool,Human Infant,MetaG,228,,2018-05-07,,2018-07-10,,V5,2 months,,228_V5,8,3,11,64.0,Home,3984529,True
+221_V5,Primary in Tube,49,,,"Box 8, C1",Stool,Human Infant,MetaG,221,,2018-04-16,,2018-06-25,,V5,2 months,,221_V5,3,5,6,70.0,Clinic,5408857,True
+227_V4,Primary in Tube,50,,,"Box 8, C2",Stool,Human Infant,MetaG,227,,2018-04-30,,2018-06-07,,V4,1 month,,227_V4,1,6,4,38.0,Home,2209424,False
+109_S1,Primary in Tube,51,,,"Box 8, C3",Stool,Human Infant,MetaG,109,,2018-04-17,,2018-07-02,,S1,,,109_S1,6,7,2,76.0,Clinic,5782353,True
+205_V5,Primary in Tube,52,,,"Box 8, C4",Stool,Human Infant,MetaG,205,,2018-02-28,,2018-04-30,,V5,2 months,,205_V5,7,4,7,61.0,Home,3068028,True
+116_V1,Primary in Tube,53,,,"Box 8, C5",Stool,Human Infant,MetaG,116,,2018-05-26,,2018-05-30,,V1,1-6 days,,116_V1,6,4,3,4.0,Home,5262921,True
+117_V1,Primary in Tube,54,,,"Box 8, C6",Stool,Human Infant,MetaG,117,,2018-06-10,,2018-06-15,,V1,1-6 days,,117_V1,8,7,9,5.0,Home,4566328,True
+214_V3,Primary in Tube,55,,,"Box 8, D1",Stool,Human Infant,MetaG,214,,2018-04-04,,2018-04-20,,V3,2 weeks,,214_V3,4,7,2,16.0,Home,6707953,True
+217_V5,Primary in Tube,56,,,"Box 8, D2",Stool,Human Infant,MetaG,217,,2018-04-08,,2018-06-12,,V5,2 months,,217_V5,5,6,7,65.0,Clinic,2633337,True
+109_V5,Primary in Tube,57,,,"Box 8, D3",Stool,Human Infant,MetaG,109,,2018-04-17,,2018-06-18,,V5,2 months,,109_V5,6,7,3,62.0,Clinic,6143278,True
+220_V4,Primary in Tube,58,,,"Box 8, D4",Stool,Human Infant,MetaG,220,,2018-04-13,,2018-06-03,,V4,1 month,,220_V4,2,1,3,51.0,Home,6788813,True
+223_V4,Primary in Tube,59,,,"Box 8, D5",Stool,Human Infant,MetaG,223,,2018-04-27,,2018-06-01,,V4,1 month,,223_V4,1,5,10,35.0,Home,2175880,False
+219_V5,Primary in Tube,60,,,"Box 8, D6",Stool,Human Infant,MetaG,219,,2018-04-10,,2018-06-25,,V5,2 months,,219_V5,5,3,9,76.0,Clinic,3327849,True
+232_V4,Primary in Tube,61,,,"Box 8, E1",Stool,Human Infant,MetaG,232,,2018-05-14,,2018-06-11,,V4,1 month,,232_V4,3,4,9,28.0,Clinic,2646199,True
+201_V6,Primary in Tube,62,,,"Box 8, E2",Stool,Human Infant,MetaG,201,,2018-02-22,,2018-06-25,,V6,4 months,,201_V6,5,2,9,123.0,Clinic,3293786,True
+226_V5,Primary in Tube,63,,,"Box 8, E3",Stool,Human Infant,MetaG,226,,2018-05-03,,2018-06-28,,V5,2 months,,226_V5,5,5,3,56.0,Clinic,3608736,True
+215_V5,Primary in Tube,64,,,"Box 8, E4",Stool,Human Infant,MetaG,215,,2018-03-29,,2018-06-15,,V5,2 months,,215_V5,5,1,3,78.0,Home,3449912,True
+235_V1,Primary in Tube,65,,,"Box 8, E5",Stool,Human Infant,MetaG,235,,2018-06-13,,2018-06-19,,V1,1-6 days,,235_V1,8,5,3,6.0,Home,5200092,True
+221_V4,Primary in Tube,66,,,"Box 8, E6",Stool,Human Infant,MetaG,221,,2018-04-16,,2018-05-30,,V4,1 month,,221_V4,3,5,7,44.0,Home,4461327,True
+229_V5,Primary in Tube,67,,,"Box 8, F1",Stool,Human Infant,MetaG,229,,2018-04-29,,2018-07-02,,V5,2 months,,229_V5,7,7,12,64.0,Clinic,6623769,True
+214_V2,Primary in Tube,68,,,"Box 8, F2",Stool,Human Infant,MetaG,214,,2018-04-04,,2018-04-11,,V2,7-13 days,,214_V2,4,7,3,7.0,Clinic,6830325,True
+106_V2,Primary in Tube,69,,,"Box 8, F3",Stool,Human Infant,MetaG,106,,2018-03-27,,2018-04-06,,V2,7-13 days,,106_V2,5,2,2,10.0,Home,4076757,True
+107_V2,Primary in Tube,70,,,"Box 8, F4",Stool,Human Infant,MetaG,107,,2018-04-02,,2018-04-09,,V2,7-13 days,,107_V2,7,3,8,7.0,Home,4919044,True
+212_V5,Primary in Tube,71,,,"Box 8, F5",Stool,Human Infant,MetaG,212,,2018-03-18,,2018-05-23,,V5,2 months,,212_V5,4,6,8,66.0,Home,7364797,True
+108_V5,Primary in Tube,72,,,"Box 8, F6",Stool,Human Infant,MetaG,108,,2018-03-28,,2018-05-29,,V5,2 months,,108_V5,3,1,4,62.0,Home,4229964,True
+231_V2,Primary in Tube,73,,,"Box 9, A1",Stool,Human Infant,MetaG,231,,2018-05-09,,2018-05-20,,V2,7-13 days,,231_V2,1,7,8,11.0,Home,3360388,True
+218_V5,Primary in Tube,74,,,"Box 9, A2",Stool,Human Infant,MetaG,218,,2018-04-03,,2018-06-06,,V5,2 months,,218_V5,2,4,1,64.0,Clinic,6596176,True
+217_V2,Primary in Tube,75,,,"Box 9, A3",Stool,Human Infant,MetaG,217,,2018-04-08,,2018-04-15,,V2,7-13 days,,217_V2,5,6,8,7.0,Clinic,2326906,False
+231_V1,Primary in Tube,76,,,"Box 9, A4",Stool,Human Infant,MetaG,231,,2018-05-09,,2018-05-14,,V1,1-6 days,,231_V1,1,7,9,5.0,Home,4154283,True
+221_V3,Primary in Tube,77,,,"Box 9, A5",Stool,Human Infant,MetaG,221,,2018-04-16,,2018-05-01,,V3,2 weeks,,221_V3,3,5,8,15.0,Home,3382739,True
+232_V3,Primary in Tube,78,,,"Box 9, A6",Stool,Human Infant,MetaG,232,,2018-05-14,,2018-05-29,,V3,2 weeks,,232_V3,3,4,10,15.0,Home,5502310,True
+214_V1,Primary in Tube,79,,,"Box 9, B1",Stool,Human Infant,MetaG,214,,2018-04-04,,2018-04-06,,V1,1-6 days,,214_V1,4,7,4,2.0,Home,14604218,True
+202_S1,Primary in Tube,80,,,"Box 9, B2",Stool,Human Infant,MetaG,202,,2018-02-27,,2018-07-24,,S1,,,202_S1,7,2,7,147.0,Home,4904873,True
+108_V6,Primary in Tube,81,,,"Box 9, B3",Stool,Human Infant,MetaG,108,,2018-03-28,,2018-08-06,,V6,4 months,,108_V6,3,1,5,131.0,Home,3870885,True
+109_V6,Primary in Tube,82,,,"Box 9, B4",Stool,Human Infant,MetaG,109,,2018-04-17,,2018-08-21,,V6,4 months,,109_V6,6,7,4,126.0,Home,4661765,True
+220_V5,Primary in Tube,83,,,"Box 9, B5",Stool,Human Infant,MetaG,220,,2018-04-13,,2018-06-14,,V5,2 months,,220_V5,2,1,4,62.0,Home,11079301,True
+221_V6,Primary in Tube,84,,,"Box 9, B6",Stool,Human Infant,MetaG,221,,2018-04-16,,2018-08-23,,V6,4 months,,221_V6,3,5,9,129.0,Home,4467649,True
+220_V6,Primary in Tube,85,,,"Box 9, C1",Stool,Human Infant,MetaG,220,,2018-04-13,,2018-08-13,,V6,4 months,,220_V6,2,1,5,122.0,Clinic,8358874,True
+214_V5,Primary in Tube,86,,,"Box 9, C2",Stool,Human Infant,MetaG,214,,2018-04-04,,2018-07-21,,V5,2 months,,214_V5,4,7,5,108.0,Home,9832241,True
+233_V2,Primary in Tube,87,,,"Box 9, C3",Stool,Human Infant,MetaG,233,,2018-05-21,,2018-06-02,,V2,7-13 days,,233_V2,8,1,1,12.0,Home,1023400,False
+235_V3,Primary in Tube,88,,,"Box 9, C4",Stool,Human Infant,MetaG,235,,2018-06-13,,2018-06-28,,V3,2 weeks,,235_V3,8,5,4,15.0,Home,5992449,True
+116_V5,Primary in Tube,89,,,"Box 9, C5",Stool,Human Infant,MetaG,116,,2018-05-26,,2018-07-25,,V5,2 months,,116_V5,6,4,4,60.0,Home,6005444,True
+112_V6,Primary in Tube,90,,,"Box 9, C6",Stool,Human Infant,MetaG,112,,2018-05-03,,2018-09-21,,V6,4 months,,112_V6,6,5,4,141.0,Home,5231259,True
+107_V6,Primary in Tube,91,,,"Box 9, D1",Stool,Human Infant,MetaG,107,,2018-04-02,,2018-08-17,,V6,4 months,,107_V6,7,3,9,137.0,Home,3257919,True
+211_V6,Primary in Tube,92,,,"Box 9, D2",Stool,Human Infant,MetaG,211,,2018-03-11,,2018-07-21,,V6,4 months,,211_V6,1,4,8,132.0,Home,4396132,True
+215_V6,Primary in Tube,93,,,"Box 9, D3",Stool,Human Infant,MetaG,215,,2018-03-29,,2018-08-01,,V6,4 months,,215_V6,5,1,4,125.0,Home,2959628,True
+233_V5,Primary in Tube,94,,,"Box 9, D4",Stool,Human Infant,MetaG,233,,2018-05-21,,2018-08-17,,V5,2 months,,233_V5,8,1,2,88.0,Home,2880596,True
+204_V6,Primary in Tube,95,,,"Box 9, D5",Stool,Human Infant,MetaG,204,,2018-02-26,,2018-07-06,,V6,4 months,,204_V6,3,3,9,130.0,Home,3105147,True
+208_V7,Primary in Tube,96,,,"Box 9, D6",Stool,Human Infant,MetaG,208,,2018-03-07,,2018-09-11,,V7,6 months,,208_V7,7,7,4,188.0,Home,3128427,True
+222_V4,Primary in Tube,97,,,"Box 9, E1",Stool,Human Infant,MetaG,222,,2018-04-17,,2018-05-16,,V4,1 month,,222_V4,8,7,2,29.0,Home,5255736,True
+228_V6,Primary in Tube,98,,,"Box 9, E2",Stool,Human Infant,MetaG,228,,2018-05-07,,2018-09-11,,V6,4 months,,228_V6,8,3,12,127.0,Home,2423425,False
+204_V7,Primary in Tube,99,,,"Box 9, E3",Stool,Human Infant,MetaG,204,,2018-02-26,,2018-08-30,,V7,6 months,,204_V7,3,3,10,185.0,Home,3118997,True
+114_V6,Primary in Tube,100,,,"Box 9, E4",Stool,Human Infant,MetaG,114,,2018-05-21,,2018-09-24,,V6,4 months,,114_V6,3,8,1,126.0,Home,2093745,False
+203_V7,Primary in Tube,101,,,"Box 9, E5",Stool,Human Infant,MetaG,203,,2018-02-28,,2018-08-28,,V7,6 months,,203_V7,1,5,4,181.0,Clinic,2748783,True
+202_V6,Primary in Tube,102,,,"Box 9, E6",Stool,Human Infant,MetaG,202,,2018-02-27,,2018-08-03,,V6,4 months,,202_V6,7,2,8,157.0,Home,3432800,True
+232_V5,Primary in Tube,103,,,"Box 9, F1",Stool,Human Infant,MetaG,232,,2018-05-14,,2018-07-21,,V5,2 months,,232_V5,3,4,11,68.0,Home,3642417,True
+211_V7,Primary in Tube,104,,,"Box 9, F2",Stool,Human Infant,MetaG,211,,2018-03-11,,2018-09-11,,V7,6 months,,211_V7,1,4,9,184.0,Home,2321564,False
+227_V6,Primary in Tube,105,,,"Box 9, F3",Stool,Human Infant,MetaG,227,,2018-04-30,,2018-08-29,,V6,4 months,,227_V6,1,6,5,121.0,Home,3788601,True
+226_V6,Primary in Tube,106,,,"Box 9, F4",Stool,Human Infant,MetaG,226,,2018-05-03,,2018-09-07,,V6,4 months,,226_V6,5,5,4,127.0,Home,4042856,True
+230_V6,Primary in Tube,107,,,"Box 9, F5",Stool,Human Infant,MetaG,230,,2018-05-10,,2018-09-15,,V6,4 months,,230_V6,3,6,10,128.0,Home,3528187,True
+113_V6,Primary in Tube,108,,,"Box 9, F6",Stool,Human Infant,MetaG,113,,2018-05-15,,2018-09-28,,V6,4 months,,113_V6,7,2,2,136.0,Clinic,3143737,True
+226_AF1,Primary in Tube,109,,,"Box 10, A1",Stool,Human Infant,MetaG,226,,2018-05-03,,2018-10-22,,AF1,,,226_AF1,5,5,5,172.0,Clinic,3058698,True
+214_V7,Primary in Tube,110,,,"Box 10, A2",Stool,Human Infant,MetaG,214,,2018-04-04,,2018-09-28,,V7,6 months,,214_V7,4,7,6,177.0,Home,8749800,True
+203_S3,Primary in Tube,111,,,"Box 10, A3",Stool,Human Infant,MetaG,203,,2018-02-28,,2018-10-03,,S3,,,203_S3,1,5,5,217.0,Home,2649849,True
+228_S1,Primary in Tube,112,,,"Box 10, A4",Stool,Human Infant,MetaG,228,,2018-05-07,,2018-10-19,,S1,,,228_S1,8,4,1,165.0,Home,2429318,False
+226_A1,Primary in Tube,113,,,"Box 10, A5",Stool,Human Infant,MetaG,226,,2018-05-03,,2018-10-15,,A1,,,226_A1,5,5,6,165.0,Home,2492586,False
+220_V7,Primary in Tube,114,,,"Box 10, A6",Stool,Human Infant,MetaG,220,,2018-04-13,,2018-10-16,,V7,6 months,,220_V7,2,1,6,186.0,Home,11024821,True
+235_V5,Primary in Tube,115,,,"Box 10, B1",Stool,Human Infant,MetaG,235,,2018-06-13,,2018-08-17,,V5,2 months,,235_V5,8,5,5,65.0,Home,6157746,True
+221_V7,Primary in Tube,116,,,"Box 10, B2",Stool,Human Infant,MetaG,221,,2018-04-16,,2018-10-18,,V7,6 months,,221_V7,3,5,10,185.0,Clinic,4571236,True
+226_S1,Primary in Tube,117,,,"Box 10, B3",Stool,Human Infant,MetaG,226,,2018-05-03,,2018-10-09,,S1,,,226_S1,5,5,7,159.0,Clinic,2248666,False
+117_V6,Primary in Tube,118,,,"Box 10, B4",Stool,Human Infant,MetaG,117,,2018-06-10,,2018-10-24,,V6,4 months,,117_V6,8,7,10,136.0,Home,1999845,False
+108_S1,Primary in Tube,119,,,"Box 10, B5",Stool,Human Infant,MetaG,108,,2018-03-28,,2018-10-29,,S1,,,108_S1,3,1,6,215.0,Home,5169535,True
+230_V7,Primary in Tube,120,,,"Box 10, B6",Stool,Human Infant,MetaG,230,,2018-05-10,,2018-11-19,,V7,6 months,,230_V7,3,6,11,193.0,Home,3939895,True
+106_V6,Primary in Tube,121,,,"Box 10, C1",Stool,Human Infant,MetaG,106,,2018-03-27,,2018-08-07,,V6,4 months,,106_V6,5,2,3,133.0,Home,2865748,True
+212_S1,Primary in Tube,122,,,"Box 10, C2",Stool,Human Infant,MetaG,212,,2018-03-18,,2018-11-02,,S1,,,212_S1,4,6,9,229.0,Home,9251663,True
+228_S2,Primary in Tube,123,,,"Box 10, C3",Stool,Human Infant,MetaG,228,,2018-05-07,,2018-11-01,,S2,,,228_S2,8,4,2,178.0,Clinic,891806,False
+228_V7,Primary in Tube,124,,,"Box 10, C4",Stool,Human Infant,MetaG,228,,2018-05-07,,2018-11-14,,V7,6 months,,228_V7,8,4,3,191.0,Home,4075916,True
+212_V7,Primary in Tube,125,,,"Box 10, C5",Stool,Human Infant,MetaG,212,,2018-03-18,,2018-09-24,,V7,6 months,,212_V7,4,6,10,190.0,Home,11468071,True
+108_V7,Primary in Tube,126,,,"Box 10, C6",Stool,Human Infant,MetaG,108,,2018-03-28,,2018-10-05,,V7,6 months,,108_V7,3,1,7,191.0,Home,3525503,True
+217_V7,Primary in Tube,127,,,"Box 10, D1",Stool,Human Infant,MetaG,217,,2018-04-08,,2018-11-02,,V7,6 months,,217_V7,5,6,9,208.0,Clinic,3663127,True
+201_A1,Primary in Tube,128,,,"Box 10, D2",Stool,Human Infant,MetaG,201,,2018-02-22,,2018-11-27,,A1,,,201_A1,5,2,10,278.0,Home,2653193,True
+203_V8,Primary in Tube,129,,,"Box 10, D3",Stool,Human Infant,MetaG,203,,2018-02-28,,2018-11-29,,V8,9 months,,203_V8,1,5,6,274.0,Clinic,2243552,False
+233_V7,Primary in Tube,130,,,"Box 10, D4",Stool,Human Infant,MetaG,233,,2018-05-21,,2018-11-26,,V7,6 months,,233_V7,8,1,3,189.0,Home,3960647,True
+110_V7,Primary in Tube,131,,,"Box 10, D5",Stool,Human Infant,MetaG,110,,2018-05-07,,2018-11-12,,V7,6 months,,110_V7,3,7,4,189.0,Clinic,2403208,False
+215_V7,Primary in Tube,132,,,"Box 10, D6",Stool,Human Infant,MetaG,215,,2018-03-29,,2018-10-03,,V7,6 months,,215_V7,5,1,5,188.0,Home,2885223,True
+112_V7,Primary in Tube,133,,,"Box 10, E2",Stool,Human Infant,MetaG,112,,2018-05-03,,2018-11-29,,V7,6 months,,112_V7,6,5,5,210.0,Home,6404901,True
+204_V8,Primary in Tube,134,,,"Box 10, E3",Stool,Human Infant,MetaG,204,,2018-02-26,,2018-11-26,,V8,9 months,,204_V8,3,3,11,273.0,Clinic,2284894,False
+232_V6,Primary in Tube,135,,,"Box 10, E4",Stool,Human Infant,MetaG,232,,2018-05-14,,2018-09-25,,V6,4 months,,232_V6,3,4,12,134.0,Home,3846565,True
+116_V7,Primary in Tube,136,,,"Box 10, E5",Stool,Human Infant,MetaG,116,,2018-05-26,,2018-11-25,,V7,6 months,,116_V7,6,4,5,183.0,Home,7115280,True
+217_S3,Primary in Tube,137,,,"Box 10, E6",Stool,Human Infant,MetaG,217,,2018-04-08,,2018-11-25,,S3,,,217_S3,5,6,10,231.0,Home,3153203,True
+202_V7,Primary in Tube,138,,,"Box 10, F1",Stool,Human Infant,MetaG,202,,2018-02-27,,2018-09-26,,V7,6 months,,202_V7,7,2,9,211.0,Home,1787239,False
+205_V8,Primary in Tube,139,,,"Box 10, F2",Stool,Human Infant,MetaG,205,,2018-02-28,,2018-11-29,,V8,9 months,,205_V8,7,4,8,274.0,Clinic,136284,False
+219_V7,Primary in Tube,140,,,"Box 10, F3",Stool,Human Infant,MetaG,219,,2018-04-10,,2018-11-18,,V7,6 months,,219_V7,5,3,10,222.0,Home,2354586,False
+201_A1_2,Primary in Tube,141,,,"Box 10, F4",Stool,Human Infant,MetaG,201,,2018-02-22,,2018-11-28,,A1-2,,,201_A1-2,5,2,11,279.0,Home,2475909,False
+202_V2,Primary in Tube,142,,,"Box 10, F5",Stool,Human Infant,MetaG,202,,2018-02-27,,2018-03-05,,V2,7-13 days,,202_V2,7,2,10,6.0,Clinic,3703498,True
+205_V2,Primary in Tube,143,,,"Box 10, F6",Stool,Human Infant,MetaG,205,,2018-02-28,,2018-03-08,,V2,7-13 days,,205_V2,7,4,9,8.0,Clinic,3117007,True
+203_V1,Primary in Tube,144,,,"Box 11, A1",Stool,Human Infant,MetaG,203,,2018-02-28,,2018-03-05,,V1,1-6 days,,203_V1,1,5,7,5.0,Clinic,4380906,True
+208_V2,Primary in Tube,145,,,"Box 11, A2",Stool,Human Infant,MetaG,208,,2018-03-07,,2018-03-19,,V2,7-13 days,,208_V2,7,7,5,12.0,Home,8399464,True
+204_V2,Primary in Tube,146,,,"Box 11, A3",Stool,Human Infant,MetaG,204,,2018-02-26,,2018-03-07,,V2,7-13 days,,204_V2,3,3,12,9.0,Home,4728651,True
+210_V2,Primary in Tube,147,,,"Box 11, A4",Stool,Human Infant,MetaG,210,,2018-03-10,,2018-03-21,,V2,7-13 days,,210_V2,7,7,9,11.0,Home,4568672,True
+201_V2,Primary in Tube,148,,,"Box 11, A5",Stool,Human Infant,MetaG,201,,2018-02-22,,2018-03-05,,V2,7-13 days,,201_V2,5,2,12,11.0,Home,2731504,True
+103_V3,Primary in Tube,149,,,"Box 11, A6",Stool,Human Infant,MetaG,103,,2018-02-21,,2018-03-07,,V3,2 weeks,,103_V3,3,6,12,14.0,Clinic,2195543,False
+203_V3,Primary in Tube,150,,,"Box 11, B1",Stool,Human Infant,MetaG,203,,2018-02-28,,2018-03-15,,V3,2 weeks,,203_V3,1,5,8,15.0,Clinic,4019552,True
+209_V2,Primary in Tube,151,,,"Box 11, B2",Stool,Human Infant,MetaG,209,,2018-03-14,,2018-03-21,,V2,7-13 days,,209_V2,4,1,4,7.0,Home,10402002,True
+212_V2,Primary in Tube,152,,,"Box 11, B3",Stool,Human Infant,MetaG,212,,2018-03-18,,2018-03-26,,V2,7-13 days,,212_V2,4,6,11,8.0,Clinic,6355956,True
+201_V4,Primary in Tube,153,,,"Box 11, B4",Stool,Human Infant,MetaG,201,,2018-02-22,,2018-03-22,,V4,1 month,,201_V4,5,3,1,28.0,Home,5428876,True
+206_V1,Primary in Tube,154,,,"Box 11, B5",Stool,Human Infant,MetaG,206,,2018-03-09,,2018-03-12,,V1,1-6 days,,206_V1,1,8,2,3.0,Clinic,2395145,False
+117_V7,Primary in Tube,155,,,"Box 11, B6",Stool,Human Infant,MetaG,117,,2018-06-10,,2018-12-27,,V7,6 months,,117_V7,8,7,11,200.0,Home,3000373,True
+107_S2,Primary in Tube,156,,,"Box 11, C1",Stool,Human Infant,MetaG,107,,2018-04-02,,2019-01-04,,S2,,,107_S2,7,3,10,277.0,Clinic,4005806,True
+108_S2,Primary in Tube,157,,,"Box 11, C2",Stool,Human Infant,MetaG,108,,2018-03-28,,2018-12-12,,S2,,,108_S2,3,1,8,259.0,Home,2508540,True
+106_V7,Primary in Tube,158,,,"Box 11, C3",Stool,Human Infant,MetaG,106,,2018-03-27,,2018-11-03,,V7,6 months,,106_V7,5,2,4,221.0,Home,4220092,True
+112_V8,Primary in Tube,159,,,"Box 11, C4",Stool,Human Infant,MetaG,112,,2018-05-03,,2019-02-04,,V8,9 months,,112_V8,6,5,6,277.0,Clinic,6441145,True
+107_S1,Primary in Tube,160,,,"Box 11, C5",Stool,Human Infant,MetaG,107,,2018-04-02,,2018-09-21,,S1,,,107_S1,7,3,11,172.0,Home,2651328,True
+107_V7,Primary in Tube,161,,,"Box 11, C6",Stool,Human Infant,MetaG,107,,2018-04-02,,2018-10-19,,V7,6 months,,107_V7,7,3,12,200.0,Home,6141609,True
+106_S_1,Primary in Tube,162,,,"Box 11, D1",Stool,Human Infant,MetaG,106,,2018-03-27,,2019-01-09,,S-1,,,106_S-1,5,2,5,288.0,Home,4289923,True
+112_S_1,Primary in Tube,163,,,"Box 11, D2",Stool,Human Infant,MetaG,112,,2018-05-03,,2018-12-20,,S-1,,,112_S-1,6,5,7,231.0,Home,4228750,True
+215_V8,Primary in Tube,164,,,"Box 11, D3",Stool,Human Infant,MetaG,215,,2018-03-29,,2019-01-12,,V8,9 months,,215_V8,5,1,6,289.0,Home,4134902,True
+227_S1,Primary in Tube,165,,217_S1_S,"Box 11, D4",Stool,Human Infant,MetaG,227,,2018-04-30,,2018-12-14,,S1,,,227_S1,1,6,6,228.0,Home,3925829,True
+206_V8,Primary in Tube,166,,,"Box 11, D5",Stool,Human Infant,MetaG,206,,2018-03-09,,2018-12-13,,V8,9 months,,206_V8,1,8,3,279.0,Clinic,3589372,True
+219_V8,Primary in Tube,167,,,"Box 11, D6",Stool,Human Infant,MetaG,219,,2018-04-10,,2019-01-23,,V8,9 months,,219_V8,5,3,11,288.0,Home,3399114,True
+227_V7,Primary in Tube,168,,,"Box 11, E1",Stool,Human Infant,MetaG,227,,2018-04-30,,2018-10-30,,V7,6 months,,227_V7,1,6,7,183.0,Home,4386444,True
+232_V7,Primary in Tube,169,,,"Box 11, E2",Stool,Human Infant,MetaG,232,,2018-05-14,,2018-11-21,,V7,6 months,,232_V7,3,5,1,191.0,Home,7061491,True
+212_V8,Primary in Tube,170,,,"Box 11, E3",Stool,Human Infant,MetaG,212,,2018-03-18,,2018-12-20,,V8,9 months,,212_V8,4,6,12,277.0,Home,17577592,True
+229_V7,Primary in Tube,171,,,"Box 11, E4",Stool,Human Infant,MetaG,229,,2018-04-29,,2018-12-11,,V7,6 months,,229_V7,7,8,1,226.0,Home,2632322,True
+217_V8,Primary in Tube,172,,,"Box 11, E5",Stool,Human Infant,MetaG,217,,2018-04-08,,2019-01-10,,V8,9 months,,217_V8,5,6,11,277.0,Clinic,1490931,False
+201_AF1,Primary in Tube,173,,,"Box 11, E6",Stool,Human Infant,MetaG,201,,2018-02-22,,2018-12-13,,AF1,,,201_AF1,5,3,2,294.0,Home,2962385,True
+231_V7,Primary in Tube,174,,,"Box 11, F1",Stool,Human Infant,MetaG,231,,2018-05-09,,2018-11-22,,V7,6 months,,231_V7,1,7,10,197.0,Home,4087987,True
+225_V7,Primary in Tube,175,,,"Box 11, F2",Stool,Human Infant,MetaG,225,,2018-04-30,,2018-12-01,,V7,6 months,,225_V7,1,1,5,215.0,Home,3650675,True
+209_V7,Primary in Tube,176,,,"Box 11, F3",Stool,Human Infant,MetaG,209,,2018-03-14,,2018-09-30,,V7,6 months,,209_V7,4,1,5,200.0,Home,7876781,True
+201_S1,Primary in Tube,177,,,"Box 11, F4",Stool,Human Infant,MetaG,201,,2018-02-22,,2018-12-31,,S1,,,201_S1,5,3,3,312.0,Home,2875487,True
+235_V7,Primary in Tube,178,,,"Box 11, F5",Stool,Human Infant,MetaG,235,,2018-06-13,,2018-12-19,,V7,6 months,,235_V7,8,5,6,189.0,Home,3613111,True
+235_V6,Primary in Tube,179,,,"Box 11, F6",Stool,Human Infant,MetaG,235,,2018-06-13,,2018-10-19,,V6,4 months,,235_V6,8,5,7,128.0,Home,4606585,True
+226_V7,Primary in Tube,180,,,"Box 12, A1",Stool,Human Infant,MetaG,226,,2018-05-03,,2018-12-07,,V7,6 months,,226_V7,5,5,8,218.0,Home,3342479,True
+110_V8,Primary in Tube,181,,,"Box 12, A2",Stool,Human Infant,MetaG,110,,2018-05-07,,2019-02-18,,V8,9 months,,110_V8,3,7,5,287.0,Home,3780209,True
+227_V8,Primary in Tube,182,,,"Box 12, A3",Stool,Human Infant,MetaG,227,,2018-04-30,,2019-01-30,,V8,9 months,,227_V8,1,6,8,275.0,Home,4318402,True
+114_V7,Primary in Tube,183,,,"Box 12, A4",Stool,Human Infant,MetaG,114,,2018-05-21,,2018-12-04,,V7,6 months,,114_V7,3,8,2,197.0,Home,3387947,True
+223_V8,Primary in Tube,184,,,"Box 12, A5",Stool,Human Infant,MetaG,223,,2018-04-27,,2019-02-26,,V8,9 months,,223_V8,1,5,11,305.0,Clinic,3478043,True
+227_V9,Primary in Tube,185,,,"Box 12, A6",Stool,Human Infant,MetaG,227,,2018-04-30,,2019-04-26,,V9,12 months,,227_V9,1,6,9,361.0,Home,5278750,True
+103_V9,Primary in Tube,186,,,"Box 12, B1",Stool,Human Infant,MetaG,103,,2018-02-21,,2019-02-22,,V9,12 months,,103_V9,3,7,1,366.0,Clinic,4607220,True
+107_A1,Primary in Tube,187,,,"Box 12, B2",Stool,Human Infant,MetaG,107,,2018-04-02,,2019-04-15,,A1,,,107_A1,7,4,1,378.0,Home,5160111,True
+106_A1,Primary in Tube,188,,,"Box 12, B3",Stool,Human Infant,MetaG,106,,2018-03-27,,2019-01-16,,A1,,,106_A1,5,2,6,295.0,Home,7509027,True
+202_V9,Primary in Tube,189,,,"Box 12, B4",Stool,Human Infant,MetaG,202,,2018-02-27,,2019-03-20,,V9,12 months,,202_V9,7,2,11,386.0,Home,3477394,True
+107_V9,Primary in Tube,190,,,"Box 12, B5",Stool,Human Infant,MetaG,107,,2018-04-02,,2019-04-06,,V9,12 months,,107_V9,7,4,2,369.0,Home,4780427,True
+221_V8,Primary in Tube,191,,,"Box 12, B6",Stool,Human Infant,MetaG,221,,2018-04-16,,2019-01-24,,V8,9 months,,221_V8,3,5,11,283.0,Home,4650522,True
+227_A1,Primary in Tube,192,,,"Box 12, C1",Stool,Human Infant,MetaG,227,,2018-04-30,,2019-03-29,,A1,,,227_A1,1,6,10,333.0,Home,4935849,True
+235_S2F,Primary in Tube,193,,,"Box 12, C2",Stool,Human Infant,MetaG,235,,2018-06-13,,2019-04-20,,S2F,,,235_S2F,8,5,8,311.0,Home,4270840,True
+217_S5,Primary in Tube,194,,,"Box 12, C3",Stool,Human Infant,MetaG,217,,2018-04-08,,2019-04-09,,S5,,,217_S5,5,6,12,366.0,Home,3267774,True
+113_V8,Primary in Tube,195,,,"Box 12, C4",Stool,Human Infant,MetaG,113,,2018-05-15,,2019-03-16,,V8,9 months,,113_V8,7,2,3,305.0,Home,3760775,True
+114_V8,Primary in Tube,196,,,"Box 12, C5",Stool,Human Infant,MetaG,114,,2018-05-21,,2019-03-01,,V8,9 months,,114_V8,3,8,3,284.0,Home,4464703,True
+235_S2,Primary in Tube,197,,,"Box 12, C6",Stool,Human Infant,MetaG,235,,2018-06-13,,2019-04-10,,S2,,,235_S2,8,5,9,301.0,Home,4040840,True
+107_S3,Primary in Tube,198,,,"Box 12, D1",Stool,Human Infant,MetaG,107,,2018-04-02,,2019-01-11,,S3,,,107_S3,7,4,3,284.0,Home,5673446,True
+215_S1,Primary in Tube,199,,,"Box 12, D2",Stool,Human Infant,MetaG,215,,2018-03-29,,2019-02-12,,S1,,,215_S1,5,1,7,320.0,Home,2368498,False
+215_V9,Primary in Tube,200,,,"Box 12, D3",Stool,Human Infant,MetaG,215,,2018-03-29,,2019-03-29,,V9,12 months,,215_V9,5,1,8,365.0,Clinic,3064869,True
+107_V8,Primary in Tube,201,,,"Box 12, D4",Stool,Human Infant,MetaG,107,,2018-04-02,,2019-02-23,,V8,9 months,,107_V8,7,4,4,327.0,Home,5022068,True
+201_S3,Primary in Tube,202,,,"Box 12, D5",Stool,Human Infant,MetaG,201,,2018-02-22,,2019-04-01,,S3,,,201_S3,5,3,4,403.0,Home,4265738,True
+220_V8,Primary in Tube,203,,,"Box 12, D6",Stool,Human Infant,MetaG,220,,2018-04-13,,2019-01-15,,V8,9 months,,220_V8,2,1,7,277.0,Home,8548350,True
+235_V8,Primary in Tube,204,,,"Box 12, E1",Stool,Human Infant,MetaG,235,,2018-06-13,,2019-03-23,,V8,9 months,,235_V8,8,5,10,283.0,Home,5094066,True
+228_V8,Primary in Tube,205,,,"Box 12, E2",Stool,Human Infant,MetaG,228,,2018-05-07,,2019-02-11,,V8,9 months,,228_V8,8,4,4,280.0,Home,5133195,True
+220_S2,Primary in Tube,206,,,"Box 12, E3",Stool,Human Infant,MetaG,220,,2018-04-13,,2019-03-14,,S2,,,220_S2,2,1,8,335.0,Home,8867076,True
+106_AF1,Primary in Tube,207,,,"Box 12, E4",Stool,Human Infant,MetaG,106,,2018-03-27,,2019-02-22,,AF1,,,106_AF1,5,2,7,332.0,Home,1900827,False
+212_V9,Primary in Tube,208,,,"Box 12, E5",Stool,Human Infant,MetaG,212,,2018-03-18,,2019-03-21,,V9,12 months,,212_V9,4,7,1,368.0,Clinic,9894978,True
+210_V9,Primary in Tube,209,,,"Box 12, E6",Stool,Human Infant,MetaG,210,,2018-03-10,,2019-03-11,,V9,12 months,,210_V9,7,7,10,366.0,Clinic,3361551,True
+211_V9,Primary in Tube,210,,,"Box 12, F1",Stool,Human Infant,MetaG,211,,2018-03-11,,2019-03-14,,V9,12 months,,211_V9,1,4,10,368.0,Home,3067106,True
+214_V9,Primary in Tube,211,,,"Box 12, F2",Stool,Human Infant,MetaG,214,,2018-04-04,,2019-03-06,,V9,12 months,,214_V9,4,7,7,336.0,Home,12454294,True
+208_V8,Primary in Tube,212,,,"Box 12, F3",Stool,Human Infant,MetaG,208,,2018-03-07,,2018-12-10,,V8,9 months,,208_V8,7,7,6,278.0,Home,3920754,True
+117_S1,Primary in Tube,213,,,"Box 12, F4",Stool,Human Infant,MetaG,117,,2018-06-10,,2019-02-19,,S1,,,117_S1,8,7,12,254.0,Home,5276859,True
+117_V8,Primary in Tube,214,,,"Box 12, F5",Stool,Human Infant,MetaG,117,,2018-06-10,,2019-03-27,,V8,9 months,,117_V8,8,8,1,290.0,Clinic,4952408,True
+205_V9,Primary in Tube,215,,,"Box 12, F6",Stool,Human Infant,MetaG,205,,2018-02-28,,2019-03-06,,V9,12 months,,205_V9,7,4,10,371.0,Clinic,4020443,True
+235_S1,Primary in Tube,216,,,"Box 13, A1",Stool,Human Infant,MetaG,235,,2018-06-13,,2019-03-02,,S1,,,235_S1,8,5,11,262.0,Home,3435376,True
+227_A1F,Primary in Tube,217,,,"Box 13, A2",Stool,Human Infant,MetaG,227,,2018-04-30,,2019-04-11,,A1F,,,227_A1F,1,6,11,346.0,Home,2729579,True
+116_V8,Primary in Tube,218,,,"Box 13, A3",Stool,Human Infant,MetaG,116,,2018-05-26,,2019-03-11,,V8,9 months,,116_V8,6,4,6,289.0,Home,4641040,True
+233_V8,Primary in Tube,219,,,"Box 13, A4",Stool,Human Infant,MetaG,233,,2018-05-21,,2019-02-26,,V8,9 months,,233_V8,8,1,4,281.0,Home,4100058,True
+202_A1,Primary in Tube,220,,,"Box 13, A5",Stool,Human Infant,MetaG,202,,2018-02-27,,2019-04-19,,A1,,,202_A1,7,2,12,416.0,Home,2189112,False
+112_V9,Primary in Tube,221,,,"Box 13, A6",Stool,Human Infant,MetaG,112,,2018-05-03,,2019-05-14,,V9,12 months,,112_V9,6,5,8,376.0,Home,3189307,True
+109_S4F,Primary in Tube,222,,,"Box 13, B1",Stool,Human Infant,MetaG,109,,2018-04-17,,2019-05-14,,S4F,,,109_S4F,6,7,5,392.0,Home,7267302,True
+112_A1,Primary in Tube,223,,,"Box 13, B2",Stool,Human Infant,MetaG,112,,2018-05-03,,2019-04-30,,A1,,,112_A1,6,5,9,362.0,Home,3369083,True
+231_V9,Primary in Tube,224,,,"Box 13, B3",Stool,Human Infant,MetaG,231,,2018-05-09,,2019-04-20,,V9,12 months,,231_V9,1,7,11,346.0,Home,3463994,True
+103_S1,Primary in Tube,225,,,"Box 13, B4",Stool,Human Infant,MetaG,103,,2018-02-21,,2019-05-15,,S1,,,103_S1,3,7,2,448.0,Home,3691315,True
+108_S4,Primary in Tube,226,,,"Box 13, B5",Stool,Human Infant,MetaG,108,,2018-03-28,,2019-04-15,,S4,,,108_S4,3,1,9,383.0,Home,1741605,False
+108_S4F_1,Primary in Tube,227,,,"Box 13, B6",Stool,Human Infant,MetaG,108,,2018-03-28,,2019-04-28,,S4F,,,108_S4F_1,3,1,10,396.0,Home,2581933,True
+108_S4F_2,Primary in Tube,228,,,"Box 13, B6",Stool,Human Infant,MetaG,108,,2018-03-28,,2019-04-28,,S4F,,,108_S4F_2,3,1,11,396.0,Home,3389027,True
+108_V9,Primary in Tube,229,,,"Box 13, C1",Stool,Human Infant,MetaG,108,,2018-03-28,,2019-04-05,,V9,12 months,,108_V9,3,1,12,373.0,Home,4485600,True
+110_V9,Primary in Tube,230,,,"Box 13, C2",Stool,Human Infant,MetaG,110,,2018-05-07,,2019-05-17,,V9,12 months,,110_V9,3,7,6,375.0,Clinic,2057833,False
+223_A1,Primary in Tube,231,,,"Box 13, C3",Stool,Human Infant,MetaG,223,,2018-04-27,,2019-06-11,,A1,,,223_A1,1,5,12,410.0,Home,2624239,True
+223_V9,Primary in Tube,232,,,"Box 13, C4",Stool,Human Infant,MetaG,223,,2018-04-27,,2019-04-30,,V9,12 months,,223_V9,1,6,1,368.0,Home,3598759,True
+205_V10,Primary in Tube,233,,,"Box 13, C5",Stool,Human Infant,MetaG,205,,2018-02-28,,2019-06-28,,V10,15 months,,205_V10,7,4,11,485.0,Home,4914592,True
+235_V9,Primary in Tube,234,,,"Box 13, C6",Stool,Human Infant,MetaG,235,,2018-06-13,,2019-06-18,,V9,12 months,,235_V9,8,5,12,370.0,Home,4698125,True
+219_V9,Primary in Tube,235,,,"Box 13, D1",Stool,Human Infant,MetaG,219,,2018-04-10,,2019-05-29,,V9,12 months,,219_V9,5,3,12,414.0,Clinic,2230519,False
+117_V9,Primary in Tube,236,,,"Box 13, D2",Stool,Human Infant,MetaG,117,,2018-06-10,,2019-06-21,,V9,12 months,,117_V9,8,8,2,376.0,Home,3891551,True
+221_V9,Primary in Tube,237,,,"Box 13, D3",Stool,Human Infant,MetaG,221,,2018-04-16,,2019-04-22,,V9,12 months,,221_V9,3,5,12,371.0,Home,3438288,True
+217_S6F,Primary in Tube,238,,,"Box 13, D4",Stool,Human Infant,MetaG,217,,2018-04-08,,2019-06-30,,S6F,,,217_S6F,5,7,1,448.0,Home,5518787,True
+209_V9,Primary in Tube,239,,,"Box 13, D5",Stool,Human Infant,MetaG,209,,2018-03-14,,2019-03-22,,V9,12 months,,209_V9,4,1,6,373.0,Home,10105679,True
+201_S4,Primary in Tube,240,,,"Box 13, D6",Stool,Human Infant,MetaG,201,,2018-02-22,,2019-04-12,,S4,,,201_S4,5,3,5,414.0,Home,3931190,True
+103_V10,Primary in Tube,241,,,"Box 13, E1",Stool,Human Infant,MetaG,103,,2018-02-21,,2019-05-23,,V10,15 months,,103_V10,3,7,3,456.0,Clinic,5015207,True
+201_S4F,Primary in Tube,242,,,"Box 13, E2",Stool,Human Infant,MetaG,201,,2018-02-22,,2019-04-18,,S4F,,,201_S4F,5,3,6,420.0,Home,2463786,False
+228_S3,Primary in Tube,243,,,"Box 13, E3",Stool,Human Infant,MetaG,228,,2018-05-07,,2019-05-24,,S3,,,228_S3,8,4,5,382.0,Clinic,5051228,True
+228_A1F,Primary in Tube,244,,,"Box 13, E4",Stool,Human Infant,MetaG,228,,2018-05-07,,2019-05-22,,A1F,,,228_A1F,8,4,6,380.0,Home,4928920,True
+233_A3F,Primary in Tube,245,,,"Box 13, E5",Stool,Human Infant,MetaG,233,,2018-05-21,,2019-05-11,,A3F,,,233_A3F,8,1,5,355.0,Home,3761322,True
+228_V9,Primary in Tube,246,,,"Box 13, E6",Stool,Human Infant,MetaG,228,,2018-05-07,,2019-05-09,,V9,12 months,,228_V9,8,4,7,367.0,Clinic,4207238,True
+228_A1,Primary in Tube,247,,,"Box 13, F1",Stool,Human Infant,MetaG,228,,2018-05-07,,2019-05-06,,A1,,,228_A1,8,4,8,364.0,Home,2293519,False
+204_V10,Primary in Tube,248,,,"Box 13, F2",Stool,Human Infant,MetaG,204,,2018-02-26,,2019-05-27,,V10,15 months,,204_V10,3,4,1,455.0,Home,4625477,True
+211_V10,Primary in Tube,249,,,"Box 13, F3",Stool,Human Infant,MetaG,211,,2018-03-11,,2019-06-14,,V10,15 months,,211_V10,1,4,11,460.0,Clinic,2842340,True
+208_V9,Primary in Tube,250,,,"Box 13, F4",Stool,Human Infant,MetaG,208,,2018-03-07,,2019-03-26,,V9,12 months,,208_V9,7,7,7,384.0,Home,4253765,True
+226_A2,Primary in Tube,251,,,"Box 13, F5",Stool,Human Infant,MetaG,226,,2018-05-03,,2019-05-25,,A2,,,226_A2,5,5,9,387.0,Home,1967897,False
+108_S5,Primary in Tube,252,,,"Box 13, F6",Stool,Human Infant,MetaG,108,,2018-03-28,,2019-05-19,,S5,,,108_S5,3,2,1,417.0,Home,2652876,True
+108_S5F,Primary in Tube,253,,,"Box 14, A1",Stool,Human Infant,MetaG,108,,2018-03-28,,2019-06-04,,S5F,,,108_S5F,3,2,2,433.0,Home,3901219,True
+217_V9,Primary in Tube,254,,,"Box 14, A2",Stool,Human Infant,MetaG,217,,2018-04-08,,2019-04-24,,V9,12 months,,217_V9,5,7,2,381.0,Home,3783324,True
+208_V10,Primary in Tube,255,,,"Box 14, A3",Stool,Human Infant,MetaG,208,,2018-03-07,,2019-06-10,,V10,15 months,,208_V10,7,7,8,460.0,Home,5932979,True
+108_V8,Primary in Tube,256,,,"Box 14, A4",Stool,Human Infant,MetaG,108,,2018-03-28,,2019-01-05,,V8,9 months,,108_V8,3,2,3,283.0,Home,1973395,False
+108_S3,Primary in Tube,257,,,"Box 14, A5",Stool,Human Infant,MetaG,108,,2018-03-28,,2019-01-23,,S3,,,108_S3,3,2,4,301.0,Home,5431732,True
+239_V1,Primary in Tube,258,,,Box1,Stool,Human Infant,MetaG,239,,2018-06-24,,2018-06-29,,V1,1-6 days,,239_V1,1,2,6,5.0,Home,3263748,True
+241_V2,Primary in Tube,259,,,Box1,Stool,Human Infant,MetaG,241,,2018-06-24,,2018-07-06,,V2,7-13 days,,241_V2,1,1,9,12.0,Clinic,3620425,True
+243_V3,Primary in Tube,260,,,Box1,Stool,Human Infant,MetaG,243,,2018-07-11,,2018-07-25,,V3,2 weeks,,243_V3,8,6,8,14.0,Clinic,1352711,False
+125_V2,Primary in Tube,261,,,Box1,Stool,Human Infant,MetaG,125,,2018-08-16,,2018-08-27,,V2,7-13 days,,125_V2,5,6,3,11.0,Clinic,4183340,True
+245_V2,Primary in Tube,262,,,Box1,Stool,Human Infant,MetaG,245,,2018-07-22,,2018-08-01,,V2,7-13 days,,245_V2,2,4,11,10.0,Home,4761469,True
+237_V1,Primary in Tube,263,,,Box1,Stool,Human Infant,MetaG,237,,2018-06-20,,2018-06-25,,V1,1-6 days,,237_V1,8,2,11,5.0,Home,3979081,True
+122_V1,Primary in Tube,264,,,Box1,Stool,Human Infant,MetaG,122,,2018-07-05,,2018-07-09,,V1,1-6 days,,122_V1,7,8,2,4.0,Clinic,3581313,True
+236_V2,Primary in Tube,265,,,Box1,Stool,Human Infant,MetaG,236,,2018-06-12,,2018-06-20,,V2,7-13 days,,236_V2,6,2,8,8.0,Home,2825714,True
+243_V1,Primary in Tube,266,,,Box1,Stool,Human Infant,MetaG,243,,2018-07-11,,2018-07-17,,V1,1-6 days,,243_V1,8,6,9,6.0,Clinic,3909935,True
+238_V1,Primary in Tube,267,,,Box1,Stool,Human Infant,MetaG,238,,2018-06-20,,2018-06-25,,V1,1-6 days,,238_V1,7,1,1,5.0,Home,6357094,True
+121_V1,Primary in Tube,268,,,Box1,Stool,Human Infant,MetaG,121,,2018-06-30,,2018-07-05,,V1,1-6 days,,121_V1,3,6,2,5.0,Home,3065489,True
+122_V3,Primary in Tube,269,,,Box1,Stool,Human Infant,MetaG,122,,2018-07-05,,2018-07-19,,V3,2 weeks,,122_V3,7,8,3,14.0,Clinic,6054680,True
+234_V1,Primary in Tube,270,,,Box1,Stool,Human Infant,MetaG,234,,2018-06-15,,2018-06-19,,V1,1-6 days,,234_V1,4,3,12,4.0,Home,6824743,True
+226_V4,Primary in Tube,271,,,Box1,Stool,Human Infant,MetaG,226,,2018-05-03,,2018-05-30,,V4,1 month,,226_V4,5,5,10,27.0,Home,1389595,False
+120_V2,Primary in Tube,272,,,Box1,Stool,Human Infant,MetaG,120,,2018-06-30,,2018-07-07,,V2,7-13 days,,120_V2,6,4,1,7.0,Home,3483098,True
+238_V3,Primary in Tube,273,,,Box1,Stool,Human Infant,MetaG,238,,2018-06-20,,2018-07-05,,V3,2 weeks,,238_V3,7,1,2,15.0,Home,5321195,True
+237_V3,Primary in Tube,274,,,Box1,Stool,Human Infant,MetaG,237,,2018-06-20,,2018-07-05,,V3,2 weeks,,237_V3,8,2,12,15.0,Home,1543848,False
+118_V3,Primary in Tube,275,,,Box1,Stool,Human Infant,MetaG,118,,2018-06-25,,2018-07-09,,V3,2 weeks,,118_V3,4,1,12,14.0,Clinic,4646645,True
+242_V2,Primary in Tube,276,,,Box1,Stool,Human Infant,MetaG,242,,2018-06-29,,2018-07-11,,V2,7-13 days,,242_V2,7,4,5,12.0,Clinic,2883579,True
+119_V1,Primary in Tube,277,,,Box1,Stool,Human Infant,MetaG,119,,2018-06-30,,2018-07-02,,V1,1-6 days,,119_V1,7,3,4,2.0,Home,4340112,True
+236_V3,Primary in Tube,278,,,Box1,Stool,Human Infant,MetaG,236,,2018-06-12,,2018-06-26,,V3,2 weeks,,236_V3,6,2,9,14.0,Home,3212343,True
+118_V6,Primary in Tube,279,,,Box2,Stool,Human Infant,MetaG,118,,2018-06-25,,2018-10-27,,V6,4 months,,118_V6,4,2,1,124.0,Home,12095116,True
+247_V3,Primary in Tube,280,,,Box2,Stool,Human Infant,MetaG,247,,2018-08-24,,2018-09-12,,V3,2 weeks,,247_V3,6,1,1,19.0,Home,2675612,True
+253_V2,Primary in Tube,281,,,Box2,Stool,Human Infant,MetaG,253,,2018-09-27,,2018-10-05,,V2,7-13 days,,253_V2,6,2,2,8.0,Home,3976768,True
+236_V6,Primary in Tube,282,,,Box2,Stool,Human Infant,MetaG,236,,2018-06-12,,2018-10-06,,V6,4 months,,236_V6,6,2,10,116.0,Home,1540027,False
+247_V1,Primary in Tube,283,,,Box2,Stool,Human Infant,MetaG,247,,2018-08-24,,2018-08-29,,V1,1-6 days,,247_V1,6,1,2,5.0,Home,5723098,True
+127_V1,Primary in Tube,284,,,Box2,Stool,Human Infant,MetaG,127,,2018-08-31,,2018-09-04,,V1,1-6 days,,127_V1,9,1,1,4.0,Home,15128797,True
+257_V2,Primary in Tube,285,,,Box2,Stool,Human Infant,MetaG,257,,2018-10-12,,2018-10-24,,V2,7-13 days,,257_V2,5,7,6,12.0,Clinic,2848089,True
+256_V2,Primary in Tube,286,,,Box2,Stool,Human Infant,MetaG,256,,2018-10-02,,2018-10-15,,V2,7-13 days,,256_V2,3,7,10,13.0,Clinic,2967533,True
+123_V4,Primary in Tube,287,,,Box2,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-08-14,,V4,1 month,,123_V4,2,1,11,37.0,Home,8517218,True
+254_V2,Primary in Tube,288,,,Box2,Stool,Human Infant,MetaG,254,,2018-09-28,,2018-10-09,,V2,7-13 days,,254_V2,1,3,6,11.0,Clinic,3042208,True
+252_V5,Primary in Tube,289,,,Box2,Stool,Human Infant,MetaG,252,,2018-09-06,,2018-11-19,,V5,2 months,,252_V5,9,4,1,74.0,Home,10231839,True
+236_V5,Primary in Tube,290,,,Box2,Stool,Human Infant,MetaG,236,,2018-06-12,,2018-08-15,,V5,2 months,,236_V5,6,2,11,64.0,Home,2789042,True
+238_V6,Primary in Tube,291,,,Box2,Stool,Human Infant,MetaG,238,,2018-06-20,,2018-10-29,,V6,4 months,,238_V6,7,1,3,131.0,Clinic,6600291,True
+129_V5,Primary in Tube,292,,,Box2,Stool,Human Infant,MetaG,129,,2018-09-05,,2018-11-05,,V5,2 months,,129_V5,8,7,3,61.0,Clinic,3927699,True
+121_V5,Primary in Tube,293,,,Box2,Stool,Human Infant,MetaG,121,,2018-06-30,,2018-08-31,,V5,2 months,,121_V5,3,6,3,62.0,Clinic,1028273,False
+240_V6,Primary in Tube,294,,,Box2,Stool,Human Infant,MetaG,240,,2018-06-21,,2018-10-19,,V6,4 months,,240_V6,9,3,6,120.0,Home,10598730,True
+239_V5,Primary in Tube,295,,,Box2,Stool,Human Infant,MetaG,239,,2018-06-24,,2018-08-30,,V5,2 months,,239_V5,1,2,7,67.0,Home,2603341,True
+251_V2,Primary in Tube,296,,,Box2,Stool,Human Infant,MetaG,251,,2018-08-29,,2018-09-11,,V2,7-13 days,,251_V2,9,1,9,13.0,Home,14067971,True
+241_V6,Primary in Tube,297,,,Box2,Stool,Human Infant,MetaG,241,,2018-06-24,,2018-10-24,,V6,4 months,,241_V6,1,1,10,122.0,Home,2836644,True
+244_V3_1,Primary in Tube,298,,,Box2,Stool,Human Infant,MetaG,244,,2018-07-15,,2018-07-30,,V3_1,2 weeks,,244_V3_1,4,2,10,15.0,Home,2848306,True
+255_V3,Primary in Tube,299,,,Box2,Stool,Human Infant,MetaG,255,,2018-09-27,,2018-10-11,,V3,2 weeks,,255_V3,1,7,4,14.0,Home,2086519,False
+250_V2,Primary in Tube,300,,,Box3,Stool,Human Infant,MetaG,250,,2018-09-05,,2018-09-18,,V2,7-13 days,,250_V2,3,5,2,13.0,Home,4817920,True
+234_V3,Primary in Tube,301,,,Box3,Stool,Human Infant,MetaG,234,,2018-06-15,,2018-06-29,,V3,2 weeks,,234_V3,4,4,1,14.0,Home,11656253,True
+245_V4,Primary in Tube,302,,,Box3,Stool,Human Infant,MetaG,245,,2018-07-22,,2018-09-04,,V4,1 month,,245_V4,2,4,12,44.0,Clinic,6478614,True
+244_V3_2,Primary in Tube,303,,,Box3,Stool,Human Infant,MetaG,244,,2018-07-15,,2018-08-06,,V3_2,2 weeks,,244_V3_2,4,2,11,22.0,Home,8625842,True
+249_V2,Primary in Tube,304,,,Box3,Stool,Human Infant,MetaG,249,,2018-08-24,,2018-09-05,,V2,7-13 days,,249_V2,4,4,10,12.0,Home,7648707,True
+246_V2,Primary in Tube,305,,,Box3,Stool,Human Infant,MetaG,246,,2018-07-28,,2018-08-09,,V2,7-13 days,,246_V2,7,5,4,12.0,Home,4954319,True
+252_V2,Primary in Tube,306,,,Box3,Stool,Human Infant,MetaG,252,,2018-09-06,,2018-09-19,,V2,7-13 days,,252_V2,9,4,2,13.0,Clinic,7694913,True
+237_V5,Primary in Tube,307,,,Box3,Stool,Human Infant,MetaG,237,,2018-06-20,,2018-08-09,,V5,2 months,,237_V5,8,3,1,50.0,Clinic,4279818,True
+241_V5,Primary in Tube,308,,,Box3,Stool,Human Infant,MetaG,241,,2018-06-24,,2018-08-28,,V5,2 months,,241_V5,1,1,11,65.0,Home,4409030,True
+123_V2,Primary in Tube,309,,,Box3,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-07-23,,V2,7-13 days,,123_V2,2,1,12,15.0,Home,9228783,True
+246_V1,Primary in Tube,310,,,Box3,Stool,Human Infant,MetaG,246,,2018-07-28,,2018-08-01,,V1,1-6 days,,246_V1,7,5,5,4.0,Clinic,2461750,False
+128_V2,Primary in Tube,311,,,Box3,Stool,Human Infant,MetaG,128,,2018-08-26,,2018-09-05,,V2,7-13 days,,128_V2,8,2,4,10.0,Clinic,4585073,True
+239_V3,Primary in Tube,312,,,Box3,Stool,Human Infant,MetaG,239,,2018-06-24,,2018-07-14,,V3,2 weeks,,239_V3,1,2,8,20.0,Home,3618974,True
+123_V3_1,Primary in Tube,313,,,Box3,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-07-27,,V3_1,2 weeks,,123_V3_1,2,2,1,19.0,Clinic,8572782,True
+123_V1,Primary in Tube,314,,,Box3,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-07-19,,V1,1-6 days,,123_V1,2,2,2,11.0,Home,4268617,True
+240_V2,Primary in Tube,315,,,Box3,Stool,Human Infant,MetaG,240,,2018-06-21,,2018-07-03,,V2,7-13 days,,240_V2,9,3,7,12.0,Home,14091988,True
+238_V4,Primary in Tube,316,,,Box3,Stool,Human Infant,MetaG,238,,2018-06-20,,2018-07-17,,V4,1 month,,238_V4,7,1,4,27.0,Home,5254933,True
+244_V1,Primary in Tube,317,,,Box3,Stool,Human Infant,MetaG,244,,2018-07-15,,2018-07-19,,V1,1-6 days,,244_V1,4,2,12,4.0,Home,11462310,True
+121_V2,Primary in Tube,318,,,Box3,Stool,Human Infant,MetaG,121,,2018-06-30,,2018-07-11,,V2,7-13 days,,121_V2,3,6,4,11.0,Home,4078741,True
+247_V2,Primary in Tube,319,,,Box3,Stool,Human Infant,MetaG,247,,2018-08-24,,2018-09-06,,V2,7-13 days,,247_V2,6,1,3,13.0,Home,4769756,True
+123_V3_2,Primary in Tube,320,,,Box3,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-08-04,,V3_2,2 weeks,,123_V3_2,2,2,3,27.0,Home,7128190,True
+133_V2,Primary in Tube,321,,,Box4,Stool,Human Infant,MetaG,133,,2018-11-19,,2018-11-26,,V2,7-13 days,,133_V2,7,2,4,7.0,Clinic,6383552,True
+260_V1,Primary in Tube,322,,,Box4,Stool,Human Infant,MetaG,260,,2018-11-05,,2018-11-08,,V1,1-6 days,,260_V1,4,5,6,3.0,Home,5612479,True
+133_V3,Primary in Tube,323,,,Box4,Stool,Human Infant,MetaG,133,,2018-11-19,,2018-12-03,,V3,2 weeks,,133_V3,7,2,5,14.0,Clinic,2638701,True
+123_V6,Primary in Tube,324,,,Box4,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-11-08,,V6,4 months,,123_V6,2,2,4,123.0,Home,8511938,True
+234_V5,Primary in Tube,325,,,Box4,Stool,Human Infant,MetaG,234,,2018-06-15,,2018-08-14,,V5,2 months,,234_V5,4,4,2,60.0,Home,15643188,True
+130_V1,Primary in Tube,326,,,Box4,Stool,Human Infant,MetaG,130,,2018-10-27,,2018-10-31,,V1,1-6 days,,130_V1,4,3,1,4.0,Home,18310362,True
+132_V1,Primary in Tube,327,,,Box4,Stool,Human Infant,MetaG,132,,2018-11-18,,2018-11-23,,V1,1-6 days,,132_V1,2,6,6,5.0,Home,11822701,True
+250_S1,Primary in Tube,328,,,Box4,Stool,Human Infant,MetaG,250,,2018-09-05,,2018-11-12,,S1,,,250_S1,3,5,3,68.0,Clinic,3742312,True
+260_V3,Primary in Tube,329,,,Box4,Stool,Human Infant,MetaG,260,,2018-11-05,,2018-11-19,,V3,2 weeks,,260_V3,4,5,7,14.0,Home,11568646,True
+239_V6,Primary in Tube,330,,,Box4,Stool,Human Infant,MetaG,239,,2018-06-24,,2018-10-26,,V6,4 months,,239_V6,1,2,9,124.0,Clinic,3801750,True
+131_V3,Primary in Tube,331,,,Box4,Stool,Human Infant,MetaG,131,,2018-11-08,,2018-11-25,,V3,2 weeks,,131_V3,2,3,5,17.0,Home,11400420,True
+123_V5,Primary in Tube,332,,,Box4,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-09-04,,V5,2 months,,123_V5,2,2,5,58.0,Home,10961326,True
+253_V5,Primary in Tube,333,,,Box4,Stool,Human Infant,MetaG,253,,2018-09-27,,2018-11-28,,V5,2 months,,253_V5,6,2,3,62.0,Clinic,4604230,True
+127_S1,Primary in Tube,334,,,Box4,Stool,Human Infant,MetaG,127,,2018-08-31,,2019-04-07,,S1,,,127_S1,9,1,2,219.0,Home,15645621,True
+247_V5,Primary in Tube,335,,,Box4,Stool,Human Infant,MetaG,247,,2018-08-24,,2018-11-02,,V5,2 months,,247_V5,6,1,4,70.0,Home,5661821,True
+250_V5,Primary in Tube,336,,,Box4,Stool,Human Infant,MetaG,250,,2018-09-05,,2018-11-06,,V5,2 months,,250_V5,3,5,4,62.0,Clinic,4367380,True
+259_V2,Primary in Tube,337,,,Box4,Stool,Human Infant,MetaG,259,,2018-10-26,,2018-11-06,,V2,7-13 days,,259_V2,6,4,7,11.0,Home,3059024,True
+259_V1,Primary in Tube,338,,,Box4,Stool,Human Infant,MetaG,259,,2018-10-26,,2018-10-30,,V1,1-6 days,,259_V1,6,4,8,4.0,Clinic,1372148,False
+132_S1,Primary in Tube,339,,,Box5,Stool,Human Infant,MetaG,132,,2018-11-18,,2019-03-01,,S1,,,132_S1,2,6,7,103.0,Clinic,10972520,True
+246_V5,Primary in Tube,340,,,Box5,Stool,Human Infant,MetaG,246,,2018-07-28,,2018-10-02,,V5,2 months,,246_V5,7,5,6,66.0,Home,5347061,True
+135_V5,Primary in Tube,341,,,Box5,Stool,Human Infant,MetaG,135,,2018-11-26,,2019-01-28,,V5,2 months,,135_V5,1,4,2,63.0,Clinic,2776192,True
+134_V2,Primary in Tube,342,,,Box5,Stool,Human Infant,MetaG,134,,2018-11-22,,2018-12-05,,V2,7-13 days,,134_V2,2,4,2,13.0,Clinic,5500428,True
+134_V3,Primary in Tube,343,,,Box5,Stool,Human Infant,MetaG,134,,2018-11-22,,2018-12-10,,V3,2 weeks,,134_V3,2,4,3,18.0,Home,9628148,True
+128_S1,Primary in Tube,344,,,Box5,Stool,Human Infant,MetaG,128,,2018-08-26,,2019-01-16,,S1,,,128_S1,8,2,5,143.0,Clinic,2531447,True
+130_V2,Primary in Tube,345,,,Box5,Stool,Human Infant,MetaG,130,,2018-10-27,,2018-11-09,,V2,7-13 days,,130_V2,4,3,2,13.0,Home,16798285,True
+135_V2,Primary in Tube,346,,,Box5,Stool,Human Infant,MetaG,135,,2018-11-26,,2018-12-06,,V2,7-13 days,,135_V2,1,4,3,10.0,Clinic,1496332,False
+246_V6,Primary in Tube,347,,,Box5,Stool,Human Infant,MetaG,246,,2018-07-28,,2018-12-03,,V6,4 months,,246_V6,7,5,7,128.0,Home,4533635,True
+118_V7,Primary in Tube,348,,,Box5,Stool,Human Infant,MetaG,118,,2018-06-25,,2018-12-20,,V7,6 months,,118_V7,4,2,2,178.0,Home,6977628,True
+121_V6,Primary in Tube,349,,,Box5,Stool,Human Infant,MetaG,121,,2018-06-30,,2018-10-30,,V6,4 months,,121_V6,3,6,5,122.0,Home,2601151,True
+131_V5,Primary in Tube,350,,,Box5,Stool,Human Infant,MetaG,131,,2018-11-08,,2019-01-08,,V5,2 months,,131_V5,2,3,6,61.0,Home,8891333,True
+136_V2_1,Primary in Tube,351,,,Box5,Stool,Human Infant,MetaG,136,,2018-12-14,,2018-12-26,,V2_1,7-13 days,,136_V2_1,7,6,2,12.0,Home,3180852,True
+245_V6,Primary in Tube,352,,,Box5,Stool,Human Infant,MetaG,245,,2018-07-22,,2018-11-27,,V6,4 months,,245_V6,2,5,1,128.0,Home,9307731,True
+127_V6,Primary in Tube,353,,,Box5,Stool,Human Infant,MetaG,127,,2018-08-31,,2019-01-20,,V6,4 months,,127_V6,9,1,3,142.0,Home,18557168,True
+123_S2F,Primary in Tube,354,,,Box5,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-12-14,,S2F,,,123_S2F,2,2,6,159.0,Clinic,9042488,True
+132_V4,Primary in Tube,355,,,Box5,Stool,Human Infant,MetaG,132,,2018-11-18,,2018-12-19,,V4,1 month,,132_V4,2,6,8,31.0,Home,6604989,True
+132_V5,Primary in Tube,356,,,Box5,Stool,Human Infant,MetaG,132,,2018-11-18,,2019-01-21,,V5,2 months,,132_V5,2,6,9,64.0,Home,9513989,True
+132_V2,Primary in Tube,357,,,Box5,Stool,Human Infant,MetaG,132,,2018-11-18,,2018-11-26,,V2,7-13 days,,132_V2,2,6,10,8.0,Home,11424298,True
+123_S2,Primary in Tube,358,,,Box5,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-12-06,,S2,,,123_S2,2,2,7,151.0,Home,9953690,True
+123_S2F2,Primary in Tube,359,,,Box5,Stool,Human Infant,MetaG,123,,2018-07-08,,2018-12-26,,S2F2,,,123_S2F2,2,2,8,171.0,Home,11512640,True
+136_V4,Primary in Tube,360,,,Box6,Stool,Human Infant,MetaG,136,,2018-12-14,,2019-01-09,,V4,1 month,,136_V4,7,6,3,26.0,Home,4172383,True
+264_V4,Primary in Tube,361,,,Box6,Stool,Human Infant,MetaG,264,,2018-12-04,,2018-12-31,,V4,1 month,,264_V4,9,2,5,27.0,Home,17342739,True
+239_S1,Primary in Tube,362,,,Box6,Stool,Human Infant,MetaG,239,,2018-06-24,,2018-11-15,,S1,,,239_S1,1,2,10,144.0,Home,3479975,True
+252_V6,Primary in Tube,363,,,Box6,Stool,Human Infant,MetaG,252,,2018-09-06,,2019-01-08,,V6,4 months,,252_V6,9,4,3,124.0,Clinic,11845831,True
+261_V4,Primary in Tube,364,,,Box6,Stool,Human Infant,MetaG,261,,2018-11-01,,2018-12-09,,V4,1 month,,261_V4,5,4,1,38.0,Home,6166303,True
+265_V4,Primary in Tube,365,,,Box6,Stool,Human Infant,MetaG,265,,2018-12-06,,2018-12-27,,V4,1 month,,265_V4,2,5,12,21.0,Home,668171,False
+264_V1,Primary in Tube,366,,,Box6,Stool,Human Infant,MetaG,264,,2018-12-04,,2018-12-11,,V1,1-6 days,,264_V1,9,2,6,7.0,Home,12928516,True
+251_V5,Primary in Tube,367,,,Box6,Stool,Human Infant,MetaG,251,,2018-08-29,,2018-10-30,,V5,2 months,,251_V5,9,1,10,62.0,Home,10356731,True
+240_V7,Primary in Tube,368,,,Box6,Stool,Human Infant,MetaG,240,,2018-06-21,,2018-12-21,,V7,6 months,,240_V7,9,3,8,183.0,Home,15844120,True
+241_V7,Primary in Tube,369,,,Box6,Stool,Human Infant,MetaG,241,,2018-06-24,,2019-01-02,,V7,6 months,,241_V7,1,1,12,192.0,Clinic,3651272,True
+239_V7,Primary in Tube,370,,,Box6,Stool,Human Infant,MetaG,239,,2018-06-24,,2019-01-03,,V7,6 months,,239_V7,1,2,11,193.0,Home,3416429,True
+263_V1,Primary in Tube,371,,,Box6,Stool,Human Infant,MetaG,263,,2018-11-24,,2018-12-01,,V1,1-6 days,,263_V1,6,6,3,7.0,Home,6112364,True
+247_V6,Primary in Tube,372,,,Box6,Stool,Human Infant,MetaG,247,,2018-08-24,,2018-12-23,,V6,4 months,,247_V6,6,1,5,121.0,Home,5443167,True
+249_V5,Primary in Tube,373,,,Box6,Stool,Human Infant,MetaG,249,,2018-08-24,,2018-10-29,,V5,2 months,,249_V5,4,4,11,66.0,Home,7653533,True
+239_S2,Primary in Tube,374,,,Box6,Stool,Human Infant,MetaG,239,,2018-06-24,,2019-01-07,,S2,,,239_S2,1,2,12,197.0,Clinic,3404718,True
+237_V7,Primary in Tube,375,,,Box6,Stool,Human Infant,MetaG,237,,2018-06-20,,2019-01-02,,V7,6 months,,237_V7,8,3,2,196.0,Clinic,4562177,True
+249_V6,Primary in Tube,376,,,Box6,Stool,Human Infant,MetaG,249,,2018-08-24,,2018-12-28,,V6,4 months,,249_V6,4,4,12,126.0,Clinic,10100977,True
+234_S1,Primary in Tube,377,,,Box6,Stool,Human Infant,MetaG,234,,2018-06-15,,2018-12-25,,S1,,,234_S1,4,4,3,193.0,Home,12291017,True
+236_V7,Primary in Tube,378,,,Box6,Stool,Human Infant,MetaG,236,,2018-06-12,,2018-12-24,,V7,6 months,,236_V7,6,2,12,195.0,Home,5654660,True
+236_A1,Primary in Tube,379,,,Box6,Stool,Human Infant,MetaG,236,,2018-06-12,,2018-12-29,,A1,,,236_A1,6,3,1,200.0,Home,4855435,True
+234_V6,Primary in Tube,380,,,Box6,Stool,Human Infant,MetaG,234,,2018-06-15,,2018-10-19,,V6,4 months,,234_V6,4,4,4,126.0,Home,9341482,True
+130_V5,Primary in Tube,381,,,Box7,Stool,Human Infant,MetaG,130,,2018-10-27,,2018-12-29,,V5,2 months,,130_V5,4,3,3,63.0,Home,9631510,True
+247_V7,Primary in Tube,382,,,Box7,Stool,Human Infant,MetaG,247,,2018-08-24,,2019-02-26,,V7,6 months,,247_V7,6,1,6,186.0,Clinic,6448225,True
+127_S4,Primary in Tube,383,,,Box7,Stool,Human Infant,MetaG,127,,2018-08-31,,2019-04-07,,S4,,,127_S4,9,1,4,219.0,Home,11137809,True
+131_S1,Primary in Tube,384,,,Box7,Stool,Human Infant,MetaG,131,,2018-11-08,,2019-04-25,,S1,,,131_S1,2,3,7,168.0,Home,7470179,True
+253_V6,Primary in Tube,385,,,Box7,Stool,Human Infant,MetaG,253,,2018-09-27,,2019-01-29,,V6,4 months,,253_V6,6,2,4,124.0,Home,5426739,True
+260_V4,Primary in Tube,386,,,Box7,Stool,Human Infant,MetaG,260,,2018-11-05,,2018-12-05,,V4,1 month,,260_V4,4,5,8,30.0,Home,12043724,True
+261_V5,Primary in Tube,387,,,Box7,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-01-03,,V5,2 months,,261_V5,5,4,2,63.0,Home,2853750,True
+126_V6,Primary in Tube,388,,,Box7,Stool,Human Infant,MetaG,126,,2018-08-27,,2018-12-29,,V6,4 months,,126_V6,3,3,6,124.0,Home,4148838,True
+264_V3,Primary in Tube,389,,,Box7,Stool,Human Infant,MetaG,264,,2018-12-04,,2018-12-18,,V3,2 weeks,,264_V3,9,2,7,14.0,Home,8125269,True
+256_V5,Primary in Tube,390,,,Box7,Stool,Human Infant,MetaG,256,,2018-10-02,,2018-12-06,,V5,2 months,,256_V5,3,7,11,65.0,Clinic,2158601,False
+263_V2,Primary in Tube,391,,,Box7,Stool,Human Infant,MetaG,263,,2018-11-24,,2018-12-07,,V2,7-13 days,,263_V2,6,6,4,13.0,Home,3730988,True
+265_V2,Primary in Tube,392,,,Box7,Stool,Human Infant,MetaG,265,,2018-12-06,,2018-12-19,,V2,7-13 days,,265_V2,2,6,1,13.0,Home,8231854,True
+246_V7,Primary in Tube,393,,,Box7,Stool,Human Infant,MetaG,246,,2018-07-28,,2019-01-29,,V7,6 months,,246_V7,7,5,8,185.0,Home,4833113,True
+265_V5,Primary in Tube,394,,,Box7,Stool,Human Infant,MetaG,265,,2018-12-06,,2019-01-24,,V5,2 months,,265_V5,2,6,2,49.0,Home,11535011,True
+258_V1,Primary in Tube,395,,,Box7,Stool,Human Infant,MetaG,258,,2018-10-23,,2018-10-26,,V1,1-6 days,,258_V1,8,1,8,3.0,Home,3158210,True
+260_V5,Primary in Tube,396,,,Box7,Stool,Human Infant,MetaG,260,,2018-11-05,,2019-01-09,,V5,2 months,,260_V5,4,5,9,65.0,Home,13196695,True
+259_V5,Primary in Tube,397,,,Box7,Stool,Human Infant,MetaG,259,,2018-10-26,,2018-12-21,,V5,2 months,,259_V5,6,4,9,56.0,Clinic,3673146,True
+255_V5,Primary in Tube,398,,,Box7,Stool,Human Infant,MetaG,255,,2018-09-27,,2018-11-29,,V5,2 months,,255_V5,1,7,5,63.0,Home,1943636,False
+136_V5,Primary in Tube,399,,,Box7,Stool,Human Infant,MetaG,136,,2018-12-14,,2019-02-14,,V5,2 months,,136_V5,7,6,4,62.0,Clinic,4000516,True
+263_S1,Primary in Tube,400,,,Box8,Stool,Human Infant,MetaG,263,,2018-11-24,,2019-02-13,,S1,,,263_S1,6,6,5,81.0,Clinic,4550542,True
+128_A2,Primary in Tube,401,,,Box8,Stool,Human Infant,MetaG,128,,2018-08-26,,2019-04-16,,A2,,,128_A2,8,2,6,233.0,Home,4559798,True
+249_V7,Primary in Tube,402,,,Box8,Stool,Human Infant,MetaG,249,,2018-08-24,,2019-02-25,,V7,6 months,,249_V7,4,5,1,185.0,Clinic,11162008,True
+123_S3,Primary in Tube,403,,,Box8,Stool,Human Infant,MetaG,123,,2018-07-08,,2019-04-24,,S3,,,123_S3,2,2,9,290.0,Home,8249270,True
+123_V8,Primary in Tube,404,,,Box8,Stool,Human Infant,MetaG,123,,2018-07-08,,2019-04-09,,V8,9 months,,123_V8,2,2,10,275.0,Home,8420540,True
+252_S1,Primary in Tube,405,,,Box8,Stool,Human Infant,MetaG,252,,2018-09-06,,2019-03-27,,S1,,,252_S1,9,4,4,202.0,Home,20691494,True
+264_S1,Primary in Tube,406,,,Box8,Stool,Human Infant,MetaG,264,,2018-12-04,,2019-04-26,,S1,,,264_S1,9,2,8,143.0,Clinic,18226035,True
+245_A1,Primary in Tube,407,,,Box8,Stool,Human Infant,MetaG,245,,2018-07-22,,2019-04-16,,A1,,,245_A1,2,5,2,268.0,Home,8863285,True
+123_V7,Primary in Tube,408,,,Box8,Stool,Human Infant,MetaG,123,,2018-07-08,,2019-01-08,,V7,6 months,,123_V7,2,2,11,184.0,Home,4632582,True
+128_V7,Primary in Tube,409,,,Box8,Stool,Human Infant,MetaG,128,,2018-08-26,,2019-02-27,,V7,6 months,,128_V7,8,2,7,185.0,Clinic,2373016,False
+136_V6,Primary in Tube,410,,,Box8,Stool,Human Infant,MetaG,136,,2018-12-14,,2019-04-15,,V6,4 months,,136_V6,7,6,5,122.0,Clinic,5356561,True
+261_V6,Primary in Tube,411,,,Box8,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-03-11,,V6,4 months,,261_V6,5,4,3,130.0,Home,2152301,False
+118_S1F,Primary in Tube,412,,,Box8,Stool,Human Infant,MetaG,118,,2018-06-25,,2019-04-19,,S1F,,,118_S1F,4,2,3,298.0,Home,8237090,True
+252_S1F,Primary in Tube,413,,,Box8,Stool,Human Infant,MetaG,252,,2018-09-06,,2019-04-09,,S1F,,,252_S1F,9,4,5,215.0,Home,17994445,True
+127_S4F,Primary in Tube,414,,,Box8,Stool,Human Infant,MetaG,127,,2018-08-31,,2019-04-25,,S4F,,,127_S4F,9,1,5,237.0,Home,10965353,True
+251_V7,Primary in Tube,415,,,Box8,Stool,Human Infant,MetaG,251,,2018-08-29,,2019-03-11,,V7,6 months,,251_V7,9,1,11,194.0,Home,12209326,True
+252_S2,Primary in Tube,416,,,Box8,Stool,Human Infant,MetaG,252,,2018-09-06,,2019-04-19,,S2,,,252_S2,9,4,6,225.0,Clinic,8259342,True
+121_V7,Primary in Tube,417,,,Box8,Stool,Human Infant,MetaG,121,,2018-06-30,,2019-01-18,,V7,6 months,,121_V7,3,6,6,202.0,Home,639547,False
+128_S2,Primary in Tube,418,,,Box8,Stool,Human Infant,MetaG,128,,2018-08-26,,2019-04-30,,S2,,,128_S2,8,2,8,247.0,Clinic,2714737,True
+261_S1F,Primary in Tube,419,,,Box8,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-04-20,,S1F,,,261_S1F,5,4,4,170.0,Home,4026214,True
+119_V8,Primary in Tube,420,,,Box9,Stool,Human Infant,MetaG,119,,2018-06-30,,2019-03-28,,V8,9 months,,119_V8,7,3,5,271.0,Home,4310282,True
+253_S2,Primary in Tube,421,,,Box9,Stool,Human Infant,MetaG,253,,2018-09-27,,2019-02-25,,S2,,,253_S2,6,2,5,151.0,Home,5183563,True
+131_V6,Primary in Tube,422,,,Box9,Stool,Human Infant,MetaG,131,,2018-11-08,,2019-03-11,,V6,4 months,,131_V6,2,3,8,123.0,Home,9292588,True
+241_V8,Primary in Tube,423,,,Box9,Stool,Human Infant,MetaG,241,,2018-06-24,,2019-03-25,,V8,9 months,,241_V8,1,2,1,274.0,Clinic,3308928,True
+238_V7,Primary in Tube,424,,,Box9,Stool,Human Infant,MetaG,238,,2018-06-20,,2018-12-23,,V7,6 months,,238_V7,7,1,5,186.0,Home,4398625,True
+118_V8,Primary in Tube,425,,,Box9,Stool,Human Infant,MetaG,118,,2018-06-25,,2019-03-22,,V8,9 months,,118_V8,4,2,4,270.0,Home,14145609,True
+263_V6,Primary in Tube,426,,,Box9,Stool,Human Infant,MetaG,263,,2018-11-24,,2019-03-21,,V6,4 months,,263_V6,6,6,6,117.0,Home,5586072,True
+126_V7,Primary in Tube,427,,,Box9,Stool,Human Infant,MetaG,126,,2018-08-27,,2019-02-27,,V7,6 months,,126_V7,3,3,7,184.0,Home,3480077,True
+254_V7,Primary in Tube,428,,,Box9,Stool,Human Infant,MetaG,254,,2018-09-28,,2019-04-03,,V7,6 months,,254_V7,1,3,7,187.0,Home,3600587,True
+253_V7,Primary in Tube,429,,,Box9,Stool,Human Infant,MetaG,253,,2018-09-27,,2019-03-28,,V7,6 months,,253_V7,6,2,6,182.0,Home,5130552,True
+118_S1,Primary in Tube,430,,,Box9,Stool,Human Infant,MetaG,118,,2018-06-25,,2019-04-05,,S1,,,118_S1,4,2,5,284.0,Home,5888691,True
+255_V6,Primary in Tube,431,,,Box9,Stool,Human Infant,MetaG,255,,2018-09-27,,2019-01-29,,V6,4 months,,255_V6,1,7,6,124.0,Home,4284732,True
+134_V5,Primary in Tube,432,,,Box9,Stool,Human Infant,MetaG,134,,2018-11-22,,2019-01-25,,V5,2 months,,134_V5,2,4,4,64.0,Home,8544878,True
+239_V8,Primary in Tube,433,,,Box9,Stool,Human Infant,MetaG,239,,2018-06-24,,2019-03-28,,V8,9 months,,239_V8,1,3,1,277.0,Home,3731604,True
+128_A1,Primary in Tube,434,,,Box9,Stool,Human Infant,MetaG,128,,2018-08-26,,2019-04-03,,A1,,,128_A1,8,2,9,220.0,Home,2727945,True
+129_V6,Primary in Tube,435,,,Box9,Stool,Human Infant,MetaG,129,,2018-09-05,,2019-01-10,,V6,4 months,,129_V6,8,7,4,127.0,Home,6586901,True
+127_V7,Primary in Tube,436,,,Box9,Stool,Human Infant,MetaG,127,,2018-08-31,,2019-03-25,,V7,6 months,,127_V7,9,1,6,206.0,Home,14734779,True
+258_V6,Primary in Tube,437,,,Box9,Stool,Human Infant,MetaG,258,,2018-10-23,,2019-03-15,,V6,4 months,,258_V6,8,1,9,143.0,Home,3106012,True
+135_V6,Primary in Tube,438,,,Box9,Stool,Human Infant,MetaG,135,,2018-11-26,,2019-04-02,,V6,4 months,,135_V6,1,4,4,127.0,Clinic,3128660,True
+236_V8,Primary in Tube,439,,,Box10,Stool,Human Infant,MetaG,236,,2018-06-12,,2019-03-24,,V8,9 months,,236_V8,6,3,2,285.0,Home,4301635,True
+260_V6,Primary in Tube,440,,,Box10,Stool,Human Infant,MetaG,260,,2018-11-05,,2019-03-06,,V6,4 months,,260_V6,4,5,10,121.0,Home,13290604,True
+264_S1F,Primary in Tube,441,,,Box10,Stool,Human Infant,MetaG,264,,2018-12-04,,2019-05-10,,S1F,,,264_S1F,9,2,9,157.0,Home,3239913,True
+241_S2,Primary in Tube,442,,,Box10,Stool,Human Infant,MetaG,241,,2018-06-24,,2019-05-02,,S2,,,241_S2,1,2,2,312.0,Home,3786948,True
+261_S1,Primary in Tube,443,,,Box10,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-04-11,,S1,,,261_S1,5,4,5,161.0,Home,2673901,True
+130_S1,Primary in Tube,444,,,Box10,Stool,Human Infant,MetaG,130,,2018-10-27,,2019-02-12,,S1,,,130_S1,4,3,4,108.0,Home,14991645,True
+261_S2F,Primary in Tube,445,,,Box10,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-06-20,,S2F,,,261_S2F,5,4,6,231.0,Home,1999661,False
+241_S2F,Primary in Tube,446,,,Box10,Stool,Human Infant,MetaG,241,,2018-06-24,,2019-05-15,,S2F,,,241_S2F,1,2,3,325.0,Home,2532847,True
+264_V5,Primary in Tube,447,,,Box10,Stool,Human Infant,MetaG,264,,2018-12-04,,2019-03-14,,V5,2 months,,264_V5,9,2,10,100.0,Home,8140080,True
+237_V8,Primary in Tube,448,,,Box10,Stool,Human Infant,MetaG,237,,2018-06-20,,2019-03-20,,V8,9 months,,237_V8,8,3,3,273.0,Home,3241046,True
+125_V7,Primary in Tube,449,,,Box10,Stool,Human Infant,MetaG,125,,2018-08-16,,2019-03-16,,V7,6 months,,125_V7,5,6,4,212.0,Home,5234894,True
+251_V6,Primary in Tube,450,,,Box10,Stool,Human Infant,MetaG,251,,2018-08-29,,2019-01-02,,V6,4 months,,251_V6,9,1,12,126.0,Home,10497633,True
+130_V6,Primary in Tube,451,,,Box10,Stool,Human Infant,MetaG,130,,2018-10-27,,2019-03-11,,V6,4 months,,130_V6,4,3,5,135.0,Clinic,14405223,True
+257_V7,Primary in Tube,452,,,Box10,Stool,Human Infant,MetaG,257,,2018-10-12,,2019-05-02,,V7,6 months,,257_V7,5,7,7,202.0,Clinic,3686603,True
+236_A2F,Primary in Tube,453,,,Box10,Stool,Human Infant,MetaG,236,,2018-06-12,,2019-04-30,,A2F,,,236_A2F,6,3,3,322.0,Home,5387334,True
+252_V7,Primary in Tube,454,,,Box10,Stool,Human Infant,MetaG,252,,2018-09-06,,2019-03-07,,V7,6 months,,252_V7,9,4,7,182.0,Clinic,20170510,True
+238_V8,Primary in Tube,455,,,Box10,Stool,Human Infant,MetaG,238,,2018-06-20,,2019-03-22,,V8,9 months,,238_V8,7,1,6,275.0,Home,5790776,True
+129_V7,Primary in Tube,456,,,Box10,Stool,Human Infant,MetaG,129,,2018-09-05,,2019-03-13,,V7,6 months,,129_V7,8,7,5,189.0,Clinic,6129167,True
+263_S1F,Primary in Tube,457,,,Box10,Stool,Human Infant,MetaG,263,,2018-11-24,,2019-03-05,,S1F,,,263_S1F,6,6,7,101.0,Home,4294030,True
+236_A2,Primary in Tube,458,,,Box10,Stool,Human Infant,MetaG,236,,2018-06-12,,2019-04-16,,A2,,,236_A2,6,3,4,308.0,Home,5526081,True
+236_A4,Primary in Tube,459,,,Box11,Stool,Human Infant,MetaG,236,,2018-06-12,,2019-06-14,,A4,,,236_A4,6,3,5,367.0,Home,6230438,True
+243_V9,Primary in Tube,460,,,Box11,Stool,Human Infant,MetaG,243,,2018-07-11,,2019-07-15,,V9,12 months,,243_V9,8,6,10,369.0,Clinic,4576055,True
+253_V8,Primary in Tube,461,,,Box11,Stool,Human Infant,MetaG,253,,2018-09-27,,2019-07-01,,V8,9 months,,253_V8,6,2,7,277.0,Clinic,4575943,True
+252_S2F,Primary in Tube,462,,,Box11,Stool,Human Infant,MetaG,252,,2018-09-06,,2019-05-04,,S2F,,,252_S2F,9,4,8,240.0,Home,17251734,True
+136_V7,Primary in Tube,463,,,Box11,Stool,Human Infant,MetaG,136,,2018-12-14,,2019-06-25,,V7,6 months,,136_V7,7,6,6,193.0,Clinic,2824422,True
+237_V9,Primary in Tube,464,,,Box11,Stool,Human Infant,MetaG,237,,2018-06-20,,2019-06-24,,V9,12 months,,237_V9,8,3,4,369.0,Home,4029030,True
+254_S2,Primary in Tube,465,,,Box11,Stool,Human Infant,MetaG,254,,2018-09-28,,2019-05-02,,S2,,,254_S2,1,3,8,216.0,Home,4857592,True
+254_S2F,Primary in Tube,466,,,Box11,Stool,Human Infant,MetaG,254,,2018-09-28,,2019-05-13,,S2F,,,254_S2F,1,3,9,227.0,Home,2301063,False
+260_V7,Primary in Tube,467,,,Box11,Stool,Human Infant,MetaG,260,,2018-11-05,,2019-05-05,,V7,6 months,,260_V7,4,5,11,181.0,Home,11296488,True
+131_A1F,Primary in Tube,468,,,Box11,Stool,Human Infant,MetaG,131,,2018-11-08,,2019-07-09,,A1F,,,131_A1F,2,3,9,243.0,Home,11526329,True
+236_V9,Primary in Tube,469,,,Box11,Stool,Human Infant,MetaG,236,,2018-06-12,,2019-06-28,,V9,12 months,,236_V9,6,3,6,381.0,Home,7220774,True
+246_V8,Primary in Tube,470,,,Box11,Stool,Human Infant,MetaG,246,,2018-07-28,,2019-04-29,,V8,9 months,,246_V8,7,5,9,275.0,Home,3642533,True
+260_S1F,Primary in Tube,471,,,Box11,Stool,Human Infant,MetaG,260,,2018-11-05,,2019-07-09,,S1F,,,260_S1F,4,5,12,246.0,Home,14977449,True
+247_V8,Primary in Tube,472,,,Box11,Stool,Human Infant,MetaG,247,,2018-08-24,,2019-05-29,,V8,9 months,,247_V8,6,1,7,278.0,Home,3074225,True
+255_V7,Primary in Tube,473,,,Box11,Stool,Human Infant,MetaG,255,,2018-09-27,,2019-03-29,,V7,6 months,,255_V7,1,7,7,183.0,Home,6280562,True
+131_A1,Primary in Tube,474,,,Box11,Stool,Human Infant,MetaG,131,,2018-11-08,,2019-07-01,,A1,,,131_A1,2,3,10,235.0,Home,6840751,True
+239_V9,Primary in Tube,475,,,Box11,Stool,Human Infant,MetaG,239,,2018-06-24,,2019-06-25,,V9,12 months,,239_V9,1,3,2,366.0,Home,2912152,True
+123_V9,Primary in Tube,476,,,Box11,Stool,Human Infant,MetaG,123,,2018-07-08,,2019-07-14,,V9,12 months,,123_V9,2,2,12,371.0,Home,8691564,True
+261_S2,Primary in Tube,477,,,Box11,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-06-04,,S2,,,261_S2,5,4,7,215.0,Home,1886482,False
+240_A1F,Primary in Tube,478,,,Box11,Stool,Human Infant,MetaG,240,,2018-06-21,,2019-05-12,,A1F,,,240_A1F,9,3,9,325.0,Home,11781440,True
+260_S1,Primary in Tube,479,,,Box11,Stool,Human Infant,MetaG,260,,2018-11-05,,2019-06-26,,S1,,,260_S1,4,6,1,233.0,Home,13746756,True
+128_V8,Primary in Tube,480,,,Box12,Stool,Human Infant,MetaG,128,,2018-08-26,,2019-05-30,,V8,9 months,,128_V8,8,2,10,277.0,Home,3957489,True
+264_V7,Primary in Tube,481,,,Box12,Stool,Human Infant,MetaG,264,,2018-12-04,,2019-06-05,,V7,6 months,,264_V7,9,2,11,183.0,Home,13317524,True
+259_V7,Primary in Tube,482,,,Box12,Stool,Human Infant,MetaG,259,,2018-10-26,,2019-05-07,,V7,6 months,,259_V7,6,4,10,193.0,Home,4685928,True
+133_V7,Primary in Tube,483,,,Box12,Stool,Human Infant,MetaG,133,,2018-11-19,,2019-06-18,,V7,6 months,,133_V7,7,2,6,211.0,Home,2782962,True
+252_V8,Primary in Tube,484,,,Box12,Stool,Human Infant,MetaG,252,,2018-09-06,,2019-06-11,,V8,9 months,,252_V8,9,4,9,278.0,Home,8267211,True
+129_V8,Primary in Tube,485,,,Box12,Stool,Human Infant,MetaG,129,,2018-09-05,,2019-06-12,,V8,9 months,,129_V8,8,7,6,280.0,Clinic,4432448,True
+237_S1,Primary in Tube,486,,,Box12,Stool,Human Infant,MetaG,237,,2018-06-20,,2019-05-26,,S1,,,237_S1,8,3,5,340.0,Home,3780095,True
+130_V7,Primary in Tube,487,,,Box12,Stool,Human Infant,MetaG,130,,2018-10-27,,2019-05-13,,V7,6 months,,130_V7,4,3,6,198.0,Home,12296690,True
+136_V2_2,Primary in Tube,488,,,Box12,Stool,Human Infant,MetaG,136,,2018-12-14,,2018-12-26,,V2_2,7-13 days,,136_V2_2,7,6,7,12.0,Home,5473645,True
+261_V7,Primary in Tube,489,,,Box12,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-05-02,,V7,6 months,,261_V7,5,4,8,182.0,Home,4994007,True
+134_V6,Primary in Tube,490,,,Box12,Stool,Human Infant,MetaG,134,,2018-11-22,,2019-03-24,,V6,4 months,,134_V6,2,4,5,122.0,Home,9970469,True
+265_V6,Primary in Tube,491,,,Box12,Stool,Human Infant,MetaG,265,,2018-12-06,,2019-04-26,,V6,4 months,,265_V6,2,6,3,141.0,Home,10454618,True
+258_V7,Primary in Tube,492,,,Box12,Stool,Human Infant,MetaG,258,,2018-10-23,,2019-05-21,,V7,6 months,,258_V7,8,1,10,210.0,Home,4174463,True
+237_S1F,Primary in Tube,493,,,Box12,Stool,Human Infant,MetaG,237,,2018-06-20,,2019-06-08,,S1F,,,237_S1F,8,3,6,353.0,Home,3497734,True
+236_A3,Primary in Tube,494,,,Box12,Stool,Human Infant,MetaG,236,,2018-06-12,,2019-05-18,,A3,,,236_A3,6,3,7,340.0,Home,3365787,True
+135_V7,Primary in Tube,495,,,Box12,Stool,Human Infant,MetaG,135,,2018-11-26,,2019-06-03,,V7,6 months,,135_V7,1,4,5,189.0,Clinic,4122186,True
+108_V11,Primary in Tube,496,,,Box13,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-10-06,,V11,18 months,,108_V11,3,2,5,557.0,Home,4096244,True
+118_S3,Primary in Tube,497,,,Box13,Stool,Human Infant,MetaG,118,,2018-06-25,,2019-09-16,,S3,,,118_S3,4,2,6,448.0,Home,10942958,True
+118_V10,Primary in Tube,498,,,Box13,Stool,Human Infant,MetaG,118,,2018-06-25,,2019-09-28,,V10,15 months,,118_V10,4,2,7,460.0,Home,7158281,True
+121_V9,Primary in Tube,499,,,Box13,Stool,Human Infant,MetaG,121,,2018-06-30,,2019-07-11,,V9,12 months,,121_V9,3,6,7,376.0,Home,3791969,True
+123_V10,Primary in Tube,500,,,Box13,Stool,Human Infant,MetaG,123,,2018-07-08,,2019-10-09,,V10,15 months,,123_V10,2,3,1,458.0,Home,9314359,True
+130_V9,Primary in Tube,501,,,Box13,Stool,Human Infant,MetaG,130,,2018-10-27,,2019-10-28,,V9,12 months,,130_V9,4,3,7,366.0,Home,8084878,True
+209_V11,Primary in Tube,502,,,Box13,Stool,Human Infant,MetaG,209,,2018-03-14,,2019-09-23,,V11,18 months,,209_V11,4,1,7,558.0,Home,9506845,True
+215_S2,Primary in Tube,503,,,Box13,Stool,Human Infant,MetaG,215,,2018-03-29,,2019-06-20,,S2,,,215_S2,5,1,9,448.0,Home,3358829,True
+215_V10,Primary in Tube,504,,,Box13,Stool,Human Infant,MetaG,215,,2018-03-29,,2019-07-10,,V10,15 months,,215_V10,5,1,10,468.0,Home,2220560,False
+220_V10,Primary in Tube,505,,,Box13,Stool,Human Infant,MetaG,220,,2018-04-13,,2019-07-16,,V10,15 months,,220_V10,2,1,9,459.0,Home,6786821,True
+221_V10,Primary in Tube,506,,,Box13,Stool,Human Infant,MetaG,221,,2018-04-16,,2019-07-11,,V10,15 months,,221_V10,3,6,1,451.0,Home,6927175,True
+226_A3,Primary in Tube,507,,,Box13,Stool,Human Infant,MetaG,226,,2018-05-03,,2019-10-21,,A3,,,226_A3,5,5,11,536.0,Clinic,2324131,False
+227_V11,Primary in Tube,508,,,Box13,Stool,Human Infant,MetaG,227,,2018-04-30,,2019-10-25,,V11,18 months,,227_V11,1,6,12,543.0,Home,4247769,True
+235_V10,Primary in Tube,509,,,Box13,Stool,Human Infant,MetaG,235,,2018-06-13,,2019-09-26,,V10,15 months,,235_V10,8,6,1,470.0,Home,4083035,True
+236_V10,Primary in Tube,510,,,Box13,Stool,Human Infant,MetaG,236,,2018-06-12,,2019-10-01,,V10,15 months,,236_V10,6,3,8,476.0,Home,4349159,True
+237_V10,Primary in Tube,511,,,Box13,Stool,Human Infant,MetaG,237,,2018-06-20,,2019-09-20,,V10,15 months,,237_V10,8,3,7,457.0,Home,4012138,True
+237_S2,Primary in Tube,512,,,Box13,Stool,Human Infant,MetaG,237,,2018-06-20,,2019-10-02,,S2,,,237_S2,8,3,8,469.0,Home,2879770,True
+239_V10,Primary in Tube,513,,,Box13,Stool,Human Infant,MetaG,239,,2018-06-24,,2019-10-18,,V10,15 months,,239_V10,1,3,3,481.0,Clinic,2849060,True
+246_V10,Primary in Tube,514,,,Box13,Stool,Human Infant,MetaG,246,,2018-07-28,,2019-10-03,,V10,15 months,,246_V10,7,5,10,432.0,Home,3291817,True
+251_V9,Primary in Tube,515,,,Box13,Stool,Human Infant,MetaG,251,,2018-08-29,,2019-09-09,,V9,12 months,,251_V9,9,2,1,376.0,Clinic,13570073,True
+254_V9,Primary in Tube,516,,,Box13,Stool,Human Infant,MetaG,254,,2018-09-28,,2019-09-29,,V9,12 months,,254_V9,1,3,10,366.0,Home,2740044,True
+108_S6,Primary in Tube,517,,,Box14,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-06-16,,S6,,,108_S6,3,2,6,445.0,Home,1943656,False
+108_V10,Primary in Tube,518,,,Box14,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-06-27,,V10,15 months,,108_V10,3,2,7,456.0,Home,3864801,True
+108_A1,Primary in Tube,519,,,Box14,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-07-11,,A1,,,108_A1,3,2,8,470.0,Home,2611920,True
+108_A1F,Primary in Tube,520,,,Box14,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-08-11,,A1F,,,108_A1F,3,2,9,501.0,Home,1462658,False
+108_S6F,Primary in Tube,521,,,Box14,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-06-30,,S6F,,,108_S6F,3,2,10,459.0,Home,3879706,True
+127_V9,Primary in Tube,522,,,Box14,Stool,Human Infant,MetaG,127,,2018-08-31,,2019-09-22,,V9,12 months,,127_V9,9,1,7,387.0,Home,14119453,True
+135_S1,Primary in Tube,523,,,Box14,Stool,Human Infant,MetaG,135,,2018-11-26,,2019-10-15,,S1,,,135_S1,1,4,6,323.0,Home,1621553,False
+136_V8,Primary in Tube,524,,,Box14,Stool,Human Infant,MetaG,136,,2018-12-14,,2019-10-02,,V8,9 months,,136_V8,7,6,8,292.0,Home,5114683,True
+217_S7,Primary in Tube,525,,,Box14,Stool,Human Infant,MetaG,217,,2018-04-08,,2019-10-14,,S7,,,217_S7,5,7,3,554.0,Home,4233545,True
+240_S1F,Primary in Tube,526,,,Box14,Stool,Human Infant,MetaG,240,,2018-06-21,,2019-11-18,,S1F,,,240_S1F,9,3,10,515.0,Home,7406835,True
+245_V7,Primary in Tube,527,,,Box14,Stool,Human Infant,MetaG,245,,2018-07-22,,2019-02-01,,V7,6 months,,245_V7,2,5,3,194.0,Home,4777771,True
+245_V8,Primary in Tube,528,,,Box14,Stool,Human Infant,MetaG,245,,2018-07-22,,2019-04-23,,V8,9 months,,245_V8,2,5,4,275.0,Home,6820969,True
+245_A3,Primary in Tube,529,,,Box14,Stool,Human Infant,MetaG,245,,2018-07-22,,2019-07-19,,A3,,,245_A3,2,5,5,362.0,Home,11067879,True
+245_V9,Primary in Tube,530,,,Box14,Stool,Human Infant,MetaG,245,,2018-07-22,,2019-08-07,,V9,12 months,,245_V9,2,5,6,381.0,Home,9619016,True
+247_V9,Primary in Tube,531,,,Box14,Stool,Human Infant,MetaG,247,,2018-08-24,,2019-09-05,,V9,12 months,,247_V9,6,1,8,377.0,Home,3542163,True
+249_V9,Primary in Tube,532,,,Box14,Stool,Human Infant,MetaG,249,,2018-08-24,,2019-09-15,,V9,12 months,,249_V9,4,5,2,387.0,Home,10336164,True
+259_V8,Primary in Tube,533,,,Box14,Stool,Human Infant,MetaG,259,,2018-10-26,,2019-09-17,,V8,9 months,,259_V8,6,4,11,326.0,Home,3706942,True
+259_V9,Primary in Tube,534,,,Box14,Stool,Human Infant,MetaG,259,,2018-10-26,,2019-10-23,,V9,12 months,,259_V9,6,4,12,362.0,Home,4961715,True
+261_V9,Primary in Tube,535,,,Box14,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-11-08,,V9,12 months,,261_V9,5,4,9,372.0,Home,1360556,False
+264_S2,Primary in Tube,536,,,Box14,Stool,Human Infant,MetaG,264,,2018-12-04,,2019-06-12,,S2,,,264_S2,9,2,12,190.0,Home,13260729,True
+264_S2F,Primary in Tube,537,,,Box14,Stool,Human Infant,MetaG,264,,2018-12-04,,2019-06-26,,S2F,,,264_S2F,9,3,1,204.0,Home,18461197,True
+110_V11,Primary in Tube,538,,,Box15,Stool,Human Infant,MetaG,110,,2018-05-07,,2019-11-11,,V11,18 months,,110_V11,3,7,7,553.0,Clinic,2597682,True
+112_A2,Primary in Tube,539,,,Box15,Stool,Human Infant,MetaG,112,,2018-05-03,,2019-08-26,,A2,,,112_A2,6,5,10,480.0,Home,3661226,True
+112_A2F,Primary in Tube,540,,,Box15,Stool,Human Infant,MetaG,112,,2018-05-03,,2019-09-25,,A2F,,,112_A2F,6,5,11,510.0,Home,4111975,True
+130_V8,Primary in Tube,541,,,Box15,Stool,Human Infant,MetaG,130,,2018-10-27,,2019-08-14,,V8,9 months,,130_V8,4,3,8,291.0,Home,9553514,True
+134_V7,Primary in Tube,542,,,Box15,Stool,Human Infant,MetaG,134,,2018-11-22,,2019-05-25,,V7,6 months,,134_V7,2,4,6,184.0,Home,8897463,True
+209_V10,Primary in Tube,543,,,Box15,Stool,Human Infant,MetaG,209,,2018-03-14,,2019-06-24,,V10,15 months,,209_V10,4,1,8,467.0,Home,7729793,True
+217_V10,Primary in Tube,544,,,Box15,Stool,Human Infant,MetaG,217,,2018-04-08,,2019-07-27,,V10,15 months,,217_V10,5,7,4,475.0,Home,1993980,False
+227_V10,Primary in Tube,545,,,Box15,Stool,Human Infant,MetaG,227,,2018-04-30,,2019-07-27,,V10,15 months,,227_V10,1,7,1,453.0,Home,5402824,True
+228_V10,Primary in Tube,546,,,Box15,Stool,Human Infant,MetaG,228,,2018-05-07,,2019-08-11,,V10,15 months,,228_V10,8,4,9,461.0,Home,4504352,True
+233_V9,Primary in Tube,547,,,Box15,Stool,Human Infant,MetaG,233,,2018-05-21,,2019-05-23,,V9,12 months,,233_V9,8,1,6,367.0,Home,3628175,True
+238_V9,Primary in Tube,548,,,Box15,Stool,Human Infant,MetaG,238,,2018-06-20,,2019-06-24,,V9,12 months,,238_V9,7,1,7,369.0,Home,3589667,True
+238_S1,Primary in Tube,549,,,Box15,Stool,Human Infant,MetaG,238,,2018-06-20,,2019-07-30,,S1,,,238_S1,7,1,8,405.0,Home,3215552,True
+238_S2,Primary in Tube,550,,,Box15,Stool,Human Infant,MetaG,238,,2018-06-20,,2019-08-02,,S2,,,238_S2,7,1,9,408.0,Home,1932206,False
+238_S2F,Primary in Tube,551,,,Box15,Stool,Human Infant,MetaG,238,,2018-06-20,,2019-08-13,,S2F,,,238_S2F,7,1,10,419.0,Home,2429057,False
+240_A2,Primary in Tube,552,,,Box15,Stool,Human Infant,MetaG,240,,2018-06-21,,2019-07-21,,A2,,,240_A2,9,3,11,395.0,Home,11091912,True
+240_A2F,Primary in Tube,553,,,Box15,Stool,Human Infant,MetaG,240,,2018-06-21,,2019-08-08,,A2F,,,240_A2F,9,3,12,413.0,Home,9656076,True
+251_V8,Primary in Tube,554,,,Box15,Stool,Human Infant,MetaG,251,,2018-08-29,,2019-06-02,,V8,9 months,,251_V8,9,2,2,277.0,Home,20834243,True
+258_V8,Primary in Tube,555,,,Box15,Stool,Human Infant,MetaG,258,,2018-10-23,,2019-07-25,,V8,9 months,,258_V8,8,1,11,275.0,Clinic,2770920,True
+260_V8,Primary in Tube,556,,,Box15,Stool,Human Infant,MetaG,260,,2018-11-05,,2019-08-06,,V8,9 months,,260_V8,4,6,2,274.0,Home,11604184,True
+261_V8,Primary in Tube,557,,,Box15,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-08-04,,V8,9 months,,261_V8,5,4,10,276.0,Home,2383170,False
+263_V7,Primary in Tube,558,,,Box15,Stool,Human Infant,MetaG,263,,2018-11-24,,2019-05-28,,V7,6 months,,263_V7,6,6,8,185.0,Home,3091823,True
+110_V10,Primary in Tube,559,,,Box16,Stool,Human Infant,MetaG,110,,2018-05-07,,2019-08-15,,V10,15 months,,110_V10,3,7,8,465.0,Clinic,1830479,False
+112_V10,Primary in Tube,560,,,Box16,Stool,Human Infant,MetaG,112,,2018-05-03,,2019-08-17,,V10,15 months,,112_V10,6,5,12,471.0,Home,3497099,True
+112_V11,Primary in Tube,561,,,Box16,Stool,Human Infant,MetaG,112,,2018-05-03,,2019-11-13,,V11,18 months,,112_V11,6,6,1,559.0,Home,5605373,True
+117_S3,Primary in Tube,562,,,Box16,Stool,Human Infant,MetaG,117,,2018-06-10,,2019-10-26,,S3,,,117_S3,8,8,3,503.0,Home,4850640,True
+118_S4,Primary in Tube,563,,,Box16,Stool,Human Infant,MetaG,118,,2018-06-25,,2019-11-25,,S4,,,118_S4,4,2,8,518.0,Home,10575707,True
+134_V8,Primary in Tube,564,,,Box16,Stool,Human Infant,MetaG,134,,2018-11-22,,2019-09-06,,V8,9 months,,134_V8,2,4,7,288.0,Home,6446916,True
+204_V11,Primary in Tube,565,,,Box16,Stool,Human Infant,MetaG,204,,2018-02-26,,2019-08-27,,V11,18 months,,204_V11,3,4,2,547.0,Home,3241648,True
+204_S2,Primary in Tube,566,,,Box16,Stool,Human Infant,MetaG,204,,2018-02-26,,2019-11-25,,S2,,,204_S2,3,4,3,637.0,Home,5196005,True
+205_A1,Primary in Tube,567,,,Box16,Stool,Human Infant,MetaG,205,,2018-02-28,,2019-10-30,,A1,,,205_A1,7,4,12,609.0,Home,4367232,True
+217_V11,Primary in Tube,568,,,Box16,Stool,Human Infant,MetaG,217,,2018-04-08,,2019-10-17,,V11,18 months,,217_V11,5,7,5,557.0,Home,3632268,True
+228_V11,Primary in Tube,569,,,Box16,Stool,Human Infant,MetaG,228,,2018-05-07,,2019-11-18,,V11,18 months,,228_V11,8,4,10,560.0,Home,3990328,True
+233_V10,Primary in Tube,570,,,Box16,Stool,Human Infant,MetaG,233,,2018-05-21,,2019-08-29,,V10,15 months,,233_V10,8,1,7,465.0,Home,4940655,True
+235_S3,Primary in Tube,571,,,Box16,Stool,Human Infant,MetaG,235,,2018-06-13,,2019-11-20,,S3,,,235_S3,8,6,2,525.0,Home,5415260,True
+235_A1,Primary in Tube,572,,,Box16,Stool,Human Infant,MetaG,235,,2018-06-13,,2019-12-09,,A1,,,235_A1,8,6,3,544.0,Home,5872888,True
+243_A1F,Primary in Tube,573,,,Box16,Stool,Human Infant,MetaG,243,,2018-07-11,,2019-10-31,,A1F,,,243_A1F,8,6,11,477.0,Home,4220674,True
+247_V10,Primary in Tube,574,,,Box16,Stool,Human Infant,MetaG,247,,2018-08-24,,2019-12-03,,V10,15 months,,247_V10,6,1,9,466.0,Home,2094572,False
+250_V10,Primary in Tube,575,,,Box16,Stool,Human Infant,MetaG,250,,2018-09-05,,2019-12-05,,V10,15 months,,250_V10,3,5,5,456.0,Home,2487929,False
+252_V9,Primary in Tube,576,,,Box16,Stool,Human Infant,MetaG,252,,2018-09-06,,2019-09-10,,V9,12 months,,252_V9,9,4,10,369.0,Home,12109969,True
+260_V9,Primary in Tube,577,,,Box16,Stool,Human Infant,MetaG,260,,2018-11-05,,2019-11-07,,V9,12 months,,260_V9,4,6,3,367.0,Home,13286971,True
+263_V8,Primary in Tube,578,,,Box16,Stool,Human Infant,MetaG,263,,2018-11-24,,2019-09-10,,V8,9 months,,263_V8,6,6,9,290.0,Home,4482100,True
+265_S1,Primary in Tube,579,,,Box16,Stool,Human Infant,MetaG,265,,2018-12-06,,2019-11-19,,S1,,,265_S1,2,6,4,348.0,Home,8577084,True
+108_V12,Primary in Tube,580,,,Box17,Stool,Human Infant,MetaG,108,,2018-03-28,,2020-05-22,,V12,24 months,,108_V12,3,2,11,786.0,Home,3270263,True
+112_V12,Primary in Tube,581,,,Box17,Stool,Human Infant,MetaG,112,,2018-05-03,,2020-07-13,,V12,24 months,,112_V12,6,6,2,802.0,Home,6388883,True
+115_S1,Primary in Tube,582,,,Box17,Stool,Human Infant,MetaG,115,,2018-05-24,,2019-08-29,,S1,,,115_S1,6,3,12,462.0,Home,5265538,True
+117_V10,Primary in Tube,583,,,Box17,Stool,Human Infant,MetaG,117,,2018-06-10,,2019-09-10,,V10,15 months,,117_V10,8,8,4,457.0,Home,4792512,True
+119_V12,Primary in Tube,584,,,Box17,Stool,Human Infant,MetaG,119,,2018-06-30,,2020-07-11,,V12,24 months,,119_V12,7,3,6,742.0,Home,4932410,True
+129_V9,Primary in Tube,585,,,Box17,Stool,Human Infant,MetaG,129,,2018-09-05,,2019-09-09,,V9,12 months,,129_V9,8,7,7,369.0,Home,4595612,True
+131_S2,Primary in Tube,586,,,Box17,Stool,Human Infant,MetaG,131,,2018-11-08,,2019-08-07,,S2,,,131_S2,2,3,11,272.0,Clinic,9928520,True
+134_V9,Primary in Tube,587,,,Box17,Stool,Human Infant,MetaG,134,,2018-11-22,,2019-12-06,,V9,12 months,,134_V9,2,4,8,379.0,Home,8944167,True
+134_V10,Primary in Tube,588,,,Box17,Stool,Human Infant,MetaG,134,,2018-11-22,,2020-03-13,,V10,15 months,,134_V10,2,4,9,477.0,Home,8688907,True
+134_V12,Primary in Tube,589,,,Box17,Stool,Human Infant,MetaG,134,,2018-11-22,,2020-10-05,,V12,24 months,,134_V12,2,4,10,683.0,Home,7673974,True
+205_S2,Primary in Tube,590,,,Box17,Stool,Human Infant,MetaG,205,,2018-02-28,,2020-02-08,,S2,,,205_S2,7,5,1,710.0,Home,5369251,True
+205_V12,Primary in Tube,591,,,Box17,Stool,Human Infant,MetaG,205,,2018-02-28,,2020-02-25,,V12,24 months,,205_V12,7,5,2,727.0,Home,6100074,True
+206_V11,Primary in Tube,592,,,Box17,Stool,Human Infant,MetaG,206,,2018-03-09,,2019-09-10,,V11,18 months,,206_V11,1,8,4,550.0,Home,2770616,True
+226_A2F,Primary in Tube,593,,,Box17,Stool,Human Infant,MetaG,226,,2018-05-03,,2019-06-15,,A2F,,,226_A2F,5,5,12,408.0,Home,2645227,True
+226_V10,Primary in Tube,594,,,Box17,Stool,Human Infant,MetaG,226,,2018-05-03,,2019-08-06,,V10,15 months,,226_V10,5,6,1,460.0,Home,4522003,True
+226_V11,Primary in Tube,595,,,Box17,Stool,Human Infant,MetaG,226,,2018-05-03,,2019-11-15,,V11,18 months,,226_V11,5,6,2,561.0,Clinic,3326299,True
+238_V12,Primary in Tube,596,,,Box17,Stool,Human Infant,MetaG,238,,2018-06-20,,2020-06-21,,V12,24 months,,238_V12,7,1,11,732.0,Home,3311700,True
+247_V12,Primary in Tube,597,,,Box17,Stool,Human Infant,MetaG,247,,2018-08-24,,2020-08-18,,V12,24 months,,247_V12,6,1,10,725.0,Home,4182630,True
+252_V12,Primary in Tube,598,,,Box17,Stool,Human Infant,MetaG,252,,2018-09-06,,2020-09-15,,V12,24 months,,252_V12,9,4,11,740.0,Home,13107313,True
+264_V9,Primary in Tube,599,,,Box17,Stool,Human Infant,MetaG,264,,2018-12-04,,2019-12-01,,V9,12 months,,264_V9,9,3,2,362.0,Home,14547746,True
+265_V8,Primary in Tube,600,,,Box17,Stool,Human Infant,MetaG,265,,2018-12-06,,2019-09-19,,V8,9 months,,265_V8,2,6,5,287.0,Home,8118888,True
+109_S5,Primary in Tube,601,,,Box18,Stool,Human Infant,MetaG,109,,2018-04-17,,2020-02-25,,S5,,,109_S5,6,7,6,679.0,Clinic,6822555,True
+117_V11,Primary in Tube,602,,,Box18,Stool,Human Infant,MetaG,117,,2018-06-10,,2019-12-10,,V11,18 months,,117_V11,8,8,5,548.0,Home,9119241,True
+136_V10,Primary in Tube,603,,,Box18,Stool,Human Infant,MetaG,136,,2018-12-14,,2020-03-16,,V10,15 months,,136_V10,7,6,9,458.0,Clinic,4418320,True
+204_V12,Primary in Tube,604,,,Box18,Stool,Human Infant,MetaG,204,,2018-02-26,,2020-02-13,,V12,24 months,,204_V12,3,4,4,717.0,Home,4473658,True
+211_S1,Primary in Tube,605,,,Box18,Stool,Human Infant,MetaG,211,,2018-03-11,,2020-01-29,,S1,,,211_S1,1,4,12,689.0,Home,1297850,False
+211_V12,Primary in Tube,606,,,Box18,Stool,Human Infant,MetaG,211,,2018-03-11,,2020-03-06,,V12,24 months,,211_V12,1,5,1,726.0,Home,3385891,True
+214_V11,Primary in Tube,607,,,Box18,Stool,Human Infant,MetaG,214,,2018-04-04,,2020-01-14,,V11,18 months,,214_V11,4,7,8,650.0,Home,8875295,True
+214_S4,Primary in Tube,608,,,Box18,Stool,Human Infant,MetaG,214,,2018-04-04,,2020-03-12,,S4,,,214_S4,4,7,9,708.0,Clinic,3937714,True
+214_S3F,Primary in Tube,609,,,Box18,Stool,Human Infant,MetaG,214,,2018-04-04,,2020-02-18,,S3F,,,214_S3F,4,7,10,685.0,Home,4851169,True
+215_S3,Primary in Tube,610,,,Box18,Stool,Human Infant,MetaG,215,,2018-03-29,,2020-01-10,,S3,,,215_S3,5,1,11,652.0,Home,3033652,True
+228_A3F,Primary in Tube,611,,,Box18,Stool,Human Infant,MetaG,228,,2018-05-07,,2020-02-17,,A3F,,,228_A3F,8,4,11,651.0,Home,4134726,True
+235_V11,Primary in Tube,612,,,Box18,Stool,Human Infant,MetaG,235,,2018-06-13,,2019-12-16,,V11,18 months,,235_V11,8,6,4,551.0,Home,5117130,True
+235_A2,Primary in Tube,613,,,Box18,Stool,Human Infant,MetaG,235,,2018-06-13,,2020-02-12,,A2,,,235_A2,8,6,5,609.0,Home,5084288,True
+235_A2F,Primary in Tube,614,,,Box18,Stool,Human Infant,MetaG,235,,2018-06-13,,2020-03-01,,A2F,,,235_A2F,8,6,6,627.0,Home,4842570,True
+245_S2,Primary in Tube,615,,,Box18,Stool,Human Infant,MetaG,245,,2018-07-22,,2020-02-25,,S2,,,245_S2,2,5,7,583.0,Home,8465804,True
+245_S4,Primary in Tube,616,,,Box18,Stool,Human Infant,MetaG,245,,2018-07-22,,2020-03-21,,S4,,,245_S4,2,5,8,608.0,Home,6267502,True
+245_V12,Primary in Tube,617,,,Box18,Stool,Human Infant,MetaG,245,,2018-07-22,,2020-07-15,,V12,24 months,,245_V12,2,5,9,724.0,Home,8096458,True
+247_S1,Primary in Tube,618,,,Box18,Stool,Human Infant,MetaG,247,,2018-08-24,,2020-02-25,,S1,,,247_S1,6,1,11,550.0,Home,4458268,True
+247_S3,Primary in Tube,619,,,Box18,Stool,Human Infant,MetaG,247,,2018-08-24,,2020-03-06,,S3,,,247_S3,6,1,12,560.0,Home,6209855,True
+258_V10,Primary in Tube,620,,,Box18,Stool,Human Infant,MetaG,258,,2018-10-23,,2020-03-05,,V10,15 months,,258_V10,8,1,12,499.0,Clinic,2701387,True
+264_V10,Primary in Tube,621,,,Box18,Stool,Human Infant,MetaG,264,,2018-12-04,,2020-03-09,,V10,15 months,,264_V10,9,3,3,461.0,Clinic,13523689,True
+108_A4,Primary in Tube,622,,,Box19,Stool,Human Infant,MetaG,108,,2018-03-28,,2020-02-07,,A4,,,108_A4,3,2,12,681.0,Home,2284512,False
+118_V11,Primary in Tube,623,,,Box19,Stool,Human Infant,MetaG,118,,2018-06-25,,2020-01-10,,V11,18 months,,118_V11,4,2,9,564.0,Clinic,6553473,True
+123_V11,Primary in Tube,624,,,Box19,Stool,Human Infant,MetaG,123,,2018-07-08,,2020-01-14,,V11,18 months,,123_V11,2,3,2,555.0,Home,6910988,True
+127_V10,Primary in Tube,625,,,Box19,Stool,Human Infant,MetaG,127,,2018-08-31,,2020-01-11,,V10,15 months,,127_V10,9,1,8,498.0,Home,14597630,True
+130_V10,Primary in Tube,626,,,Box19,Stool,Human Infant,MetaG,130,,2018-10-27,,2020-01-27,,V10,15 months,,130_V10,4,3,9,457.0,Clinic,13349461,True
+136_V9,Primary in Tube,627,,,Box19,Stool,Human Infant,MetaG,136,,2018-12-14,,2020-01-12,,V9,12 months,,136_V9,7,6,10,394.0,Home,5122972,True
+205_A1F,Primary in Tube,628,,,Box19,Stool,Human Infant,MetaG,205,,2018-02-28,,2019-11-18,,A1F,,,205_A1F,7,5,3,628.0,Home,5294598,True
+215_V11,Primary in Tube,629,,,Box19,Stool,Human Infant,MetaG,215,,2018-03-29,,2019-10-09,,V11,18 months,,215_V11,5,1,12,559.0,Home,3499733,True
+228_A2,Primary in Tube,630,,,Box19,Stool,Human Infant,MetaG,228,,2018-05-07,,2020-01-25,,A2,,,228_A2,8,4,12,628.0,Home,3421445,True
+234_V10,Primary in Tube,631,,,Box19,Stool,Human Infant,MetaG,234,,2018-06-15,,2019-11-06,,V10,15 months,,234_V10,4,4,5,509.0,Home,7588512,True
+238_V10,Primary in Tube,632,,,Box19,Stool,Human Infant,MetaG,238,,2018-06-20,,2019-09-25,,V10,15 months,,238_V10,7,1,12,462.0,Home,4891773,True
+241_S3,Primary in Tube,633,,,Box19,Stool,Human Infant,MetaG,241,,2018-06-24,,2020-01-23,,S3,,,241_S3,1,2,4,578.0,Clinic,3287784,True
+245_V10,Primary in Tube,634,,,Box19,Stool,Human Infant,MetaG,245,,2018-07-22,,2019-11-16,,V10,15 months,,245_V10,2,5,10,482.0,Home,12629775,True
+249_V11,Primary in Tube,635,,,Box19,Stool,Human Infant,MetaG,249,,2018-08-24,,2020-03-17,,V11,18 months,,249_V11,4,5,3,571.0,Home,10133424,True
+251_V10,Primary in Tube,636,,,Box19,Stool,Human Infant,MetaG,251,,2018-08-29,,2019-12-18,,V10,15 months,,251_V10,9,2,3,476.0,Home,14542003,True
+254_A1,Primary in Tube,637,,,Box19,Stool,Human Infant,MetaG,254,,2018-09-28,,2019-12-02,,A1,,,254_A1,1,3,11,430.0,Home,3733416,True
+254_V10,Primary in Tube,638,,,Box19,Stool,Human Infant,MetaG,254,,2018-09-28,,2020-01-02,,V10,15 months,,254_V10,1,3,12,461.0,Home,2403770,False
+260_V10,Primary in Tube,639,,,Box19,Stool,Human Infant,MetaG,260,,2018-11-05,,2020-02-04,,V10,15 months,,260_V10,4,6,4,456.0,Clinic,10937840,True
+261_S4,Primary in Tube,640,,,Box19,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-12-13,,S4,,,261_S4,5,4,11,407.0,Home,2591305,True
+261_S5,Primary in Tube,641,,,Box19,Stool,Human Infant,MetaG,261,,2018-11-01,,2020-01-07,,S5,,,261_S5,5,4,12,432.0,Home,1532957,False
+261_S4F,Primary in Tube,642,,,Box19,Stool,Human Infant,MetaG,261,,2018-11-01,,2019-12-31,,S4F,,,261_S4F,5,5,1,425.0,Home,5135822,True
+108_A2,Primary in Tube,643,,,Box20,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-10-21,,A2,,,108_A2,3,3,1,572.0,Home,3460070,True
+108_S7,Primary in Tube,644,,,Box20,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-12-12,,S7,,,108_S7,3,3,2,624.0,Home,2758447,True
+108_A3F,Primary in Tube,645,,,Box20,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-11-23,,A3F,,,108_A3F,3,3,3,605.0,Home,3412936,True
+108_S7F,Primary in Tube,646,,,Box20,Stool,Human Infant,MetaG,108,,2018-03-28,,2019-12-24,,S7F,,,108_S7F,3,3,4,636.0,Home,5337235,True
+121_V10,Primary in Tube,647,,,Box20,Stool,Human Infant,MetaG,121,,2018-06-30,,2019-10-11,,V10,15 months,,121_V10,3,6,8,468.0,Home,3330047,True
+123_S4,Primary in Tube,648,,,Box20,Stool,Human Infant,MetaG,123,,2018-07-08,,2020-02-25,,S4,,,123_S4,2,3,3,597.0,Home,8088278,True
+123_S4F,Primary in Tube,649,,,Box20,Stool,Human Infant,MetaG,123,,2018-07-08,,2020-03-12,,S4F,,,123_S4F,2,3,4,613.0,Home,9755539,True
+125_V11,Primary in Tube,650,,,Box20,Stool,Human Infant,MetaG,125,,2018-08-16,,2020-02-19,,V11,18 months,,125_V11,5,6,5,552.0,Home,2120520,False
+204_A2F_1,Primary in Tube,651,,,Box20,Stool,Human Infant,MetaG,204,,2018-02-26,,2019-12-13,,A2F_1,,,204_A2F_1,3,4,5,655.0,Home,2171108,False
+204_A2F_2,Primary in Tube,652,,,Box20,Stool,Human Infant,MetaG,204,,2018-02-26,,2019-12-27,,A2F_2,,,204_A2F_2,3,4,6,669.0,Home,3542556,True
+220_V11,Primary in Tube,653,,,Box20,Stool,Human Infant,MetaG,220,,2018-04-13,,2019-10-15,,V11,18 months,,220_V11,2,1,10,550.0,Home,9262691,True
+228_A3,Primary in Tube,654,,,Box20,Stool,Human Infant,MetaG,228,,2018-05-07,,2020-02-04,,A3,,,228_A3,8,5,1,638.0,Home,3398693,True
+234_V9,Primary in Tube,655,,,Box20,Stool,Human Infant,MetaG,234,,2018-06-15,,2019-08-09,,V9,12 months,,234_V9,4,4,6,420.0,Home,8431320,True
+239_V11,Primary in Tube,656,,,Box20,Stool,Human Infant,MetaG,239,,2018-06-24,,2020-01-16,,V11,18 months,,239_V11,1,3,4,571.0,Home,3436495,True
+239_S3,Primary in Tube,657,,,Box20,Stool,Human Infant,MetaG,239,,2018-06-24,,2020-02-21,,S3,,,239_S3,1,3,5,607.0,Home,3808624,True
+241_V11,Primary in Tube,658,,,Box20,Stool,Human Infant,MetaG,241,,2018-06-24,,2020-01-21,,V11,18 months,,241_V11,1,2,5,576.0,Home,4277936,True
+245_S1F,Primary in Tube,659,,,Box20,Stool,Human Infant,MetaG,245,,2018-07-22,,2019-11-20,,S1F,,,245_S1F,2,5,11,486.0,Home,9599695,True
+249_A1,Primary in Tube,660,,,Box20,Stool,Human Infant,MetaG,249,,2018-08-24,,2020-04-01,,A1,,,249_A1,4,5,4,586.0,Home,12549256,True
+252_V10,Primary in Tube,661,,,Box20,Stool,Human Infant,MetaG,252,,2018-09-06,,2019-12-06,,V10,15 months,,252_V10,9,4,12,456.0,Home,5239178,True
+254_A2F,Primary in Tube,662,,,Box20,Stool,Human Infant,MetaG,254,,2018-09-28,,2020-01-15,,A2F,,,254_A2F,1,4,1,474.0,Home,2424903,False
+263_V9,Primary in Tube,663,,,Box20,Stool,Human Infant,MetaG,263,,2018-11-24,,2019-12-06,,V9,12 months,,263_V9,6,6,10,377.0,Home,4719624,True
+108_A5,Primary in Tube,664,,,Box21,Stool,Human Infant,MetaG,108,,2018-03-28,,2020-02-28,,A5,,,108_A5,3,3,5,702.0,Home,3858707,True
+110_V12,Primary in Tube,665,,,Box21,Stool,Human Infant,MetaG,110,,2018-05-07,,2020-05-13,,V12,24 months,,110_V12,3,7,9,737.0,Clinic,3199632,True
+130_V11,Primary in Tube,666,,,Box21,Stool,Human Infant,MetaG,130,,2018-10-27,,2020-05-20,,V11,18 months,,130_V11,4,3,10,571.0,Home,10883728,True
+136_V11,Primary in Tube,667,,,Box21,Stool,Human Infant,MetaG,136,,2018-12-14,,2020-06-23,,V11,18 months,,136_V11,7,6,11,557.0,Home,5094396,True
+215_V12,Primary in Tube,668,,,Box21,Stool,Human Infant,MetaG,215,,2018-03-29,,2020-03-30,,V12,24 months,,215_V12,5,2,1,732.0,Home,3866440,True
+227_S2,Primary in Tube,669,,,Box21,Stool,Human Infant,MetaG,227,,2018-04-30,,2020-01-17,,S2,,,227_S2,1,7,2,627.0,Home,4160121,True
+227_S2F,Primary in Tube,670,,,Box21,Stool,Human Infant,MetaG,227,,2018-04-30,,2020-02-08,,S2F,,,227_S2F,1,7,3,649.0,Home,5149568,True
+228_V12,Primary in Tube,671,,,Box21,Stool,Human Infant,MetaG,228,,2018-05-07,,2020-04-28,,V12,24 months,,228_V12,8,5,2,722.0,Home,4406622,True
+234_V11,Primary in Tube,672,,,Box21,Stool,Human Infant,MetaG,234,,2018-06-15,,2020-02-05,,V11,18 months,,234_V11,4,4,7,600.0,Home,6362596,True
+234_V12,Primary in Tube,673,,,Box21,Stool,Human Infant,MetaG,234,,2018-06-15,,2020-06-13,,V12,24 months,,234_V12,4,4,8,729.0,Home,6843366,True
+235_V12,Primary in Tube,674,,,Box21,Stool,Human Infant,MetaG,235,,2018-06-13,,2020-06-10,,V12,24 months,,235_V12,8,6,7,728.0,Home,2978021,True
+236_V12,Primary in Tube,675,,,Box21,Stool,Human Infant,MetaG,236,,2018-06-12,,2020-06-16,,V12,24 months,,236_V12,6,3,9,735.0,Home,3573676,True
+238_V11,Primary in Tube,676,,,Box21,Stool,Human Infant,MetaG,238,,2018-06-20,,2019-12-23,,V11,18 months,,238_V11,7,2,1,551.0,Home,2845859,True
+247_V11,Primary in Tube,677,,,Box21,Stool,Human Infant,MetaG,247,,2018-08-24,,2020-05-17,,V11,18 months,,247_V11,6,2,1,632.0,Home,5193049,True
+249_A1F,Primary in Tube,678,,,Box21,Stool,Human Infant,MetaG,249,,2018-08-24,,2020-04-16,,A1F,,,249_A1F,4,5,5,601.0,Home,11080499,True
+251_V11,Primary in Tube,679,,,Box21,Stool,Human Infant,MetaG,251,,2018-08-29,,2020-03-30,,V11,18 months,,251_V11,9,2,4,579.0,Home,14156738,True
+256_V12,Primary in Tube,680,,,Box21,Stool,Human Infant,MetaG,256,,2018-10-02,,2020-10-21,,V12,24 months,,256_V12,3,7,12,750.0,Home,5323569,True
+259_V11,Primary in Tube,681,,,Box21,Stool,Human Infant,MetaG,259,,2018-10-26,,2020-05-05,,V11,18 months,,259_V11,6,5,1,557.0,Home,6613814,True
+260_V11,Primary in Tube,682,,,Box21,Stool,Human Infant,MetaG,260,,2018-11-05,,2020-05-04,,V11,18 months,,260_V11,4,6,5,546.0,Home,10665896,True
+236_V11,Primary in Tube,683,,,Box21,Stool,Human Infant,MetaG,236,,2018-06-12,,2019-12-23,,V11,18 months,,236_V11,6,3,10,559.0,Home,3195522,True
+264_V11,Primary in Tube,684,,,Box21,Stool,Human Infant,MetaG,264,,2018-12-04,,2020-06-03,,V11,18 months,,264_V11,9,3,4,547.0,Home,16731108,True
+130_V12,Primary in Tube,685,,,Box22,Stool,Human Infant,MetaG,130,,2018-10-27,,2020-10-27,,V12,24 months,,130_V12,4,3,11,731.0,Clinic,7842920,True
+136_V12,Primary in Tube,686,,,Box22,Stool,Human Infant,MetaG,136,,2018-12-14,,2021-01-04,,V12,24 months,,136_V12,7,6,12,752.0,Clinic,4436948,True
+259_V12,Primary in Tube,687,,,Box22,Stool,Human Infant,MetaG,259,,2018-10-26,,2020-10-20,,V12,24 months,,259_V12,6,5,2,725.0,Home,4665073,True
+260_V12,Primary in Tube,688,,,Box22,Stool,Human Infant,MetaG,260,,2018-11-05,,2020-11-11,,V12,24 months,,260_V12,4,6,6,737.0,Home,7073882,True
+263_V11,Primary in Tube,689,,,Box22,Stool,Human Infant,MetaG,263,,2018-11-24,,2020-06-26,,V11,18 months,,263_V11,6,6,11,580.0,Home,4355346,True
+264_V12,Primary in Tube,690,,,Box22,Stool,Human Infant,MetaG,264,,2018-12-04,,2020-12-21,,V12,24 months,,264_V12,9,3,5,748.0,Home,15797733,True
+216_V1,Primary in Tube,691,,,Box23,Stool,Human Infant,MetaG,216,,2018-04-06,,2018-04-10,,V1,1-6 days,,216_V1,8,2,1,4.0,Home,3451812,True
+213_V2,Primary in Tube,692,,,Box23,Stool,Human Infant,MetaG,213,,2018-03-31,,2018-04-10,,V2,7-13 days,,213_V2,4,1,9,10.0,Home,6502726,True
+111_V2,Primary in Tube,693,,,Box23,Stool,Human Infant,MetaG,111,,2018-05-05,,2018-05-16,,V2,7-13 days,,111_V2,4,4,9,11.0,Home,11209067,True
+213_V5,Primary in Tube,694,,,Box23,Stool,Human Infant,MetaG,213,,2018-03-31,,2018-05-25,,V5,2 months,,213_V5,4,1,10,55.0,Home,9244311,True
+204_V4,Primary in Tube,695,,,Box23,Stool,Human Infant,MetaG,204,,2018-02-26,,2018-03-28,,V4,1 month,,204_V4,3,4,7,30.0,Home,2514847,True
+213_V1,Primary in Tube,696,,,Box23,Stool,Human Infant,MetaG,213,,2018-03-31,,2018-04-06,,V1,1-6 days,,213_V1,4,1,11,6.0,Home,7065093,True
+104_V2,Primary in Tube,697,,,Box23,Stool,Human Infant,MetaG,104,,2018-03-12,,2018-03-23,,V2,7-13 days,,104_V2,4,7,11,11.0,Home,11101098,True
+105_V6,Primary in Tube,698,,,Box23,Stool,Human Infant,MetaG,105,,2018-03-30,,2018-08-02,,V6,4 months,,105_V6,7,3,1,125.0,Home,3448516,True
+102_V5,Primary in Tube,699,,,Box23,Stool,Human Infant,MetaG,102,,2018-02-20,,2018-04-20,,V5,2 months,,102_V5,1,1,6,59.0,Clinic,5676156,True
+102_V1,Primary in Tube,700,,,Box23,Stool,Human Infant,MetaG,102,,2018-02-20,,2018-02-26,,V1,1-6 days,,102_V1,1,1,7,6.0,Clinic,2878280,True
+101_V3,Primary in Tube,701,,,Box23,Stool,Human Infant,MetaG,101,,2018-01-24,,2018-02-16,,V3,2 weeks,,101_V3,7,5,11,23.0,Clinic,3913950,True
+216_V2,Primary in Tube,702,,,Box23,Stool,Human Infant,MetaG,216,,2018-04-06,,2018-04-18,,V2,7-13 days,,216_V2,8,2,2,12.0,Clinic,3021332,True
+105_V4,Primary in Tube,703,,,,Stool,Human Infant,MetaG,105,,2018-03-30,,2018-04-25,,V4,7-13 days,,105_V4,7,3,2,26.0,Home,4036103,True
+101_V5,Primary in Tube,704,,,Box23,Stool,Human Infant,MetaG,101,,2018-01-24,,2018-03-26,,V5,2 months,,101_V5,7,5,12,61.0,Clinic,3566146,True
+105_V7,Primary in Tube,705,,,Box23,Stool,Human Infant,MetaG,105,,2018-03-30,,2018-09-26,,V7,6 months,,105_V7,7,3,3,180.0,Home,4171109,True
+216_V4,Primary in Tube,706,,,Box23,Stool,Human Infant,MetaG,216,,2018-04-06,,2018-05-21,,V4,1 month,,216_V4,8,2,3,45.0,Clinic,4722172,True
+101_S1,Primary in Tube,707,,,Box23,Stool,Human Infant,MetaG,101,,2018-01-24,,2018-03-09,,S1,,,101_S1,7,6,1,44.0,Clinic,4694058,True
+102_V3,Primary in Tube,708,,,Box23,Stool,Human Infant,MetaG,102,,2018-02-20,,2018-03-07,,V3,2 weeks,,102_V3,1,1,8,15.0,Clinic,2840363,True
+236_A3F,Primary in Tube,709,,,,Stool,Human Infant,MetaG,236,,2018-06-12,,2019-06-09,,A3F,,,236_A3F,6,3,11,362.0,Home,3457764,True

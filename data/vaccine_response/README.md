@@ -1,0 +1,2 @@
+- `titers.tsv` contains raw antibody titer levels from the cohort
+- `vaccine_response_y1.tsv` and `vaccine_response_y2.tsv` contain processed antibody response data

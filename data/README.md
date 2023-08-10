@@ -1,0 +1,3 @@
+This folder contains data files organised into subfolders, each with their own README. Additionally: 
+- `metabolomics_abunds.xlsx` contains metabolite peak area data from the metabolomics assay. Note that the samples used to generate this data were plasma or serum and were collected via differing age-appropriate methods. Samples are given an ID including the participant ID, visit code and collection data. 
+- `proteomics_abunds.txt` contains proteomics data generated from month 2 samples.

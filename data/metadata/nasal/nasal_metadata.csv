@@ -1,0 +1,1009 @@
+SubmissionType,SampleNumber,SampleID,SampleIDValidation,DiversigenCheckInSampleName,ReplacesLowVolumeSampleID,BoxLocation,SampleType,SampleSource,SequencingType,BabyN,BabyN_checked,DOB,DOB_checked,CollectionDate,CollectionDate_checked,VisitCode,VisitCode_checked,SwabCode,OutputFileName,Plate,Row,Column
+Primary in Tube,1,103_V5_NS_A1,,,,"Box 1, A1",Nasal Swab,Human Infant,16S,103,,2018-02-21,,2018-04-27,,V5,,A1,103_V5_NS_A1,4,6,12
+Primary in Tube,2,106_V5_NS_A1,,,,"Box 1, A3",Nasal Swab,Human Infant,16S,106,,2018-03-27,,2018-05-29,,V5,,A1,106_V5_NS_A1,8,3,4
+Primary in Tube,3,107_V2_NS_A1,,,,"Box 1, A4",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2018-04-09,,V2,,A1,107_V2_NS_A1,11,2,2
+Primary in Tube,4,107_V3_NS_A1,,107_V8_NS_A1,,"Box 1, A5",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2018-04-20,,V3,,A1,107_V3_NS_A1,11,2,3
+Primary in Tube,5,107_V5_NS_A1,,,,"Box 1, A8",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2018-06-04,,V5,,A1,107_V5_NS_A1,11,2,4
+Primary in Tube,6,108_V4_NS_A1,,,,"Box 1, A9",Nasal Swab,Human Infant,16S,108,,2018-03-28,,2018-05-21,,V4,,A1,108_V4_NS_A1,5,2,2
+Primary in Tube,7,108_V5_NS_A1,,,,"Box 1, B1",Nasal Swab,Human Infant,16S,108,,2018-03-28,,2018-05-29,,V5,,A1,108_V5_NS_A1,5,2,3
+Primary in Tube,8,109_V1_NS_A1,,,,"Box 1, B2",Nasal Swab,Human Infant,16S,109,,2018-04-17,,2018-04-20,,V1,,A1,109_V1_NS_A1,6,1,1
+Primary in Tube,9,109_V5_NS_A1,,,,"Box 1, B7",Nasal Swab,Human Infant,16S,109,,2018-04-17,,2018-06-18,,V5,,A1,109_V5_NS_A1,6,1,2
+Primary in Tube,10,109_S1_NS_A1,,,,"Box 1, B8",Nasal Swab,Human Infant,16S,109,,2018-04-17,,2018-07-02,,S1,,A1,109_S1_NS_A1,6,1,3
+Primary in Tube,11,116_V3_NS_A1,,,,"Box 1, D7",Nasal Swab,Human Infant,16S,116,,2018-05-26,,2018-06-20,,V3,,A1,116_V3_NS_A1,10,2,7
+Primary in Tube,12,117_V3_NS_A1,,,,"Box 1, E1",Nasal Swab,Human Infant,16S,117,,2018-06-10,,2018-06-29,,V3,,A1,117_V3_NS_A1,6,5,5
+Primary in Tube,13,201_V6_NS_A1,,,,"Box 1, E4",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2018-06-25,,V6,,A1,201_V6_NS_A1,11,1,1
+Primary in Tube,14,202_V5_NS_A1,,,,"Box 1, E5",Nasal Swab,Human Infant,16S,202,,2018-02-27,,2018-05-08,,V5,,A1,202_V5_NS_A1,8,1,1
+Primary in Tube,15,203_V6_NS_A1,,,,"Box 1, F2",Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-06-29,,V6,,A1,203_V6_NS_A1,12,1,1
+Primary in Tube,16,204_V5_NS_A1,,,,"Box 1, F3",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2018-04-27,,V5,,A1,204_V5_NS_A1,7,4,11
+Primary in Tube,17,204_V6_NS_A1,,,,"Box 1, F4",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2018-07-02,,V6,,A1,204_V6_NS_A1,7,4,12
+Primary in Tube,18,205_V6_NS_A1,,,,"Box 1, F7",Nasal Swab,Human Infant,16S,205,,2018-02-28,,2018-06-29,,V6,,A1,205_V6_NS_A1,12,5,5
+Primary in Tube,19,207_V5_NS_A1,,,,"Box 1, G5",Nasal Swab,Human Infant,16S,207,,2018-03-11,,2018-05-18,,V5,,A1,207_V5_NS_A1,11,5,4
+Primary in Tube,20,209_V4_NS_A1,,208_V4_NS_A1,,"Box 1, G8",Nasal Swab,Human Infant,16S,209,,2018-03-14,,2018-04-27,,V4,,A1,209_V4_NS_A1,8,2,6
+Primary in Tube,21,209_V5_NS_A1,,,,"Box 1, G9",Nasal Swab,Human Infant,16S,209,,2018-03-14,,2018-05-08,,V5,,A1,209_V5_NS_A1,8,2,7
+Primary in Tube,22,210_V5_NS_A1,,,,"Box 1, H1",Nasal Swab,Human Infant,16S,210,,2018-03-10,,2018-05-16,,V5,,A1,210_V5_NS_A1,5,3,6
+Primary in Tube,23,212_V5_NS_A1,,,,"Box 1, H4",Nasal Swab,Human Infant,16S,212,,2018-03-18,,2018-05-23,,V5,,A1,212_V5_NS_A1,9,4,12
+Primary in Tube,24,214_V5_NS_A1,,,,"Box 1, I2",Nasal Swab,Human Infant,16S,214,,2018-04-04,,2018-07-02,,V5,,A1,214_V5_NS_A1,7,3,2
+Primary in Tube,25,215_V5_NS_A1,,,,"Box 1, I7",Nasal Swab,Human Infant,16S,215,,2018-03-29,,2018-06-01,,V5,,A1,215_V5_NS_A1,2,3,12
+Primary in Tube,26,217_V4_NS_A1,,,,"Box 2, A3",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2018-05-09,,V4,,A1,217_V4_NS_A1,6,6,10
+Primary in Tube,27,217_S1_NS_A1,,,,"Box 2, A4",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2018-06-04,,S1,,A1,217_S1_NS_A1,6,6,11
+Primary in Tube,28,217_V5_NS_A1,,,,"Box 2, A5",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2018-06-12,,V5,,A1,217_V5_NS_A1,6,6,12
+Primary in Tube,29,217_S2_NS_A1,,,,"Box 2, A6",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2018-06-18,,S2,,A1,217_S2_NS_A1,6,7,1
+Primary in Tube,30,218_V5_NS_A1,,,,"Box 2, A9",Nasal Swab,Human Infant,16S,218,,2018-04-03,,2018-06-06,,V5,,A1,218_V5_NS_A1,3,3,10
+Primary in Tube,31,219_V5_NS_A1,,,,"Box 2, B5",Nasal Swab,Human Infant,16S,219,,2018-04-10,,2018-06-25,,V5,,A1,219_V5_NS_A1,9,1,1
+Primary in Tube,32,220_V3_NS_A1,,,,"Box 2, B8",Nasal Swab,Human Infant,16S,220,,2018-04-13,,2018-04-27,,V3,,A1,220_V3_NS_A1,5,1,1
+Primary in Tube,33,220_V4_NS_A1,,,,"Box 2, B9",Nasal Swab,Human Infant,16S,220,,2018-04-13,,2018-05-14,,V4,,A1,220_V4_NS_A1,5,1,2
+Primary in Tube,34,220_V5_NS_A1,,,,"Box 2, C3",Nasal Swab,Human Infant,16S,220,,2018-04-13,,2018-06-13,,V5,,A1,220_V5_NS_A1,5,1,3
+Primary in Tube,35,221_V4_NS_A1,,,,"Box 2, C8",Nasal Swab,Human Infant,16S,221,,2018-04-16,,2018-05-30,,V4,,A1,221_V4_NS_A1,10,5,6
+Primary in Tube,36,221_V5_NS_A1,,,,"Box 2, C9",Nasal Swab,Human Infant,16S,221,,2018-04-16,,2018-06-25,,V5,,A1,221_V5_NS_A1,10,5,7
+Primary in Tube,37,223_V5_NS_A1,,,,"Box 2, E2",Nasal Swab,Human Infant,16S,223,,2018-04-27,,2018-07-02,,V5,,A1,223_V5_NS_A1,5,5,12
+Primary in Tube,38,225_V2_NS_A1,,,,"Box 2, E7",Nasal Swab,Human Infant,16S,225,,2018-04-30,,2018-05-08,,V2,,A1,225_V2_NS_A1,10,4,3
+Primary in Tube,39,225_V3_NS_A1,,,,"Box 2, E8",Nasal Swab,Human Infant,16S,225,,2018-04-30,,2018-05-18,,V3,,A1,225_V3_NS_A1,10,4,4
+Primary in Tube,40,226_V3_NS_A1,,,,"Box 2, F2",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2018-05-17,,V3,,A1,226_V3_NS_A1,2,1,1
+Primary in Tube,41,226_V4_NS_A1,,,,"Box 2, F3",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2018-05-30,,V4,,A1,226_V4_NS_A1,2,1,2
+Primary in Tube,42,226_V5_NS_A1,,,,"Box 2, F4",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2018-06-28,,V5,,A1,226_V5_NS_A1,2,1,3
+Primary in Tube,43,227_V4_NS_A1,,,,"Box 2, F7",Nasal Swab,Human Infant,16S,227,,2018-04-30,,2018-06-07,,V4,,A1,227_V4_NS_A1,10,3,1
+Primary in Tube,44,227_V5_NS_A1,,,,"Box 2, F8",Nasal Swab,Human Infant,16S,227,,2018-04-30,,2018-06-26,,V5,,A1,227_V5_NS_A1,10,3,2
+Primary in Tube,45,229_V5_NS_A1,,,,"Box 2, G7",Nasal Swab,Human Infant,16S,229,,2018-04-29,,2018-07-02,,V5,,A1,229_V5_NS_A1,7,4,5
+Primary in Tube,46,230_V2_NS_1b,,,,"Box 2, H2",Nasal Swab,Human Infant,16S,230,,2018-05-10,,2018-05-23,,V2,,1b,230_V2_NS_1b,1,2,2
+Primary in Tube,47,230_V4_NS_A1,,,,"Box 2, H3",Nasal Swab,Human Infant,16S,230,,2018-05-10,,2018-06-06,,V4,,A1,230_V4_NS_A1,1,2,3
+Primary in Tube,48,231_V1_NS_A1,,,,"Box 2, H4",Nasal Swab,Human Infant,16S,231,,2018-05-09,,2018-05-14,,V1,,A1,231_V1_NS_A1,8,4,6
+Primary in Tube,49,231_V3_NS_A1,,,,"Box 2, H5",Nasal Swab,Human Infant,16S,231,,2018-05-09,,2018-05-24,,V3,,A1,231_V3_NS_A1,8,4,7
+Primary in Tube,50,232_V3_NS_A1,,,,"Box 2, H8",Nasal Swab,Human Infant,16S,232,,2018-05-14,,2018-05-29,,V3,,A1,232_V3_NS_A1,7,1,10
+Primary in Tube,51,232_V4_NS_A1,,,,"Box 2, H9",Nasal Swab,Human Infant,16S,232,,2018-05-14,,2018-06-11,,V4,,A1,232_V4_NS_A1,7,1,11
+Primary in Tube,52,235_V1_NS_A1,,,,"Box 2, I2",Nasal Swab,Human Infant,16S,235,,2018-06-13,,2018-06-19,,V1,,A1,235_V1_NS_A1,10,7,4
+Primary in Tube,53,235_V3_NS_A1,,,,"Box 2, I3",Nasal Swab,Human Infant,16S,235,,2018-06-13,,2018-06-28,,V3,,A1,235_V3_NS_A1,10,7,5
+Primary in Tube,54,103_V3_NS_A1,,,,"Box 2, I5",Nasal Swab,Human Infant,16S,103,,2018-02-21,,2018-03-07,,V3,,A1,103_V3_NS_A1,4,7,1
+Primary in Tube,55,103_V4_NS_A1,,,,"Box 2, I6",Nasal Swab,Human Infant,16S,103,,2018-02-21,,2018-03-29,,V4,,A1,103_V4_NS_A1,4,7,2
+Primary in Tube,56,201_V2_NS_A1,,,,"Box 2, I7",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2018-03-05,,V2,,A1,201_V2_NS_A1,11,1,2
+Primary in Tube,57,201_V4_NS_A1,,,,"Box 2, I8",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2018-03-22,,V4,,A1,201_V4_NS_A1,11,1,3
+Primary in Tube,58,202_V2_NS_A1,,,,"Box 2, I9",Nasal Swab,Human Infant,16S,202,,2018-02-27,,2018-03-05,,V2,,A1,202_V2_NS_A1,8,1,2
+Primary in Tube,59,203_V3_NS_A1,,203_NS_V3_A1,,"Box 3, A2",Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-03-15,,V3,,A1,203_V3_NS_A1,12,1,2
+Primary in Tube,60,204_V2_NS_A1,,,,"Box 3, A3",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2018-03-07,,V2,,A1,204_V2_NS_A1,7,5,1
+Primary in Tube,61,204_V3_NS_A1,,,,"Box 3, A4",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2018-03-15,,V3,,A1,204_V3_NS_A1,7,5,2
+Primary in Tube,62,204_V4_NS_A1,,,,"Box 3, A5",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2018-03-28,,V4,,A1,204_V4_NS_A1,7,5,3
+Primary in Tube,63,205_V2_NS_A1,,,,"Box 3, A6",Nasal Swab,Human Infant,16S,205,,2018-02-28,,2018-03-08,,V2,,A1,205_V2_NS_A1,12,5,6
+Primary in Tube,64,206_V1_NS_A1,,"1V1, 3/12/18, 18-2-206",,"Box 3, A7",Nasal Swab,Human Infant,16S,206,,2018-03-09,,2018-03-12,,V1,,A1,206_V1_NS_A1,3,3,1
+Primary in Tube,65,207_V1_NS_A1,,,,"Box 3, A9",Nasal Swab,Human Infant,16S,207,,2018-03-11,,2018-03-15,,V1,,A1,207_V1_NS_A1,11,5,5
+Primary in Tube,66,208_V2_NS_A1,,208_NS_V2_A1,,"Box 3, B1",Nasal Swab,Human Infant,16S,208,,2018-03-07,,2018-03-15,,V2,,A1,208_V2_NS_A1,5,4,5
+Primary in Tube,67,208_V3_NS_A1,,203_NS_V3_A1,,"Box 3, B2",Nasal Swab,Human Infant,16S,208,,2018-03-07,,2018-03-22,,V3,,A1,208_V3_NS_A1,5,4,6
+Primary in Tube,68,209_V2_NS_A1,,,,"Box 3, B3",Nasal Swab,Human Infant,16S,209,,2018-03-14,,2018-03-21,,V2,,A1,209_V2_NS_A1,8,2,8
+Primary in Tube,69,210_V2_NS_A1,,,,"Box 3, B4",Nasal Swab,Human Infant,16S,210,,2018-03-10,,2018-03-21,,V2,,A1,210_V2_NS_A1,5,3,7
+Primary in Tube,70,210_V3_NS_A1,,,,"Box 3, B5",Nasal Swab,Human Infant,16S,210,,2018-03-10,,2018-03-28,,V3,,A1,210_V3_NS_A1,5,3,8
+Primary in Tube,71,211_V2_NS_A1,,,,"Box 3, B6",Nasal Swab,Human Infant,16S,211,,2018-03-11,,2018-03-22,,V2,,A1,211_V2_NS_A1,5,5,2
+Primary in Tube,72,103_V7_NS_A1,,,,"Box 3, B8",Nasal Swab,Human Infant,16S,103,,2018-02-21,,2018-08-24,,V7,,A1,103_V7_NS_A1,4,7,3
+Primary in Tube,73,103_V8_NS_A1,,,,"Box 3, B9",Nasal Swab,Human Infant,16S,103,,2018-02-21,,2018-11-21,,V8,,A1,103_V8_NS_A1,4,7,4
+Primary in Tube,74,106_V6_NS_A1,,,,"Box 3, C1",Nasal Swab,Human Infant,16S,106,,2018-03-27,,2018-07-31,,V6,,A1,106_V6_NS_A1,8,3,5
+Primary in Tube,75,106_V7_NS_A1,,,,"Box 3, C2",Nasal Swab,Human Infant,16S,106,,2018-03-27,,2018-10-30,,V7,,A1,106_V7_NS_A1,8,3,6
+Primary in Tube,76,107_V6_NS_A1,,,,"Box 3, C3",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2018-08-17,,V6,,A1,107_V6_NS_A1,11,2,5
+Primary in Tube,77,107_S1_NS_A1,,,,"Box 3, C4",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2018-09-21,,S1,,A1,107_S1_NS_A1,11,2,6
+Primary in Tube,78,107_V7_NS_A1,,,,"Box 3, C5",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2018-10-19,,V7,,A1,107_V7_NS_A1,11,2,7
+Primary in Tube,79,108_V6_NS_A1,,,,"Box 3, C6",Nasal Swab,Human Infant,16S,108,,2018-03-28,,2018-08-02,,V6,,A1,108_V6_NS_A1,5,2,4
+Primary in Tube,80,108_V7_NS_A1,,,,"Box 3, C7",Nasal Swab,Human Infant,16S,108,,2018-03-28,,2018-10-04,,V7,,A1,108_V7_NS_A1,5,2,5
+Primary in Tube,81,109_V6_NS_A1,,,,"Box 3, C8",Nasal Swab,Human Infant,16S,109,,2018-04-17,,2018-08-21,,V6,,A1,109_V6_NS_A1,6,1,4
+Primary in Tube,82,109_V7_NS_A1,,,,"Box 3, C9",Nasal Swab,Human Infant,16S,109,,2018-04-17,,2018-10-25,,V7,,A1,109_V7_NS_A1,6,1,5
+Primary in Tube,83,109_S2_NS_A1,,,,"Box 3, D1",Nasal Swab,Human Infant,16S,109,,2018-04-17,,2018-11-26,,S2,,A1,109_S2_NS_A1,6,1,6
+Primary in Tube,84,110_V5_NS_A1,,,,"Box 3, D2",Nasal Swab,Human Infant,16S,110,,2018-05-07,,2018-07-09,,V5,,A1,110_V5_NS_A1,12,4,4
+Primary in Tube,85,110_V6_NS_A1,,,,"Box 3, D3",Nasal Swab,Human Infant,16S,110,,2018-05-07,,2018-09-10,,V6,,A1,110_V6_NS_A1,12,4,5
+Primary in Tube,86,110_S2_NS_A1,,,,"Box 3, D4",Nasal Swab,Human Infant,16S,110,,2018-05-07,,2018-10-03,,S2,,A1,110_S2_NS_A1,12,4,6
+Primary in Tube,87,110_V7_NS_A1,,,,"Box 3, D5",Nasal Swab,Human Infant,16S,110,,2018-05-07,,2018-11-12,,V7,,A1,110_V7_NS_A1,12,4,7
+Primary in Tube,88,112_V7_NS_A1,,,,"Box 3, D7",Nasal Swab,Human Infant,16S,112,,2018-05-03,,2018-11-28,,V7,,A1,112_V7_NS_A1,1,5,1
+Primary in Tube,89,113_V5_NS_A1,,,,"Box 3, D8",Nasal Swab,Human Infant,16S,113,,2018-05-15,,2018-07-26,,V5,,A1,113_V5_NS_A1,2,3,2
+Primary in Tube,90,113_V6_NS_A1,,,,"Box 3, D9",Nasal Swab,Human Infant,16S,113,,2018-05-15,,2018-09-28,,V6,,A1,113_V6_NS_A1,2,3,3
+Primary in Tube,91,113_V7_NS_A1,,,,"Box 3, E1",Nasal Swab,Human Infant,16S,113,,2018-05-15,,2018-11-30,,V7,,A1,113_V7_NS_A1,2,3,4
+Primary in Tube,92,114_V5_NS_A1,,,,"Box 3, E2",Nasal Swab,Human Infant,16S,114,,2018-05-21,,2018-07-25,,V5,,A1,114_V5_NS_A1,3,4,6
+Primary in Tube,93,114_V6_NS_A1,,,,"Box 3, E3",Nasal Swab,Human Infant,16S,114,,2018-05-21,,2018-09-25,,V6,,A1,114_V6_NS_A1,3,4,7
+Primary in Tube,94,114_V7_NS_A1,,,,"Box 3, E4",Nasal Swab,Human Infant,16S,114,,2018-05-21,,2018-11-27,,V7,,A1,114_V7_NS_A1,3,4,8
+Primary in Tube,95,115_V5_NS_A1,,,,"Box 3, E5",Nasal Swab,Human Infant,16S,115,,2018-05-24,,2018-08-24,,V5,,A1,115_V5_NS_A1,11,3,6
+Primary in Tube,96,115_V6_NS_A1,,,,"Box 3, E6",Nasal Swab,Human Infant,16S,115,,2018-05-24,,2018-10-26,,V6,,A1,115_V6_NS_A1,11,3,7
+Primary in Tube,97,116_V5_NS_A1,,,,"Box 3, E7",Nasal Swab,Human Infant,16S,116,,2018-05-26,,2018-07-23,,V5,,A1,116_V5_NS_A1,10,2,8
+Primary in Tube,98,116_V6_NS_A1,,,,"Box 3, E8",Nasal Swab,Human Infant,16S,116,,2018-05-26,,2018-09-24,,V6,,A1,116_V6_NS_A1,10,2,9
+Primary in Tube,99,116_V7_NS_A1,,,,"Box 3, E9",Nasal Swab,Human Infant,16S,116,,2018-05-26,,2018-11-26,,V7,,A1,116_V7_NS_A1,10,2,10
+Primary in Tube,100,117_V5_NS_A1,,,,"Box 3, F1",Nasal Swab,Human Infant,16S,117,,2018-06-10,,2018-08-13,,V5,,A1,117_V5_NS_A1,6,5,6
+Primary in Tube,101,117_V6_NS_A1,,,,"Box 3, F2",Nasal Swab,Human Infant,16S,117,,2018-06-10,,2018-10-22,,V6,,A1,117_V6_NS_A1,6,5,7
+Primary in Tube,102,201_A1_1_NS_A1,,,,"Box 3, F3",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2018-11-23,,A1_1,,A1,201_A1_1_NS_A1,11,1,4
+Primary in Tube,103,201_A1_2_NS_A1,,,,"Box 3, F4",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2018-11-26,,A1_2,,A1,201_A1_2_NS_A1,11,1,5
+Primary in Tube,104,202_S1_NS_A1,,,,"Box 3, F5",Nasal Swab,Human Infant,16S,202,,2018-02-27,,2018-07-23,,S1,,A1,202_S1_NS_A1,8,1,3
+Primary in Tube,105,202_V6_NS_A1,,,,"Box 3, F6",Nasal Swab,Human Infant,16S,202,,2018-02-27,,2018-08-03,,V6,,A1,202_V6_NS_A1,8,1,4
+Primary in Tube,106,202_V7_NS_A1,,,,"Box 3, F7",Nasal Swab,Human Infant,16S,202,,2018-02-27,,2018-09-25,,V7,,A1,202_V7_NS_A1,8,1,5
+Primary in Tube,107,202_V8_NS_A1,,,,"Box 3, F8",Nasal Swab,Human Infant,16S,202,,2018-02-27,,2018-11-27,,V8,,A1,202_V8_NS_A1,8,1,6
+Primary in Tube,108,203_V7_NS_A1,,,,"Box 3, F9",Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-08-28,,V7,,A1,203_V7_NS_A1,12,1,3
+Primary in Tube,109,203_S3_NS_A1,,,,"Box 3, G1",Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-10-01,,S3,,A1,203_S3_NS_A1,12,1,4
+Primary in Tube,110,203_V8_NS_A1,,,,"Box 3, G2",Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-11-29,,V8,,A1,203_V8_NS_A1,12,1,5
+Primary in Tube,111,204_V7_NS_A1,,,,"Box 3, G3",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2018-08-28,,V7,,A1,204_V7_NS_A1,7,5,4
+Primary in Tube,112,204_V8_NS_A1,,,,"Box 3, G4",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2018-11-26,,V8,,A1,204_V8_NS_A1,7,5,5
+Primary in Tube,113,205_V7_NS_A1,,,,"Box 3, G5",Nasal Swab,Human Infant,16S,205,,2018-02-28,,2018-08-28,,V7,,A1,205_V7_NS_A1,12,5,7
+Primary in Tube,114,205_V8_NS_A1,,,,"Box 3, G6",Nasal Swab,Human Infant,16S,205,,2018-02-28,,2018-11-29,,V8,,A1,205_V8_NS_A1,12,5,8
+Primary in Tube,115,206_V6_NS_A1,,,,"Box 3, G7",Nasal Swab,Human Infant,16S,206,,2018-03-09,,2018-07-17,,V6,,A1,206_V6_NS_A1,3,3,2
+Primary in Tube,116,206_V7_NS_A1,,,,"Box 3, G8",Nasal Swab,Human Infant,16S,206,,2018-03-09,,2018-09-17,,V7,,A1,206_V7_NS_A1,3,3,3
+Primary in Tube,117,207_V6_NS_A1,,,,"Box 3, G9",Nasal Swab,Human Infant,16S,207,,2018-03-11,,2018-07-23,,V6,,A1,207_V6_NS_A1,11,5,6
+Primary in Tube,118,207_S3_NS_A1,,,,"Box 3, H1",Nasal Swab,Human Infant,16S,207,,2018-03-11,,2018-08-21,,S3,,A1,207_S3_NS_A1,11,5,7
+Primary in Tube,119,207_V7_NS_A1,,,,"Box 3, H2",Nasal Swab,Human Infant,16S,207,,2018-03-11,,2018-09-13,,V7,,A1,207_V7_NS_A1,11,5,8
+Primary in Tube,120,207_S5_NS_A1,,,,"Box 3, H3",Nasal Swab,Human Infant,16S,207,,2018-03-11,,2018-11-26,,S5,,A1,207_S5_NS_A1,11,5,9
+Primary in Tube,121,208_V6_NS_A1,,,,"Box 3, H4",Nasal Swab,Human Infant,16S,208,,2018-03-07,,2018-07-10,,V6,,A1,208_V6_NS_A1,5,4,7
+Primary in Tube,122,208_V7_NS_A1,,,,"Box 3, H5",Nasal Swab,Human Infant,16S,208,,2018-03-07,,2018-09-11,,V7,,A1,208_V7_NS_A1,5,4,8
+Primary in Tube,123,209_V6_NS_A1,,,,"Box 3, H6",Nasal Swab,Human Infant,16S,209,,2018-03-14,,2018-07-17,,V6,,A1,209_V6_NS_A1,8,2,9
+Primary in Tube,124,209_V7_NS_A1,,,,"Box 3, H7",Nasal Swab,Human Infant,16S,209,,2018-03-14,,2018-09-17,,V7,,A1,209_V7_NS_A1,8,2,10
+Primary in Tube,125,210_V6_NS_A1,,,,"Box 3, H8",Nasal Swab,Human Infant,16S,210,,2018-03-10,,2018-07-12,,V6,,A1,210_V6_NS_A1,5,3,9
+Primary in Tube,126,210_V7_NS_A1,,,,"Box 3, H9",Nasal Swab,Human Infant,16S,210,,2018-03-10,,2018-09-11,,V7,,A1,210_V7_NS_A1,5,3,10
+Primary in Tube,127,211_V6_NS_A1,,,,"Box 3, I1",Nasal Swab,Human Infant,16S,211,,2018-03-11,,2018-07-20,,V6,,A1,211_V6_NS_A1,5,5,3
+Primary in Tube,128,211_V7_NS_A1,,,,"Box 3, I2",Nasal Swab,Human Infant,16S,211,,2018-03-11,,2018-09-14,,V7,,A1,211_V7_NS_A1,5,5,4
+Primary in Tube,129,212_V6_NS_A1,,,,"Box 3, I3",Nasal Swab,Human Infant,16S,212,,2018-03-18,,2018-07-19,,V6,,A1,212_V6_NS_A1,9,5,1
+Primary in Tube,130,212_V7_NS_A1,,,,"Box 3, I4",Nasal Swab,Human Infant,16S,212,,2018-03-18,,2018-09-24,,V7,,A1,212_V7_NS_A1,9,5,2
+Primary in Tube,131,212_S1_NS_A1,,,,"Box 3, I5",Nasal Swab,Human Infant,16S,212,,2018-03-18,,2018-11-02,,S1,,A1,212_S1_NS_A1,9,5,3
+Primary in Tube,132,214_V6_NS_A1,,,,"Box 3, I6",Nasal Swab,Human Infant,16S,214,,2018-04-04,,2018-08-24,,V6,,A1,214_V6_NS_A1,7,3,3
+Primary in Tube,133,214_V7_NS_A1,,,,"Box 3, I7",Nasal Swab,Human Infant,16S,214,,2018-04-04,,2018-10-10,,V7,,A1,214_V7_NS_A1,7,3,4
+Primary in Tube,134,214_S1_NS_A1,,,,"Box 3, I8",Nasal Swab,Human Infant,16S,214,,2018-04-04,,2018-11-15,,S1,,A1,214_S1_NS_A1,7,3,5
+Primary in Tube,135,215_V6_NS_A1,,,,"Box 3, I9",Nasal Swab,Human Infant,16S,215,,2018-03-29,,2018-07-31,,V6,,A1,215_V6_NS_A1,2,4,1
+Primary in Tube,136,215_V7_NS_A1,,,,"Box 4, A1",Nasal Swab,Human Infant,16S,215,,2018-03-29,,2018-10-03,,V7,,A1,215_V7_NS_A1,2,4,2
+Primary in Tube,137,217_V6_NS_A1,,,,"Box 4, A2",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2018-08-16,,V6,,A1,217_V6_NS_A1,6,7,2
+Primary in Tube,138,217_V7_NS_A1,,,,"Box 4, A3",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2018-11-02,,V7,,A1,217_V7_NS_A1,6,7,3
+Primary in Tube,139,217_S3_NS_A1,,,,"Box 4, A4",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2018-11-27,,S3,,A1,217_S3_NS_A1,6,7,4
+Primary in Tube,140,218_V6_NS_A1,,,,"Box 4, A5",Nasal Swab,Human Infant,16S,218,,2018-04-03,,2018-08-08,,V6,,A1,218_V6_NS_A1,3,3,11
+Primary in Tube,141,218_A1_NS_A1,,,,"Box 4, A6",Nasal Swab,Human Infant,16S,218,,2018-04-03,,2018-09-13,,A1,,A1,218_A1_NS_A1,3,3,12
+Primary in Tube,142,219_V7_NS_A1,,,,"Box 4, A7",Nasal Swab,Human Infant,16S,219,,2018-04-10,,2018-10-17,,V7,,A1,219_V7_NS_A1,9,1,2
+Primary in Tube,143,220_V6_NS_A1,,,,"Box 4, A8",Nasal Swab,Human Infant,16S,220,,2018-04-13,,2018-08-13,,V6,,A1,220_V6_NS_A1,5,1,4
+Primary in Tube,144,220_V7_NS_A1,,,,"Box 4, A9",Nasal Swab,Human Infant,16S,220,,2018-04-13,,2018-10-16,,V7,,A1,220_V7_NS_A1,5,1,5
+Primary in Tube,145,221_V6_NS_A1,,,,"Box 4, B1",Nasal Swab,Human Infant,16S,221,,2018-04-16,,2018-08-23,,V6,,A1,221_V6_NS_A1,10,5,8
+Primary in Tube,146,221_V7_NS_A1,,,,"Box 4, B2",Nasal Swab,Human Infant,16S,221,,2018-04-16,,2018-10-18,,V7,,A1,221_V7_NS_A1,10,5,9
+Primary in Tube,147,222_V5_NS_A1,,,,"Box 4, B3",Nasal Swab,Human Infant,16S,222,,2018-04-17,,2018-08-09,,V5,,A1,222_V5_NS_A1,8,7,6
+Primary in Tube,148,222_V7_NS_A1,,,,"Box 4, B4",Nasal Swab,Human Infant,16S,222,,2018-04-17,,2018-10-19,,V7,,A1,222_V7_NS_A1,8,7,7
+Primary in Tube,149,223_V6_NS_A1,,223_V6_NS_A1,,"Box 4, B5",Nasal Swab,Human Infant,16S,223,,2018-04-27,,2018-09-07,,V6,,A1,223_V6_NS_A1,5,6,1
+Primary in Tube,150,224_V5_NS_A1,,,,"Box 4, B6",Nasal Swab,Human Infant,16S,224,,2018-04-22,,2018-07-19,,V5,,A1,224_V5_NS_A1,6,3,6
+Primary in Tube,151,224_V7_NS_A1,,,,"Box 4, B7",Nasal Swab,Human Infant,16S,224,,2018-04-22,,2018-10-31,,V7,,A1,224_V7_NS_A1,6,3,7
+Primary in Tube,152,225_V5_NS_A1,,,,"Box 4, B8",Nasal Swab,Human Infant,16S,225,,2018-04-30,,2018-07-19,,V5,,A1,225_V5_NS_A1,10,4,5
+Primary in Tube,153,225_V6_NS_A1,,,,"Box 4, B9",Nasal Swab,Human Infant,16S,225,,2018-04-30,,2018-10-01,,V6,,A1,225_V6_NS_A1,10,4,6
+Primary in Tube,154,225_V7_NS_A1,,,,"Box 4, C1",Nasal Swab,Human Infant,16S,225,,2018-04-30,,2018-12-03,,V7,,A1,225_V7_NS_A1,10,4,7
+Primary in Tube,155,226_V6_NS_A1,,,,"Box 4, C2",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2018-09-07,,V6,,A1,226_V6_NS_A1,2,1,4
+Primary in Tube,156,226_S1_NS_A1,,,,"Box 4, C3",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2018-10-09,,S1,,A1,226_S1_NS_A1,2,1,5
+Primary in Tube,157,226_A1_NS_A1,,,,"Box 4, C4",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2018-10-15,,A1,,A1,226_A1_NS_A1,2,1,6
+Primary in Tube,158,226_AF1_NS_A1,,,,"Box 4, C5",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2018-10-22,,AF1,,A1,226_AF1_NS_A1,2,1,7
+Primary in Tube,159,226_V7_NS_A1,,,,"Box 4, C6",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2018-11-07,,V7,,A1,226_V7_NS_A1,2,1,8
+Primary in Tube,160,227_V6_NS_A1,,,,"Box 4, C7",Nasal Swab,Human Infant,16S,227,,2018-04-30,,2018-08-28,,V6,,A1,227_V6_NS_A1,10,3,3
+Primary in Tube,161,227_V7_NS_A1,,,,"Box 4, C8",Nasal Swab,Human Infant,16S,227,,2018-04-30,,2018-10-30,,V7,,A1,227_V7_NS_A1,10,3,4
+Primary in Tube,162,228_V5_NS_A1,,,,"Box 4, C9",Nasal Swab,Human Infant,16S,228,,2018-05-07,,2018-07-09,,V5,,A1,228_V5_NS_A1,5,6,11
+Primary in Tube,163,228_V6_NS_A1,,,,"Box 4, D1",Nasal Swab,Human Infant,16S,228,,2018-05-07,,2018-09-10,,V6,,A1,228_V6_NS_A1,5,6,12
+Primary in Tube,164,228_S1_NS_A1,,,,"Box 4, D2",Nasal Swab,Human Infant,16S,228,,2018-05-07,,2018-10-18,,S1,,A1,228_S1_NS_A1,5,7,1
+Primary in Tube,165,228_S2_NS_A1,,,,"Box 4, D3",Nasal Swab,Human Infant,16S,228,,2018-05-07,,2018-11-01,,S2,,A1,228_S2_NS_A1,5,7,2
+Primary in Tube,166,228_V7_NS_A1,,,,"Box 4, D4",Nasal Swab,Human Infant,16S,228,,2018-05-07,,2018-11-15,,V7,,A1,228_V7_NS_A1,5,7,3
+Primary in Tube,167,230_V6_NS_A1,,,,"Box 4, D5",Nasal Swab,Human Infant,16S,230,,2018-05-10,,2018-09-14,,V6,,A1,230_V6_NS_A1,1,2,4
+Primary in Tube,168,230_V7_NS_A1,,,,"Box 4, D6",Nasal Swab,Human Infant,16S,230,,2018-05-10,,2018-11-19,,V7,,A1,230_V7_NS_A1,1,2,5
+Primary in Tube,169,231_V5_NS_A1,,,,"Box 4, D7",Nasal Swab,Human Infant,16S,231,,2018-05-09,,2018-07-10,,V5,,A1,231_V5_NS_A1,8,4,8
+Primary in Tube,170,231_V7_NS_A1,,,,"Box 4, D8",Nasal Swab,Human Infant,16S,231,,2018-05-09,,2018-11-21,,V7,,A1,231_V7_NS_A1,8,4,9
+Primary in Tube,171,232_V5_NS_A1,,,,"Box 4, D9",Nasal Swab,Human Infant,16S,232,,2018-05-14,,2018-07-20,,V5,,A1,232_V5_NS_A1,7,1,12
+Primary in Tube,172,232_V6_NS_A1,,223_V6_NS_A1,,"Box 4, E1",Nasal Swab,Human Infant,16S,232,,2018-05-14,,2018-09-25,,V6,,A1,232_V6_NS_A1,7,2,1
+Primary in Tube,173,232_V7_NS_A1,,,,"Box 4, E2",Nasal Swab,Human Infant,16S,232,,2018-05-14,,2018-11-14,,V7,,A1,232_V7_NS_A1,7,2,2
+Primary in Tube,174,233_V5_NS_A1,,,,"Box 4, E3",Nasal Swab,Human Infant,16S,233,,2018-05-21,,2018-07-18,,V5,,A1,233_V5_NS_A1,1,5,12
+Primary in Tube,175,233_V6_NS_A1,,,,"Box 4, E4",Nasal Swab,Human Infant,16S,233,,2018-05-21,,2018-09-24,,V6,,A1,233_V6_NS_A1,1,6,1
+Primary in Tube,176,233_V7_NS_A1,,,,"Box 4, E5",Nasal Swab,Human Infant,16S,233,,2018-05-21,,2018-11-26,,V7,,A1,233_V7_NS_A1,1,6,2
+Primary in Tube,177,235_V5_NS_A1,,,,"Box 4, E6",Nasal Swab,Human Infant,16S,235,,2018-06-13,,2018-08-15,,V5,,A1,235_V5_NS_A1,10,7,6
+Primary in Tube,178,235_V6_NS_A1,,,,"Box 4, E7",Nasal Swab,Human Infant,16S,235,,2018-06-13,,2018-10-16,,V6,,A1,235_V6_NS_A1,10,7,7
+Primary in Tube,179,103_V9_NS_A1,,,,"Box 4, E8",Nasal Swab,Human Infant,16S,103,,2018-02-21,,2019-02-22,,V9,,A1,103_V9_NS_A1,4,7,5
+Primary in Tube,180,106_V8_NS_A1,,,,"Box 4, E9",Nasal Swab,Human Infant,16S,106,,2018-03-27,,2018-12-27,,V8,,A1,106_V8_NS_A1,8,3,7
+Primary in Tube,181,106_S1_NS_A1,,,,"Box 4, F1",Nasal Swab,Human Infant,16S,106,,2018-03-27,,2019-01-09,,S1,,A1,106_S1_NS_A1,8,3,8
+Primary in Tube,182,106_A1_NS_A1,,,,"Box 4, F2",Nasal Swab,Human Infant,16S,106,,2018-03-27,,2019-01-16,,A1,,A1,106_A1_NS_A1,8,3,9
+Primary in Tube,183,106_AF1_NS_A1,,,,"Box 4, F3",Nasal Swab,Human Infant,16S,106,,2018-03-27,,2019-02-21,,AF1,,A1,106_AF1_NS_A1,8,3,10
+Primary in Tube,184,106_V9_NS_A1,,,,"Box 4, F4",Nasal Swab,Human Infant,16S,106,,2018-03-27,,2019-04-02,,V9,,A1,106_V9_NS_A1,8,3,11
+Primary in Tube,185,107_S2_NS_A1,,,,"Box 4, F5",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2019-01-04,,S2,,A1,107_S2_NS_A1,11,2,8
+Primary in Tube,186,107_S3_NS_A1,,,,"Box 4, F6",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2019-01-11,,S3,,A1,107_S3_NS_A1,11,2,9
+Primary in Tube,187,107_V9_NS_A1,,,,"Box 4, F8",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2019-04-05,,V9,,A1,107_V9_NS_A1,11,2,10
+Primary in Tube,188,107_A3_NS_A1,,,,"Box 4, F9",Nasal Swab,Human Infant,16S,107,,2018-04-02,,2019-04-15,,A3,,A1,107_A3_NS_A1,11,2,11
+Primary in Tube,189,108_S2_NS_A1,,,,"Box 4, G1",Nasal Swab,Human Infant,16S,108,,2018-03-28,,2018-12-11,,S2,,A1,108_S2_NS_A1,5,2,6
+Primary in Tube,190,108_V8_NS_A1,,,,"Box 4, G2",Nasal Swab,Human Infant,16S,108,,2018-03-28,,2019-01-03,,V8,,A1,108_V8_NS_A1,5,2,7
+Primary in Tube,191,108_S3_NS_A1,,,,"Box 4, G3",Nasal Swab,Human Infant,16S,108,,2018-03-28,,2019-01-23,,S3,,A1,108_S3_NS_A1,5,2,8
+Primary in Tube,192,109_V8_NS_A1,,,,"Box 4, G4",Nasal Swab,Human Infant,16S,109,,2018-04-17,,2019-02-26,,V8,,A1,109_V8_NS_A1,6,1,7
+Primary in Tube,193,109_S3_NS_A1,,,,"Box 4, G5",Nasal Swab,Human Infant,16S,109,,2018-04-17,,2019-05-03,,S3,,A1,109_S3_NS_A1,6,1,8
+Primary in Tube,194,110_V8_NS_A1,,,,"Box 4, G6",Nasal Swab,Human Infant,16S,110,,2018-05-07,,2019-02-18,,V8,,A1,110_V8_NS_A1,12,4,8
+Primary in Tube,195,112_S1_NS_A1,,,,"Box 4, G7",Nasal Swab,Human Infant,16S,112,,2018-05-03,,2018-12-20,,S1,,A1,112_S1_NS_A1,1,5,2
+Primary in Tube,196,112_V8_NS_A1,,,,"Box 4, G8",Nasal Swab,Human Infant,16S,112,,2018-05-03,,2019-02-04,,V8,,A1,112_V8_NS_A1,1,5,3
+Primary in Tube,197,112_A1_NS_A1,,,,"Box 4, G9",Nasal Swab,Human Infant,16S,112,,2018-05-03,,2019-04-29,,A1,,A1,112_A1_NS_A1,1,5,4
+Primary in Tube,198,113_V8_NS_A1,,,,"Box 4, H1",Nasal Swab,Human Infant,16S,113,,2018-05-15,,2019-03-15,,V8,,A1,113_V8_NS_A1,2,3,5
+Primary in Tube,199,115_V8_NS_A1,,,,"Box 4, H3",Nasal Swab,Human Infant,16S,115,,2018-05-24,,2019-04-02,,V8,,A1,115_V8_NS_A1,11,3,8
+Primary in Tube,200,116_V8_NS_A1,,,,"Box 4, H4",Nasal Swab,Human Infant,16S,116,,2018-05-26,,2019-03-11,,V8,,A1,116_V8_NS_A1,10,2,11
+Primary in Tube,201,117_V7_NS_A1,,,,"Box 4, H5",Nasal Swab,Human Infant,16S,117,,2018-06-10,,2018-12-27,,V7,,A1,117_V7_NS_A1,6,5,8
+Primary in Tube,202,117_V8_NS_A1,,,,"Box 4, H7",Nasal Swab,Human Infant,16S,117,,2018-06-10,,2019-03-27,,V8,,A1,117_V8_NS_A1,6,5,9
+Primary in Tube,203,201_AF1_NS_A1,,,,"Box 4, H8",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2018-12-13,,AF1,,A1,201_AF1_NS_A1,11,1,6
+Primary in Tube,204,201_S1_NS_A1,,,,"Box 4, H9",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2018-12-31,,S1,,A1,201_S1_NS_A1,11,1,7
+Primary in Tube,205,201_S2_NS_A1,,,,"Box 4, I1",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2019-01-04,,S2,,A1,201_S2_NS_A1,11,1,8
+Primary in Tube,206,201_V9_NS_A1,,,,"Box 4, I2",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2019-02-26,,V9,,A1,201_V9_NS_A1,11,1,9
+Primary in Tube,207,201_S3_NS_A1,,,,"Box 4, I3",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2019-03-28,,S3,,A1,201_S3_NS_A1,11,1,10
+Primary in Tube,208,201_S4_NS_A1,,,,"Box 4, I4",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2019-04-12,,S4,,A1,201_S4_NS_A1,11,1,11
+Primary in Tube,209,202_V9_NS_A1,,,,"Box 4, I5",Nasal Swab,Human Infant,16S,202,,2018-02-27,,2019-03-13,,V9,,A1,202_V9_NS_A1,8,1,7
+Primary in Tube,210,202_A1_NS_A1,,,,"Box 4, I6",Nasal Swab,Human Infant,16S,202,,2018-02-27,,2019-04-18,,A1,,A1,202_A1_NS_A1,8,1,8
+Primary in Tube,211,203_S4_NS_A1,,,,"Box 4, I7",Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-12-31,,S4,,A1,203_S4_NS_A1,12,1,6
+Primary in Tube,212,203_V9_NS_A1,,,,"Box 4, I8",Nasal Swab,Human Infant,16S,203,,2018-02-28,,2019-03-01,,V9,,A1,203_V9_NS_A1,12,1,7
+Primary in Tube,213,204_S1_NS_A1,,,,"Box 4, I9",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2019-01-24,,S1,,A1,204_S1_NS_A1,7,5,6
+Primary in Tube,214,205_V9_NS_A1,,,,"Box 5, A2",Nasal Swab,Human Infant,16S,205,,2018-02-28,,2019-03-06,,V9,,A1,205_V9_NS_A1,12,5,9
+Primary in Tube,215,206_V8_NS_A1,,,,"Box 5, A4",Nasal Swab,Human Infant,16S,206,,2018-03-09,,2018-12-13,,V8,,A1,206_V8_NS_A1,3,3,4
+Primary in Tube,216,206_V9_NS_A1,,,,"Box 5, A5",Nasal Swab,Human Infant,16S,206,,2018-03-09,,2019-03-12,,V9,,A1,206_V9_NS_A1,3,3,5
+Primary in Tube,217,207_V8_NS_A1,,,,"Box 5, A6",Nasal Swab,Human Infant,16S,207,,2018-03-11,,2018-12-21,,V8,,A1,207_V8_NS_A1,11,5,10
+Primary in Tube,218,207_V9_NS_A1,,,,"Box 5, A7",Nasal Swab,Human Infant,16S,207,,2018-03-11,,2019-03-04,,V9,,A1,207_V9_NS_A1,11,5,11
+Primary in Tube,219,208_V9_NS_A1,,,,"Box 5, A8",Nasal Swab,Human Infant,16S,208,,2018-03-07,,2019-03-25,,V9,,A1,208_V9_NS_A1,5,4,9
+Primary in Tube,220,210_V8_NS_A1,,,,"Box 5, B1",Nasal Swab,Human Infant,16S,210,,2018-03-10,,2018-12-11,,V8,,A1,210_V8_NS_A1,5,3,11
+Primary in Tube,221,210_V9_NS_A1,,,,"Box 5, B2",Nasal Swab,Human Infant,16S,210,,2018-03-10,,2019-03-11,,V9,,A1,210_V9_NS_A1,5,3,12
+Primary in Tube,222,211_V8_NS_A1,,,,"Box 5, B3",Nasal Swab,Human Infant,16S,211,,2018-03-11,,2018-12-12,,V8,,A1,211_V8_NS_A1,5,5,5
+Primary in Tube,223,211_V9_NS_A1,,,,"Box 5, B4",Nasal Swab,Human Infant,16S,211,,2018-03-11,,2019-03-14,,V9,,A1,211_V9_NS_A1,5,5,6
+Primary in Tube,224,212_V8_NS_A1,,,,"Box 5, B5",Nasal Swab,Human Infant,16S,212,,2018-03-18,,2018-12-20,,V8,,A1,212_V8_NS_A1,9,5,4
+Primary in Tube,225,214_V8_NS_A1,,,,"Box 5, B7",Nasal Swab,Human Infant,16S,214,,2018-04-04,,2019-01-14,,V8,,A1,214_V8_NS_A1,7,3,6
+Primary in Tube,226,214_S2_NS_A1,,,,"Box 5, B8",Nasal Swab,Human Infant,16S,214,,2018-04-04,,2019-01-31,,S2,,A1,214_S2_NS_A1,7,3,7
+Primary in Tube,227,214_V9_NS_A1,,,,"Box 5, B9",Nasal Swab,Human Infant,16S,214,,2018-04-04,,2019-04-22,,V9,,A1,214_V9_NS_A1,7,3,8
+Primary in Tube,228,215_V8_NS_A1,,,,"Box 5, C1",Nasal Swab,Human Infant,16S,215,,2018-03-29,,2019-01-11,,V8,,A1,215_V8_NS_A1,2,4,3
+Primary in Tube,229,215_V9_NS_A1,,,,"Box 5, C3",Nasal Swab,Human Infant,16S,215,,2018-03-29,,2019-03-29,,V9,,A1,215_V9_NS_A1,2,4,4
+Primary in Tube,230,217_V8_NS_A1,,,,"Box 5, C4",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2019-01-10,,V8,,A1,217_V8_NS_A1,6,7,5
+Primary in Tube,231,217_S5_NS_A1,,,,"Box 5, C5",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2019-04-09,,S5,,A1,217_S5_NS_A1,6,7,6
+Primary in Tube,232,217_V9_NS_A1,,,,"Box 5, C6",Nasal Swab,Human Infant,16S,217,,2018-04-08,,2019-04-12,,V9,,A1,217_V9_NS_A1,6,7,7
+Primary in Tube,233,218_V8_NS_A1,,,,"Box 5, C7",Nasal Swab,Human Infant,16S,218,,2018-04-03,,2019-01-15,,V8,,A1,218_V8_NS_A1,3,4,1
+Primary in Tube,234,218_V9_NS_A1,,,,"Box 5, C8",Nasal Swab,Human Infant,16S,218,,2018-04-03,,2019-04-09,,V9,,A1,218_V9_NS_A1,3,4,2
+Primary in Tube,235,219_A1_NS_A1,,,,"Box 5, C9",Nasal Swab,Human Infant,16S,219,,2018-04-10,,2018-12-27,,A1,,A1,219_A1_NS_A1,9,1,3
+Primary in Tube,236,219_V8_NS_A1,,,,"Box 5, D1",Nasal Swab,Human Infant,16S,219,,2018-04-10,,2019-01-23,,V8,,A1,219_V8_NS_A1,9,1,4
+Primary in Tube,237,219_S1_NS_A1,,,,"Box 5, D2",Nasal Swab,Human Infant,16S,219,,2018-04-10,,2019-04-05,,S1,,A1,219_S1_NS_A1,9,1,5
+Primary in Tube,238,220_V8_NS_A1,,,,"Box 5, D3",Nasal Swab,Human Infant,16S,220,,2018-04-13,,2019-01-14,,V8,,A1,220_V8_NS_A1,5,1,6
+Primary in Tube,239,220_S2_NS_A1,,,,"Box 5, D4",Nasal Swab,Human Infant,16S,220,,2018-04-13,,2019-03-14,,S2,,A1,220_S2_NS_A1,5,1,7
+Primary in Tube,240,220_V9_NS_A1,,,,"Box 5, D5",Nasal Swab,Human Infant,16S,220,,2018-04-13,,2019-04-18,,V9,,A1,220_V9_NS_A1,5,1,8
+Primary in Tube,241,221_V9_NS_A1,,,,"Box 5, D7",Nasal Swab,Human Infant,16S,221,,2018-04-16,,2019-04-22,,V9,,A1,221_V9_NS_A1,10,5,10
+Primary in Tube,242,223_V9_NS_A1,,,,"Box 5, D9",Nasal Swab,Human Infant,16S,223,,2018-04-27,,2019-04-30,,V9,,A1,223_V9_NS_A1,5,6,2
+Primary in Tube,243,224_V8_NS_A1,,,,"Box 5, E1",Nasal Swab,Human Infant,16S,224,,2018-04-22,,2019-01-23,,V8,,A1,224_V8_NS_A1,6,3,8
+Primary in Tube,244,225_V8_NS_A1,,,,"Box 5, E2",Nasal Swab,Human Infant,16S,225,,2018-04-30,,2019-01-30,,V8,,A1,225_V8_NS_A1,10,4,8
+Primary in Tube,245,226_V8_NS_A1,,,,"Box 5, E3",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2019-02-14,,V8,,A1,226_V8_NS_A1,2,1,9
+Primary in Tube,246,227_S1_NS_A1,,,,"Box 5, E4",Nasal Swab,Human Infant,16S,227,,2018-04-30,,2018-12-14,,S1,,A1,227_S1_NS_A1,10,3,5
+Primary in Tube,247,227_V8_NS_A1,,,,"Box 5, E5",Nasal Swab,Human Infant,16S,227,,2018-04-30,,2019-01-29,,V8,,A1,227_V8_NS_A1,10,3,6
+Primary in Tube,248,227_A1_NS_A1,,,,"Box 5, E6",Nasal Swab,Human Infant,16S,227,,2018-04-30,,2019-03-29,,A1,,A1,227_A1_NS_A1,10,3,7
+Primary in Tube,249,227_A1F_NS_A1,,,,"Box 5, E7",Nasal Swab,Human Infant,16S,227,,2018-04-30,,2019-04-18,,A1F,,A1,227_A1F_NS_A1,10,3,8
+Primary in Tube,250,227_V9_NS_A1,,,,"Box 5, E8",Nasal Swab,Human Infant,16S,227,,2018-04-30,,2019-04-30,,V9,,A1,227_V9_NS_A1,10,3,9
+Primary in Tube,251,228_V8_NS_A1,,,,"Box 5, E9",Nasal Swab,Human Infant,16S,228,,2018-05-07,,2019-02-11,,V8,,A1,228_V8_NS_A1,5,7,4
+Primary in Tube,252,229_V7_NS_A1,,,,"Box 5, F1",Nasal Swab,Human Infant,16S,229,,2018-04-29,,2018-12-05,,V7,,A1,229_V7_NS_A1,7,4,6
+Primary in Tube,253,229_V8_NS_A1,,,,"Box 5, F2",Nasal Swab,Human Infant,16S,229,,2018-04-29,,2019-02-05,,V8,,A1,229_V8_NS_A1,7,4,7
+Primary in Tube,254,230_V8_NS_A1,,,,"Box 5, F3",Nasal Swab,Human Infant,16S,230,,2018-05-10,,2019-01-17,,V8,,A1,230_V8_NS_A1,1,2,6
+Primary in Tube,255,230_S1_NS_A1,,,,"Box 5, F4",Nasal Swab,Human Infant,16S,230,,2018-05-10,,2019-03-18,,S1,,A1,230_S1_NS_A1,1,2,7
+Primary in Tube,256,231_V8_NS_A1,,,,"Box 5, F5",Nasal Swab,Human Infant,16S,231,,2018-05-09,,2019-02-27,,V8,,A1,231_V8_NS_A1,8,4,10
+Primary in Tube,257,232_V8_NS_A1,,,,"Box 5, F6",Nasal Swab,Human Infant,16S,232,,2018-05-14,,2019-02-15,,V8,,A1,232_V8_NS_A1,7,2,3
+Primary in Tube,258,233_V8_NS_A1,,,,"Box 5, F8",Nasal Swab,Human Infant,16S,233,,2018-05-21,,2019-02-25,,V8,,A1,233_V8_NS_A1,1,6,3
+Primary in Tube,259,235_V7_NS_A1,,,,"Box 5, F9",Nasal Swab,Human Infant,16S,235,,2018-06-13,,2018-12-17,,V7,,A1,235_V7_NS_A1,10,7,8
+Primary in Tube,260,235_S1_NS_A1,,,,"Box 5, G1",Nasal Swab,Human Infant,16S,235,,2018-06-13,,2019-03-01,,S1,,A1,235_S1_NS_A1,10,7,9
+Primary in Tube,261,103_S1_NS_A1,,,,"Box 5, G4",Nasal Swab,Human Infant,16S,103,,2018-02-21,,2019-05-13,,S1,,A1,103_S1_NS_A1,4,7,6
+Primary in Tube,262,103_V10_NS_A1,,,,"Box 5, G5",Nasal Swab,Human Infant,16S,103,,2018-02-21,,2019-05-23,,V10,,A1,103_V10_NS_A1,4,7,7
+Primary in Tube,263,108_S5_NS_A1,,,,"Box 5, G6",Nasal Swab,Human Infant,16S,108,,2018-03-28,,2019-05-17,,S5,,A1,108_S5_NS_A1,5,2,9
+Primary in Tube,264,109_S4_NS_A1,,,,"Box 5, G7",Nasal Swab,Human Infant,16S,109,,2018-04-17,,2019-05-07,,S4,,A1,109_S4_NS_A1,6,1,9
+Primary in Tube,265,110_V9_NS_A1,,,,"Box 5, G8",Nasal Swab,Human Infant,16S,110,,2018-05-07,,2019-05-17,,V9,,A1,110_V9_NS_A1,12,4,9
+Primary in Tube,266,112_V9_NS_A1,,,,"Box 5, G9",Nasal Swab,Human Infant,16S,112,,2018-05-03,,2019-05-13,,V9,,A1,112_V9_NS_A1,1,5,5
+Primary in Tube,267,113_V9_NS_A1,,,,"Box 5, H1",Nasal Swab,Human Infant,16S,113,,2018-05-15,,2019-05-24,,V9,,A1,113_V9_NS_A1,2,3,6
+Primary in Tube,268,114_V9_NS_A1,,,,"Box 5, H2",Nasal Swab,Human Infant,16S,114,,2018-05-21,,2019-05-22,,V9,,A1,114_V9_NS_A1,3,4,9
+Primary in Tube,269,115_V9_NS_A1,,,,"Box 5, H3",Nasal Swab,Human Infant,16S,115,,2018-05-24,,2019-06-03,,V9,,A1,115_V9_NS_A1,11,3,9
+Primary in Tube,270,117_V9_NS_A1,,,,"Box 5, H4",Nasal Swab,Human Infant,16S,117,,2018-06-10,,2019-06-12,,V9,,A1,117_V9_NS_A1,6,5,10
+Primary in Tube,271,201_V10_NS_A1,,,,"Box 5, H5",Nasal Swab,Human Infant,16S,201,,2018-02-22,,2019-05-28,,V10,,A1,201_V10_NS_A1,11,1,12
+Primary in Tube,272,202_AF1_NS_A1,,,,"Box 5, H6",Nasal Swab,Human Infant,16S,202,,2018-02-27,,2019-05-13,,AF1,,A1,202_AF1_NS_A1,8,1,9
+Primary in Tube,273,204_A1_NS_A1,,,,"Box 5, H7",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2019-05-23,,A1,,A1,204_A1_NS_A1,7,5,7
+Primary in Tube,274,204_V10_NS_A1,,,,"Box 5, H8",Nasal Swab,Human Infant,16S,204,,2018-02-26,,2019-05-28,,V10,,A1,204_V10_NS_A1,7,5,8
+Primary in Tube,275,206_V10_NS_A1,,,,"Box 5, I1",Nasal Swab,Human Infant,16S,206,,2018-03-09,,2019-06-12,,V10,,A1,206_V10_NS_A1,3,3,6
+Primary in Tube,276,219_V9_NS_A1,,,,"Box 5, I6",Nasal Swab,Human Infant,16S,219,,2018-04-10,,2019-05-29,,V9,,A1,219_V9_NS_A1,9,1,6
+Primary in Tube,277,222_V9_NS_A1,,,,"Box 5, I7",Nasal Swab,Human Infant,16S,222,,2018-04-17,,2019-05-10,,V9,,A1,222_V9_NS_A1,8,7,8
+Primary in Tube,278,224_V9_NS_A1,,,,"Box 5, I9",Nasal Swab,Human Infant,16S,224,,2018-04-22,,2019-05-29,,V9,,A1,224_V9_NS_A1,6,3,9
+Primary in Tube,279,226_V9_NS_A1,,,,"Box 6, A1",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2019-05-10,,V9,,A1,226_V9_NS_A1,2,1,10
+Primary in Tube,280,226_A2_NS_A1,,,,"Box 6, A2",Nasal Swab,Human Infant,16S,226,,2018-05-03,,2019-05-24,,A2,,A1,226_A2_NS_A1,2,1,11
+Primary in Tube,281,228_A1_NS_A1,,,,"Box 6, A4",Nasal Swab,Human Infant,16S,228,,2018-05-07,,2019-05-06,,A1,,A1,228_A1_NS_A1,5,7,5
+Primary in Tube,282,228_V9_NS_A1,,,,"Box 6, A5",Nasal Swab,Human Infant,16S,228,,2018-05-07,,2019-05-10,,V9,,A1,228_V9_NS_A1,5,7,6
+Primary in Tube,283,228_S3_NS_A1,,,,"Box 6, A6",Nasal Swab,Human Infant,16S,228,,2018-05-07,,2019-05-24,,S3,,A1,228_S3_NS_A1,5,7,7
+Primary in Tube,284,229_V9_NS_A1,,,,"Box 6, A7",Nasal Swab,Human Infant,16S,229,,2018-04-29,,2019-06-12,,V9,,A1,229_V9_NS_A1,7,4,8
+Primary in Tube,285,231_V9_NS_A1,,,,"Box 6, A8",Nasal Swab,Human Infant,16S,231,,2018-05-09,,2019-05-10,,V9,,A1,231_V9_NS_A1,8,4,11
+Primary in Tube,286,231_S1_NS_A1,,,,"Box 6, A9",Nasal Swab,Human Infant,16S,231,,2018-05-09,,2019-05-28,,S1,,A1,231_S1_NS_A1,8,4,12
+Primary in Tube,287,233_AF3_NS_A1,,,,"Box 6, B1",Nasal Swab,Human Infant,16S,233,,2018-05-21,,2019-05-10,,AF3,,A1,233_AF3_NS_A1,1,6,4
+Primary in Tube,288,233_V9_NS_A1,,,,"Box 6, B2",Nasal Swab,Human Infant,16S,233,,2018-05-21,,2019-05-23,,V9,,A1,233_V9_NS_A1,1,6,5
+Primary in Tube,289,212_V3_NS_3a,,,,"Box 6, B4",Nasal Swab,Human Infant,16S,212,,2018-03-18,,2018-04-02,,V3,,3a,212_V3_NS_3a,9,5,5
+Primary in Tube,290,118_V1_NS_A1,,,,Box1_A1,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2018-06-28,,V1,,A1,118_V1_NS_A1,10,6,4
+Primary in Tube,291,119_V1_NS_A1,,,,Box1_A2,Nasal Swab,Human Infant,16S,119,,2018-06-30,,2018-07-02,,V1,,A1,119_V1_NS_A1,7,1,1
+Primary in Tube,292,234_V1_NS_A1,,,,Box1_A3,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2018-06-19,,V1,,A1,234_V1_NS_A1,12,1,12
+Primary in Tube,293,234_V3_NS_A1,,,,Box1_A4,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2018-06-29,,V3,,A1,234_V3_NS_A1,12,2,1
+Primary in Tube,294,236_V2_NS_A1,,,,Box1_A5,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2018-06-20,,V2,,A1,236_V2_NS_A1,7,6,7
+Primary in Tube,295,236_V3_NS_A1,,,,Box1_A6,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2018-06-26,,V3,,A1,236_V3_NS_A1,7,6,8
+Primary in Tube,296,237_V1_NS_A1,,,,Box1_A7,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2018-06-22,,V1,,A1,237_V1_NS_A1,11,6,6
+Primary in Tube,297,238_V1_NS_A1,,,,Box1_A8,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2018-06-25,,V1,,A1,238_V1_NS_A1,2,6,1
+Primary in Tube,298,239_V1_NS_A1,,,,Box1_A9,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2018-06-27,,V1,,A1,239_V1_NS_A1,3,1,1
+Primary in Tube,299,118_V3_NS_A1,,,,Box1_B1,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2018-07-09,,V3,,A1,118_V3_NS_A1,10,6,5
+Primary in Tube,300,118_V6_NS_A1,,,,Box1_B2,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2018-10-22,,V6,,A1,118_V6_NS_A1,10,6,6
+Primary in Tube,301,119_V2_NS_A1,,,,Box1_B3,Nasal Swab,Human Infant,16S,119,,2018-06-30,,2018-07-13,,V2,,A1,119_V2_NS_A1,7,1,2
+Primary in Tube,302,119_V5_NS_A1,,,,Box1_B4,Nasal Swab,Human Infant,16S,119,,2018-06-30,,2018-08-30,,V5,,A1,119_V5_NS_A1,7,1,3
+Primary in Tube,303,119_V6_NS_A1,,,,Box1_B5,Nasal Swab,Human Infant,16S,119,,2018-06-30,,2018-10-31,,V6,,A1,119_V6_NS_A1,7,1,4
+Primary in Tube,304,120_V1_NS_A1,,,,Box1_B6,Nasal Swab,Human Infant,16S,120,,2018-06-30,,2018-07-03,,V1,,A1,120_V1_NS_A1,2,2,7
+Primary in Tube,305,120_V2_NS_A1,,,,Box1_B7,Nasal Swab,Human Infant,16S,120,,2018-06-30,,2018-07-10,,V2,,A1,120_V2_NS_A1,2,2,8
+Primary in Tube,306,121_V1_NS_A1,,,,Box1_B8,Nasal Swab,Human Infant,16S,121,,2018-06-30,,2018-07-05,,V1,,A1,121_V1_NS_A1,6,3,11
+Primary in Tube,307,121_V3_NS_A1,,,,Box1_B9,Nasal Swab,Human Infant,16S,121,,2018-06-30,,2018-07-11,,V3,,A1,121_V3_NS_A1,6,3,12
+Primary in Tube,308,121_V5_NS_A1,,,,Box1_C1,Nasal Swab,Human Infant,16S,121,,2018-06-30,,2018-08-31,,V5,,A1,121_V5_NS_A1,6,4,1
+Primary in Tube,309,121_V6_NS_A1,,,,Box1_C2,Nasal Swab,Human Infant,16S,121,,2018-06-30,,2018-10-30,,V6,,A1,121_V6_NS_A1,6,4,2
+Primary in Tube,310,122_V1_NS_A1,,,,Box1_C3,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2018-07-09,,V1,,A1,122_V1_NS_A1,9,3,4
+Primary in Tube,311,122_V3_NS_A1,,,,Box1_C4,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2018-07-19,,V3,,A1,122_V3_NS_A1,9,3,5
+Primary in Tube,312,122_V5_NS_A1,,,,Box1_C5,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2018-09-07,,V5,,A1,122_V5_NS_A1,9,3,6
+Primary in Tube,313,122_V6_NS_A1,,,,Box1_C6,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2018-11-09,,V6,,A1,122_V6_NS_A1,9,3,7
+Primary in Tube,314,123_V1_NS_A1,,,,Box1_C7,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-07-12,,V1,,A1,123_V1_NS_A1,10,1,1
+Primary in Tube,315,123_V2_NS_A1,,,,Box1_C8,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-07-23,,V2,,A1,123_V2_NS_A1,10,1,2
+Primary in Tube,316,123_V3_NS_A1,,,,Box1_C9,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-07-27,,V3,,A1,123_V3_NS_A1,10,1,3
+Primary in Tube,317,123_V4_NS_A1,,,,Box1_D1,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-08-13,,V4,,A1,123_V4_NS_A1,10,1,4
+Primary in Tube,318,123_V5_NS_A1,,,,Box1_D2,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-09-04,,V5,,A1,123_V5_NS_A1,10,1,5
+Primary in Tube,319,123_V6_NS_A1,,,,Box1_D3,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-11-07,,V6,,A1,123_V6_NS_A1,10,1,6
+Primary in Tube,320,123_S1_NS_A1,,,,Box1_D4,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-11-14,,S1,,A1,123_S1_NS_A1,10,1,7
+Primary in Tube,321,124_V1_NS_A1,,,,Box1_D5,Nasal Swab,Human Infant,16S,124,,2018-08-22,,2018-08-27,,V1,,A1,124_V1_NS_A1,9,1,10
+Primary in Tube,322,124_V5_NS_A1,,,,Box1_D6,Nasal Swab,Human Infant,16S,124,,2018-08-22,,2018-11-27,,V5,,A1,124_V5_NS_A1,9,1,11
+Primary in Tube,323,125_V2_NS_A1,,,,Box1_D7,Nasal Swab,Human Infant,16S,125,,2018-08-16,,2018-08-27,,V2,,A1,125_V2_NS_A1,10,4,10
+Primary in Tube,324,126_V1_NS_A1,,,,Box1_D8,Nasal Swab,Human Infant,16S,126,,2018-08-27,,2018-08-30,,V1,,A1,126_V1_NS_A1,6,6,6
+Primary in Tube,325,127_V1_NS_A1,,,,Box1_D9,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2018-09-04,,V1,,A1,127_V1_NS_A1,4,1,1
+Primary in Tube,326,127_V5_NS_A1,,,,Box1_E1,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2018-11-05,,V5,,A1,127_V5_NS_A1,4,1,2
+Primary in Tube,327,128_V2_NS_A1,,,,Box1_E2,Nasal Swab,Human Infant,16S,128,,2018-08-26,,2018-09-05,,V2,,A1,128_V2_NS_A1,1,3,2
+Primary in Tube,328,129_V3_NS_A1,,,,Box1_E3,Nasal Swab,Human Infant,16S,129,,2018-09-05,,2018-09-21,,V3,,A1,129_V3_NS_A1,8,6,12
+Primary in Tube,329,129_V5_NS_A1,,,,Box1_E4,Nasal Swab,Human Infant,16S,129,,2018-09-05,,2018-11-05,,V5,,A1,129_V5_NS_A1,8,7,1
+Primary in Tube,330,130_V1_NS_A1,,,,Box1_E5,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2018-10-31,,V1,,A1,130_V1_NS_A1,3,2,2
+Primary in Tube,331,130_V2_NS_A1,,,,Box1_E6,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2018-11-09,,V2,,A1,130_V2_NS_A1,3,2,3
+Primary in Tube,332,131_V1_NS_A1,,,,Box1_E7,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2018-11-12,,V1,,A1,131_V1_NS_A1,4,3,4
+Primary in Tube,333,131_V3_NS_A1,,,,Box1_E8,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2018-11-26,,V3,,A1,131_V3_NS_A1,4,3,5
+Primary in Tube,334,132_V1_NS_A1,,,,Box1_E9,Nasal Swab,Human Infant,16S,132,,2018-11-18,,2018-11-23,,V1,,A1,132_V1_NS_A1,9,6,12
+Primary in Tube,335,132_V2_NS_A1,,,,Box1_F1,Nasal Swab,Human Infant,16S,132,,2018-11-18,,2018-11-26,,V2,,A1,132_V2_NS_A1,9,7,1
+Primary in Tube,336,133_V2_NS_A1,,,,Box1_F2,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2018-11-26,,V2,,A1,133_V2_NS_A1,8,5,4
+Primary in Tube,337,234_V5_NS_A1,,,,Box1_F3,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2018-08-07,,V5,,A1,234_V5_NS_A1,12,2,2
+Primary in Tube,338,234_V6_NS_A1,,,,Box1_F4,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2018-10-19,,V6,,A1,234_V6_NS_A1,12,2,3
+Primary in Tube,339,236_V5_NS_A1,,,,Box1_F5,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2018-08-14,,V5,,A1,236_V5_NS_A1,7,6,9
+Primary in Tube,340,236_V6_NS_A1,,,,Box1_F6,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2018-10-05,,V6,,A1,236_V6_NS_A1,7,6,10
+Primary in Tube,341,237_V3_NS_A1,,,,Box1_F7,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2018-07-05,,V3,,A1,237_V3_NS_A1,11,6,7
+Primary in Tube,342,237_V5_NS_A1,,,,Box1_F8,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2018-08-09,,V5,,A1,237_V5_NS_A1,11,6,8
+Primary in Tube,343,237_V6_NS_A1,,,,Box1_F9,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2018-10-23,,V6,,A1,237_V6_NS_A1,11,6,9
+Primary in Tube,344,238_V3_NS_A1,,,,Box1_G1,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2018-07-05,,V3,,A1,238_V3_NS_A1,2,6,2
+Primary in Tube,345,238_V4_NS_A1,,,,Box1_G2,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2018-07-17,,V4,,A1,238_V4_NS_A1,2,6,3
+Primary in Tube,346,238_V5_NS_A1,,,,Box1_G3,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2018-08-21,,V5,,A1,238_V5_NS_A1,2,6,4
+Primary in Tube,347,238_V6_NS_A1,,,,Box1_G4,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2018-10-29,,V6,,A1,238_V6_NS_A1,2,6,5
+Primary in Tube,348,239_V3_NS_A1,,,,Box1_G5,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2018-07-11,,V3,,A1,239_V3_NS_A1,3,1,2
+Primary in Tube,349,239_V5_NS_A1,,,,Box1_G6,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2018-08-29,,V5,,A1,239_V5_NS_A1,3,1,3
+Primary in Tube,350,239_V6_NS_A1,,,,Box1_G7,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2018-10-26,,V6,,A1,239_V6_NS_A1,3,1,4
+Primary in Tube,351,239_S1_NS_A1,,,,Box1_G8,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2018-11-14,,S1,,A1,239_S1_NS_A1,3,1,5
+Primary in Tube,352,240_V2_NS_A1,,,,Box1_G9,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2018-07-03,,V2,,A1,240_V2_NS_A1,9,5,12
+Primary in Tube,353,240_V3_NS_A1,,,,Box1_H1,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2018-07-10,,V3,,A1,240_V3_NS_A1,9,6,1
+Primary in Tube,354,240_V6_NS_A1,,,,Box1_H2,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2018-10-22,,V6,,A1,240_V6_NS_A1,9,6,2
+Primary in Tube,355,241_V2_NS_A1,,,,Box1_H3,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2018-07-06,,V2,,A1,241_V2_NS_A1,8,6,2
+Primary in Tube,356,241_V5_NS_A1,,,,Box1_H4,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2018-08-29,,V5,,A1,241_V5_NS_A1,8,6,3
+Primary in Tube,357,241_V6_NS_A1,,,,Box1_H5,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2018-10-25,,V6,,A1,241_V6_NS_A1,8,6,4
+Primary in Tube,358,242_V2_NS_A1,,,,Box1_H6,Nasal Swab,Human Infant,16S,242,,2018-06-29,,2018-07-11,,V2,,A1,242_V2_NS_A1,9,4,11
+Primary in Tube,359,243_V1_NS_A1,,,,Box1_H7,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2018-07-17,,V1,,A1,243_V1_NS_A1,11,4,4
+Primary in Tube,360,243_V3_NS_A1,,,,Box1_H8,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2018-07-25,,V3,,A1,243_V3_NS_A1,11,4,5
+Primary in Tube,361,243_V5_NS_A1,,,,Box1_H9,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2018-09-06,,V5,,A1,243_V5_NS_A1,11,4,6
+Primary in Tube,362,244_V1_NS_A1,,,,Box1_I1,Nasal Swab,Human Infant,16S,244,,2018-07-15,,2018-07-19,,V1,,A1,244_V1_NS_A1,9,5,9
+Primary in Tube,363,244_V3_NS_A1,,,,Box1_I2,Nasal Swab,Human Infant,16S,244,,2018-07-15,,2018-07-30,,V3,,A1,244_V3_NS_A1,9,5,10
+Primary in Tube,364,244_V5_NS_A1,,,,Box1_I3,Nasal Swab,Human Infant,16S,244,,2018-07-15,,2018-09-18,,V5,,A1,244_V5_NS_A1,9,5,11
+Primary in Tube,365,245_V2_NS_A1,,,,Box1_I4,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2018-08-01,,V2,,A1,245_V2_NS_A1,4,1,12
+Primary in Tube,366,245_V4_NS_A1,,,,Box1_I5,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2018-09-04,,V4,,A1,245_V4_NS_A1,4,2,1
+Primary in Tube,367,245_V6_NS_A1,,,,Box1_I6,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2018-11-26,,V6,,A1,245_V6_NS_A1,4,2,2
+Primary in Tube,368,246_V1_NS_A1,,,,Box1_I7,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2018-08-01,,V1,,A1,246_V1_NS_A1,3,6,2
+Primary in Tube,369,246_V2_NS_A1,,,,Box1_I8,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2018-08-09,,V2,,A1,246_V2_NS_A1,3,6,3
+Primary in Tube,370,246_V5_NS_A1,,,,Box1_I9,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2018-10-01,,V5,,A1,246_V5_NS_A1,3,6,4
+Primary in Tube,371,246_V6_NS_A1,,,,Box2_A1,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2018-12-03,,V6,,A1,246_V6_NS_A1,3,6,5
+Primary in Tube,372,247_V1_NS_1a,,,,Box2_A2,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2018-08-28,,V1,,1a,247_V1_NS_1a,12,6,6
+Primary in Tube,373,247_V1_NS_1b,,,,Box2_A3,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2018-08-28,,V1,,1b,247_V1_NS_1b,12,6,7
+Primary in Tube,374,247_V1_NS_2b,,,,Box2_A4,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2018-08-28,,V1,,2b,247_V1_NS_2b,12,6,8
+Primary in Tube,375,247_V2_NS_A1,,,,Box2_A5,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2018-09-06,,V2,,A1,247_V2_NS_A1,12,6,9
+Primary in Tube,376,247_V3_NS_A1,,,,Box2_A6,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2018-09-10,,V3,,A1,247_V3_NS_A1,12,6,10
+Primary in Tube,377,247_V5_NS_A1,,,,Box2_A7,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2018-11-01,,V5,,A1,247_V5_NS_A1,12,6,11
+Primary in Tube,378,248_V2_NS_A1,,,,Box2_A8,Nasal Swab,Human Infant,16S,248,,2018-08-19,,2018-08-30,,V2,,A1,248_V2_NS_A1,12,7,9
+Primary in Tube,379,248_S1_NS_A1,,,,Box2_A9,Nasal Swab,Human Infant,16S,248,,2018-08-19,,2018-09-25,,S1,,A1,248_S1_NS_A1,12,7,10
+Primary in Tube,380,248_V5_NS_A1,,,,Box2_B1,Nasal Swab,Human Infant,16S,248,,2018-08-19,,2018-10-29,,V5,,A1,248_V5_NS_A1,12,7,11
+Primary in Tube,381,249_V2_NS_A1,,,,Box2_B2,Nasal Swab,Human Infant,16S,249,,2018-08-24,,2018-09-05,,V2,,A1,249_V2_NS_A1,7,2,5
+Primary in Tube,382,249_V5_NS_A1,,,,Box2_B3,Nasal Swab,Human Infant,16S,249,,2018-08-24,,2018-10-29,,V5,,A1,249_V5_NS_A1,7,2,6
+Primary in Tube,383,250_V1_NS_A1,,,,Box2_B4,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2018-09-10,,V1,,A1,250_V1_NS_A1,1,3,8
+Primary in Tube,384,250_V2_NS_A1,,,,Box2_B5,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2018-09-18,,V2,,A1,250_V2_NS_A1,1,3,9
+Primary in Tube,385,250_V3_NS_A1,,,,Box2_B6,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2018-09-25,,V3,,A1,250_V3_NS_A1,1,3,10
+Primary in Tube,386,250_V5_NS_A1,,,,Box2_B7,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2018-11-06,,V5,,A1,250_V5_NS_A1,1,3,11
+Primary in Tube,387,250_S1_NS_A1,,,,Box2_B8,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2018-11-12,,S1,,A1,250_S1_NS_A1,1,3,12
+Primary in Tube,388,251_V2_NS_A1,,,,Box2_B9,Nasal Swab,Human Infant,16S,251,,2018-08-29,,2018-09-11,,V2,,A1,251_V2_NS_A1,9,4,2
+Primary in Tube,389,251_V5_NS_A1,,,,Box2_C1,Nasal Swab,Human Infant,16S,251,,2018-08-29,,2018-10-30,,V5,,A1,251_V5_NS_A1,9,4,3
+Primary in Tube,390,252_V2_NS_A1,,,,Box2_C2,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2018-09-19,,V2,,A1,252_V2_NS_A1,1,6,11
+Primary in Tube,391,252_V5_NS_A1,,,,Box2_C3,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2018-11-08,,V5,,A1,252_V5_NS_A1,1,6,12
+Primary in Tube,392,253_V2_NS_A1,,,,Box2_C4,Nasal Swab,Human Infant,16S,253,,2018-09-27,,2018-10-05,,V2,,A1,253_V2_NS_A1,1,1,1
+Primary in Tube,393,253_V5_NS_A1,,,,Box2_C5,Nasal Swab,Human Infant,16S,253,,2018-09-27,,2018-11-28,,V5,,A1,253_V5_NS_A1,1,1,2
+Primary in Tube,394,254_V2_NS_A1,,,,Box2_C6,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2018-10-09,,V2,,A1,254_V2_NS_A1,6,4,7
+Primary in Tube,395,254_V5_NS_A1,,,,Box2_C7,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2018-11-29,,V5,,A1,254_V5_NS_A1,6,4,8
+Primary in Tube,396,255_V2_NS_A1,,,,Box2_C8,Nasal Swab,Human Infant,16S,255,,2018-09-27,,2018-10-10,,V2,,A1,255_V2_NS_A1,8,4,1
+Primary in Tube,397,255_V5_NS_A1,,,,Box2_C9,Nasal Swab,Human Infant,16S,255,,2018-09-27,,2018-11-29,,V5,,A1,255_V5_NS_A1,8,4,2
+Primary in Tube,398,256_V2_NS_A1,,,,Box2_D1,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2018-10-15,,V2,,A1,256_V2_NS_A1,12,2,10
+Primary in Tube,399,257_V2_NS_B1,,,,Box2_D2,Nasal Swab,Human Infant,16S,257,,2018-10-12,,2018-10-24,,V2,,B1,257_V2_NS_B1,3,5,10
+Primary in Tube,400,258_V1_NS_A1,,,,Box2_D3,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2018-10-26,,V1,,A1,258_V1_NS_A1,3,6,12
+Primary in Tube,401,259_V1_NS_A1,,,,Box2_D4,Nasal Swab,Human Infant,16S,259,,2018-10-26,,2018-10-30,,V1,,A1,259_V1_NS_A1,4,4,7
+Primary in Tube,402,259_V2_NS_A1,,,,Box2_D5,Nasal Swab,Human Infant,16S,259,,2018-10-26,,2018-11-07,,V2,,A1,259_V2_NS_A1,4,4,8
+Primary in Tube,403,260_V1_NS_A1,,,,Box2_D6,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2018-11-08,,V1,,A1,260_V1_NS_A1,9,2,5
+Primary in Tube,404,260_V3_NS_A1,,,,Box2_D7,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2018-11-20,,V3,,A1,260_V3_NS_A1,9,2,6
+Primary in Tube,405,261_V2_NS_A1,,,,Box2_D8,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2018-11-14,,V2,,A1,261_V2_NS_A1,6,2,3
+Primary in Tube,406,262_V2_NS_B1,,,,Box2_D9,Nasal Swab,Human Infant,16S,262,,2018-11-22,,2018-11-29,,V2,,B1,262_V2_NS_B1,3,5,9
+Primary in Tube,407,263_V1_NS_A1,,,,Box2_E1,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2018-11-30,,V1,,A1,263_V1_NS_A1,4,6,1
+Primary in Tube,408,118_V7_NS_A1,,,,Box2_E2,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2018-12-21,,V7,,A1,118_V7_NS_A1,10,6,7
+Primary in Tube,409,118_V8_NS_A1,,,,Box2_E3,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2019-03-22,,V8,,A1,118_V8_NS_A1,10,6,8
+Primary in Tube,410,118_S1_NS_A1,,,,Box2_E4,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2019-04-05,,S1,,A1,118_S1_NS_A1,10,6,9
+Primary in Tube,411,119_V7_NS_A1,,,,Box2_E5,Nasal Swab,Human Infant,16S,119,,2018-06-30,,2019-01-02,,V7,,A1,119_V7_NS_A1,7,1,5
+Primary in Tube,412,119_V8_NS_A1,,,,Box2_E6,Nasal Swab,Human Infant,16S,119,,2018-06-30,,2019-03-28,,V8,,A1,119_V8_NS_A1,7,1,6
+Primary in Tube,413,121_V7_NS_A1,,,,Box2_E7,Nasal Swab,Human Infant,16S,121,,2018-06-30,,2019-01-17,,V7,,A1,121_V7_NS_A1,6,4,3
+Primary in Tube,414,122_V7_NS_A1,,,,Box2_E8,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2019-01-11,,V7,,A1,122_V7_NS_A1,9,3,8
+Primary in Tube,415,122_V8_NS_A1,,,,Box2_E9,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2019-04-12,,V8,,A1,122_V8_NS_A1,9,3,9
+Primary in Tube,416,123_S2_NS_A1,,,,Box2_F1,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-12-07,,S2,,A1,123_S2_NS_A1,10,1,8
+Primary in Tube,417,123_S2F_NS_A1,,,,Box2_F2,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-12-14,,S2F,,A1,123_S2F_NS_A1,10,1,9
+Primary in Tube,418,123_S2F2_NS_A1,,,,Box2_F3,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2018-12-26,,S2F2,,A1,123_S2F2_NS_A1,10,1,10
+Primary in Tube,419,123_V7_NS_A1,,,,Box2_F4,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2019-01-07,,V7,,A1,123_V7_NS_A1,10,1,11
+Primary in Tube,420,123_V8_NS_A1,,,,Box2_F5,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2019-04-08,,V8,,A1,123_V8_NS_A1,10,1,12
+Primary in Tube,421,123_S3_NS_A1,,,,Box2_F6,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2019-04-22,,S3,,A1,123_S3_NS_A1,10,2,1
+Primary in Tube,422,124_V6_NS_A1,,,,Box2_F7,Nasal Swab,Human Infant,16S,124,,2018-08-22,,2019-01-16,,V6,,A1,124_V6_NS_A1,9,1,12
+Primary in Tube,423,124_V7_NS_A1,,,,Box2_F8,Nasal Swab,Human Infant,16S,124,,2018-08-22,,2019-03-19,,V7,,A1,124_V7_NS_A1,9,2,1
+Primary in Tube,424,125_V6_NS_A1,,,,Box2_F9,Nasal Swab,Human Infant,16S,125,,2018-08-16,,2019-01-07,,V6,,A1,125_V6_NS_A1,10,4,11
+Primary in Tube,425,125_V7_NS_A1,,,,Box2_G1,Nasal Swab,Human Infant,16S,125,,2018-08-16,,2019-02-18,,V7,,A1,125_V7_NS_A1,10,4,12
+Primary in Tube,426,126_V6_NS_A1,,,,Box2_G2,Nasal Swab,Human Infant,16S,126,,2018-08-27,,2018-12-27,,V6,,A1,126_V6_NS_A1,6,6,7
+Primary in Tube,427,126_V7_NS_A1,,,,Box2_G3,Nasal Swab,Human Infant,16S,126,,2018-08-27,,2019-02-27,,V7,,A1,126_V7_NS_A1,6,6,8
+Primary in Tube,428,127_V6_NS_A1,,,,Box2_G4,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2019-01-21,,V6,,A1,127_V6_NS_A1,4,1,3
+Primary in Tube,429,127_V7_NS_A1,,,,Box2_G5,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2019-03-25,,V7,,A1,127_V7_NS_A1,4,1,4
+Primary in Tube,430,127_S4_NS_A1,,,,Box2_G6,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2019-04-04,,S4,,A1,127_S4_NS_A1,4,1,5
+Primary in Tube,431,128_V6_NS_A1,,,,Box2_G7,Nasal Swab,Human Infant,16S,128,,2018-08-26,,2018-12-28,,V6,,A1,128_V6_NS_A1,1,3,3
+Primary in Tube,432,128_V7_NS_A1,,,,Box2_G8,Nasal Swab,Human Infant,16S,128,,2018-08-26,,2019-02-27,,V7,,A1,128_V7_NS_A1,1,3,4
+Primary in Tube,433,128_A2_NS_A1,,,,Box2_G9,Nasal Swab,Human Infant,16S,128,,2018-08-26,,2019-04-02,,A2,,A1,128_A2_NS_A1,1,3,5
+Primary in Tube,434,128_A3_NS_A1,,,,Box2_H1,Nasal Swab,Human Infant,16S,128,,2018-08-26,,2019-04-16,,A3,,A1,128_A3_NS_A1,1,3,6
+Primary in Tube,435,129_V6_NS_A1,,,,Box2_H2,Nasal Swab,Human Infant,16S,129,,2018-09-05,,2019-01-10,,V6,,A1,129_V6_NS_A1,8,7,2
+Primary in Tube,436,129_V7_NS_A1,,,,Box2_H3,Nasal Swab,Human Infant,16S,129,,2018-09-05,,2019-03-13,,V7,,A1,129_V7_NS_A1,8,7,3
+Primary in Tube,437,130_V5_NS_A1,,,,Box2_H4,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2018-12-28,,V5,,A1,130_V5_NS_A1,3,2,4
+Primary in Tube,438,130_S1_NS_A1,,,,Box2_H5,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2019-02-11,,S1,,A1,130_S1_NS_A1,3,2,5
+Primary in Tube,439,130_V6_NS_A1,,,,Box2_H6,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2019-03-11,,V6,,A1,130_V6_NS_A1,3,2,6
+Primary in Tube,440,131_V5_NS_A1,,,,Box2_H7,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2019-01-08,,V5,,A1,131_V5_NS_A1,4,3,6
+Primary in Tube,441,131_V6_NS_A1,,,,Box2_H8,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2019-03-11,,V6,,A1,131_V6_NS_A1,4,3,7
+Primary in Tube,442,131_S1_NS_A1,,,,Box2_H9,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2019-04-24,,S1,,A1,131_S1_NS_A1,4,3,8
+Primary in Tube,443,132_V4_NS_A1,,,,Box2_I1,Nasal Swab,Human Infant,16S,132,,2018-11-18,,2018-12-10,,V4,,A1,132_V4_NS_A1,9,7,2
+Primary in Tube,444,132_V5_NS_A1,,,,Box2_I2,Nasal Swab,Human Infant,16S,132,,2018-11-18,,2019-01-16,,V5,,A1,132_V5_NS_A1,9,7,3
+Primary in Tube,445,132_S1_NS_A1,,,,Box2_I3,Nasal Swab,Human Infant,16S,132,,2018-11-18,,2019-03-01,,S1,,A1,132_S1_NS_A1,9,7,4
+Primary in Tube,446,133_V3_NS_A1,,,,Box2_I4,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2018-12-03,,V3,,A1,133_V3_NS_A1,8,5,5
+Primary in Tube,447,133_V5_NS_A1,,,,Box2_I5,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2019-01-21,,V5,,A1,133_V5_NS_A1,8,5,6
+Primary in Tube,448,133_S2_NS_A1,,,,Box2_I6,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2019-03-14,,S2,,A1,133_S2_NS_A1,8,5,7
+Primary in Tube,449,133_V6_NS_A1,,,,Box2_I7,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2019-04-23,,V6,,A1,133_V6_NS_A1,8,5,8
+Primary in Tube,450,134_V2_NS_A1,,,,Box2_I8,Nasal Swab,Human Infant,16S,134,,2018-11-22,,2018-12-05,,V2,,A1,134_V2_NS_A1,4,5,4
+Primary in Tube,451,134_V3_NS_A1,,,,Box2_I9,Nasal Swab,Human Infant,16S,134,,2018-11-22,,2018-12-10,,V3,,A1,134_V3_NS_A1,4,5,5
+Primary in Tube,452,134_V5_NS_A1,,,,Box3_A1,Nasal Swab,Human Infant,16S,134,,2018-11-22,,2019-01-23,,V5,,A1,134_V5_NS_A1,4,5,6
+Primary in Tube,453,134_V6_NS_A1,,,,Box3_A2,Nasal Swab,Human Infant,16S,134,,2018-11-22,,2019-03-22,,V6,,A1,134_V6_NS_A1,4,5,7
+Primary in Tube,454,135_V2_NS_A1,,,,Box3_A3,Nasal Swab,Human Infant,16S,135,,2018-11-26,,2018-12-06,,V2,,A1,135_V2_NS_A1,2,5,4
+Primary in Tube,455,135_V5_NS_A1,,,,Box3_A4,Nasal Swab,Human Infant,16S,135,,2018-11-26,,2019-01-28,,V5,,A1,135_V5_NS_A1,2,5,5
+Primary in Tube,456,135_V6_NS_A1,,,,Box3_A5,Nasal Swab,Human Infant,16S,135,,2018-11-26,,2019-04-02,,V6,,A1,135_V6_NS_A1,2,5,6
+Primary in Tube,457,136_V2_NS_A1,,,,Box3_A6,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2018-12-26,,V2,,A1,136_V2_NS_A1,11,7,4
+Primary in Tube,458,136_V4_NS_A1,,,,Box3_A7,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2019-01-09,,V4,,A1,136_V4_NS_A1,11,7,5
+Primary in Tube,459,136_V5_NS_A1,,,,Box3_A8,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2019-02-14,,V5,,A1,136_V5_NS_A1,11,7,6
+Primary in Tube,460,136_V6_NS_A1,,,,Box3_A9,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2019-04-15,,V6,,A1,136_V6_NS_A1,11,7,7
+Primary in Tube,461,234_S1_NS_A1,,,,Box3_B1,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2018-12-26,,S1,,A1,234_S1_NS_A1,12,2,4
+Primary in Tube,462,234_A1F_NS_A1,,,,Box3_B2,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2019-04-15,,A1F,,A1,234_A1F_NS_A1,12,2,5
+Primary in Tube,463,236_V7_NS_A1,,,,Box3_B3,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2018-12-14,,V7,,A1,236_V7_NS_A1,7,6,11
+Primary in Tube,464,236_A1_NS_A1,,,,Box3_B4,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2018-12-27,,A1,,A1,236_A1_NS_A1,7,6,12
+Primary in Tube,465,236_V8_NS_A1,,,,Box3_B5,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2019-03-22,,V8,,A1,236_V8_NS_A1,7,7,1
+Primary in Tube,466,236_A2_NS_B1,,,,Box3_B6,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2019-04-16,,A2,,B1,236_A2_NS_B1,7,7,2
+Primary in Tube,467,237_V7_NS_A1,,,,Box3_B7,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2019-01-02,,V7,,A1,237_V7_NS_A1,11,6,10
+Primary in Tube,468,237_V8_NS_A1,,,,Box3_B8,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2019-03-21,,V8,,A1,237_V8_NS_A1,11,6,11
+Primary in Tube,469,238_V7_NS_A1,,,,Box3_B9,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2018-12-21,,V7,,A1,238_V7_NS_A1,2,6,6
+Primary in Tube,470,238_V8_NS_A1,,,,Box3_C1,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2019-03-22,,V8,,A1,238_V8_NS_A1,2,6,7
+Primary in Tube,471,239_V7_NS_A1,,,,Box3_C2,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2018-12-28,,V7,,A1,239_V7_NS_A1,3,1,6
+Primary in Tube,472,239_S2_NS_A1,,,,Box3_C3,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2019-01-07,,S2,,A1,239_S2_NS_A1,3,1,7
+Primary in Tube,473,239_V8_NS_A1,,,,Box3_C4,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2019-03-28,,V8,,A1,239_V8_NS_A1,3,1,8
+Primary in Tube,474,240_V7_NS_A1,,,,Box3_C5,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2018-12-24,,V7,,A1,240_V7_NS_A1,9,6,3
+Primary in Tube,475,240_V8_NS_A1,,,,Box3_C6,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2019-03-22,,V8,,A1,240_V8_NS_A1,9,6,4
+Primary in Tube,476,241_V7_NS_A1,,,,Box3_C7,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2019-01-02,,V7,,A1,241_V7_NS_A1,8,6,5
+Primary in Tube,477,241_V8_NS_A1,,,,Box3_C8,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2019-03-25,,V8,,A1,241_V8_NS_A1,8,6,6
+Primary in Tube,478,241_S1_NS_A1,,,,Box3_C9,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2019-04-01,,S1,,A1,241_S1_NS_A1,8,6,7
+Primary in Tube,479,241_S2_NS_A1,,,,Box3_D1,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2019-05-01,,S2,,A1,241_S2_NS_A1,8,6,8
+Primary in Tube,480,243_V8_NS_A1,,,,Box3_D2,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2019-04-18,,V8,,A1,243_V8_NS_A1,11,4,7
+Primary in Tube,481,245_V7_NS_A1,,,,Box3_D3,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2019-01-25,,V7,,A1,245_V7_NS_A1,4,2,3
+Primary in Tube,482,245_A1_NS_A1,,,,Box3_D4,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2019-04-16,,A1,,A1,245_A1_NS_A1,4,2,4
+Primary in Tube,483,245_V8_NS_A1,,,,Box3_D5,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2019-04-22,,V8,,A1,245_V8_NS_A1,4,2,5
+Primary in Tube,484,246_V7_NS_A1,,,,Box3_D6,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2019-01-29,,V7,,A1,246_V7_NS_A1,3,6,6
+Primary in Tube,485,246_V8_NS_A1,,,,Box3_D7,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2019-04-29,,V8,,A1,246_V8_NS_A1,3,6,7
+Primary in Tube,486,247_V6_NS_A1,,,,Box3_D8,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2018-12-21,,V6,,A1,247_V6_NS_A1,12,6,12
+Primary in Tube,487,247_V7_NS_A1,,,,Box3_D9,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2019-02-26,,V7,,A1,247_V7_NS_A1,12,7,1
+Primary in Tube,488,248_V7_NS_A1,,,,Box3_E1,Nasal Swab,Human Infant,16S,248,,2018-08-19,,2019-03-27,,V7,,A1,248_V7_NS_A1,12,7,12
+Primary in Tube,489,249_V6_NS_A1,,,,Box3_E2,Nasal Swab,Human Infant,16S,249,,2018-08-24,,2018-12-28,,V6,,A1,249_V6_NS_A1,7,2,7
+Primary in Tube,490,249_V7_NS_A1,,,,Box3_E3,Nasal Swab,Human Infant,16S,249,,2018-08-24,,2019-02-25,,V7,,A1,249_V7_NS_A1,7,2,8
+Primary in Tube,491,250_V6_NS_A1,,,,Box3_E4,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2019-01-09,,V6,,A1,250_V6_NS_A1,1,4,1
+Primary in Tube,492,250_V7_NS_A1,,,,Box3_E5,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2019-03-13,,V7,,A1,250_V7_NS_A1,1,4,2
+Primary in Tube,493,251_V6_NS_A1,,,,Box3_E6,Nasal Swab,Human Infant,16S,251,,2018-08-29,,2019-01-11,,V6,,A1,251_V6_NS_A1,9,4,4
+Primary in Tube,494,251_V7_NS_A1,,,,Box3_E7,Nasal Swab,Human Infant,16S,251,,2018-08-29,,2019-03-08,,V7,,A1,251_V7_NS_A1,9,4,5
+Primary in Tube,495,252_V6_NS_A1,,,,Box3_E8,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2019-01-08,,V6,,A1,252_V6_NS_A1,1,7,1
+Primary in Tube,496,252_V7_NS_A1,,,,Box3_E9,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2019-03-07,,V7,,A1,252_V7_NS_A1,1,7,2
+Primary in Tube,497,252_S1_NS_A1,,,,Box3_F1,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2019-03-26,,S1,,A1,252_S1_NS_A1,1,7,3
+Primary in Tube,498,252_S2_NS_A1,,,,Box3_F2,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2019-04-19,,S2,,A1,252_S2_NS_A1,1,7,4
+Primary in Tube,499,253_V6_NS_A1,,,,Box3_F3,Nasal Swab,Human Infant,16S,253,,2018-09-27,,2019-01-28,,V6,,A1,253_V6_NS_A1,1,1,3
+Primary in Tube,500,253_S1_NS_A1,,,,Box3_F4,Nasal Swab,Human Infant,16S,253,,2018-09-27,,2019-02-20,,S1,,A1,253_S1_NS_A1,1,1,4
+Primary in Tube,501,253_S2_NS_A1,,,,Box3_F5,Nasal Swab,Human Infant,16S,253,,2018-09-27,,2019-02-25,,S2,,A1,253_S2_NS_A1,1,1,5
+Primary in Tube,502,253_V7_NS_A1,,,,Box3_F6,Nasal Swab,Human Infant,16S,253,,2018-09-27,,2019-03-28,,V7,,A1,253_V7_NS_A1,1,1,6
+Primary in Tube,503,254_V6_NS_B1,,,,Box3_F7,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2019-01-30,,V6,,B1,254_V6_NS_B1,6,4,9
+Primary in Tube,504,254_V7_NS_A1,,,,Box3_F8,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2019-04-02,,V7,,A1,254_V7_NS_A1,6,4,10
+Primary in Tube,505,254_S2_NS_A1,,,,Box3_F9,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2019-05-01,,S2,,A1,254_S2_NS_A1,6,4,11
+Primary in Tube,506,255_V6_NS_A1,,,,Box3_G1,Nasal Swab,Human Infant,16S,255,,2018-09-27,,2019-01-28,,V6,,A1,255_V6_NS_A1,8,4,3
+Primary in Tube,507,255_V7_NS_A1,,,,Box3_G2,Nasal Swab,Human Infant,16S,255,,2018-09-27,,2019-03-28,,V7,,A1,255_V7_NS_A1,8,4,4
+Primary in Tube,508,256_V5_NS_A1,,,,Box3_G3,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2018-12-06,,V5,,A1,256_V5_NS_A1,12,2,11
+Primary in Tube,509,256_V6_NS_A1,,,,Box3_G4,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-02-05,,V6,,A1,256_V6_NS_A1,12,2,12
+Primary in Tube,510,256_S1_NS_A1,,,,Box3_G5,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-03-08,,S1,,A1,256_S1_NS_A1,12,3,1
+Primary in Tube,511,256_S2_NS_A1,,,,Box3_G6,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-03-19,,S2,,A1,256_S2_NS_A1,12,3,2
+Primary in Tube,512,256_V7_NS_A1,,,,Box3_G7,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-04-04,,V7,,A1,256_V7_NS_A1,12,3,3
+Primary in Tube,513,257_V7_NS_A1,,,,Box3_G8,Nasal Swab,Human Infant,16S,257,,2018-10-12,,2019-05-02,,V7,,A1,257_V7_NS_A1,3,5,11
+Primary in Tube,514,258_V5_NS_A1,,,,Box3_G9,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2019-01-03,,V5,,A1,258_V5_NS_A1,3,7,1
+Primary in Tube,515,258_V6_NS_A1,,,,Box3_H1,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2019-02-25,,V6,,A1,258_V6_NS_A1,3,7,2
+Primary in Tube,516,258_V7_NS_A1,,,,Box3_H2,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2019-04-24,,V7,,A1,258_V7_NS_A1,3,7,3
+Primary in Tube,517,259_V5_NS_A1,,,,Box3_H3,Nasal Swab,Human Infant,16S,259,,2018-10-26,,2018-12-21,,V5,,A1,259_V5_NS_A1,4,4,9
+Primary in Tube,518,259_V6_NS_A1,,,,Box3_H4,Nasal Swab,Human Infant,16S,259,,2018-10-26,,2019-03-06,,V6,,A1,259_V6_NS_A1,4,4,10
+Primary in Tube,519,260_V5_NS_A1,,,,Box3_H5,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2019-01-09,,V5,,A1,260_V5_NS_A1,9,2,7
+Primary in Tube,520,260_V6_NS_A1,,,,Box3_H6,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2019-03-07,,V6,,A1,260_V6_NS_A1,9,2,8
+Primary in Tube,521,261_V5_NS_A1,,,,Box3_H7,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2019-01-03,,V5,,A1,261_V5_NS_A1,6,2,4
+Primary in Tube,522,261_V6_NS_A1,,,,Box3_H8,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2019-03-04,,V6,,A1,261_V6_NS_A1,6,2,5
+Primary in Tube,523,261_S1_NS_A1,,,,Box3_H9,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2019-04-09,,S1,,A1,261_S1_NS_A1,6,2,6
+Primary in Tube,524,263_V2_NS_A1,,,,Box3_I1,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2018-12-07,,V2,,A1,263_V2_NS_A1,4,6,2
+Primary in Tube,525,263_V5_NS_B1,,,,Box3_I2,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2019-01-24,,V5,,B1,263_V5_NS_B1,4,6,3
+Primary in Tube,526,263_S1_NS_A1,,,,Box3_I3,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2019-02-13,,S1,,A1,263_S1_NS_A1,4,6,4
+Primary in Tube,527,263_V6_NS_A1,,,,Box3_I4,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2019-03-25,,V6,,A1,263_V6_NS_A1,4,6,5
+Primary in Tube,528,264_V1_NS_B1,,,,Box3_I5,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2018-12-10,,V1,,B1,264_V1_NS_B1,2,7,2
+Primary in Tube,529,264_V3_NS_B1,,,,Box3_I6,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2018-12-19,,V3,,B1,264_V3_NS_B1,2,7,3
+Primary in Tube,530,264_V5_NS_B1,,,,Box3_I7,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2019-02-04,,V5,,B1,264_V5_NS_B1,2,7,4
+Primary in Tube,531,264_V6_NS_A1,,,,Box3_I8,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2019-04-08,,V6,,A1,264_V6_NS_A1,2,7,5
+Primary in Tube,532,264_S1_NS_A1,,,,Box3_I9,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2019-04-26,,S1,,A1,264_S1_NS_A1,2,7,6
+Primary in Tube,533,265_V2_NS_B1,,,,Box4_A1,Nasal Swab,Human Infant,16S,265,,2018-12-06,,2018-12-19,,V2,,B1,265_V2_NS_B1,3,5,1
+Primary in Tube,534,265_V4_NS_A1,,,,Box4_A2,Nasal Swab,Human Infant,16S,265,,2018-12-06,,2018-12-28,,V4,,A1,265_V4_NS_A1,3,5,2
+Primary in Tube,535,265_V5_NS_A1,,,,Box4_A3,Nasal Swab,Human Infant,16S,265,,2018-12-06,,2019-01-25,,V5,,A1,265_V5_NS_A1,3,5,3
+Primary in Tube,536,265_V6_NS_A1,,,,Box4_A4,Nasal Swab,Human Infant,16S,265,,2018-12-06,,2019-04-10,,V6,,A1,265_V6_NS_A1,3,5,4
+Primary in Tube,537,118_S2_NS_A1,,,,Box4_A5,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2019-06-20,,S2,,A1,118_S2_NS_A1,10,6,10
+Primary in Tube,538,124_V8_NS_A1,,,,Box4_A6,Nasal Swab,Human Infant,16S,124,,2018-08-22,,2019-06-19,,V8,,A1,124_V8_NS_A1,9,2,2
+Primary in Tube,539,125_V8_NS_A1,,,,Box4_A7,Nasal Swab,Human Infant,16S,125,,2018-08-16,,2019-05-17,,V8,,A1,125_V8_NS_A1,10,5,1
+Primary in Tube,540,128_V8_NS_A1,,,,Box4_A8,Nasal Swab,Human Infant,16S,128,,2018-08-26,,2019-05-31,,V8,,A1,128_V8_NS_A1,1,3,7
+Primary in Tube,541,129_V8_NS_A1,,,,Box4_A9,Nasal Swab,Human Infant,16S,129,,2018-09-05,,2019-06-12,,V8,,A1,129_V8_NS_A1,8,7,4
+Primary in Tube,542,130_V7_NS_A2,,,,Box4_B1,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2019-05-13,,V7,,A2,130_V7_NS_A2,3,2,7
+Primary in Tube,543,131_V7_NS_A1,,,,Box4_B2,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2019-05-14,,V7,,A1,131_V7_NS_A1,4,3,9
+Primary in Tube,544,133_V7_NS_A1,,,,Box4_B3,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2019-06-17,,V7,,A1,133_V7_NS_A1,8,5,9
+Primary in Tube,545,134_V7_NS_A1,,,,Box4_B4,Nasal Swab,Human Infant,16S,134,,2018-11-22,,2019-05-24,,V7,,A1,134_V7_NS_A1,4,5,8
+Primary in Tube,546,135_V7_NS_A1,,,,Box4_B5,Nasal Swab,Human Infant,16S,135,,2018-11-26,,2019-06-03,,V7,,A1,135_V7_NS_A1,2,5,7
+Primary in Tube,547,236_A3_NS_A1,,,,Box4_B6,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2019-05-16,,A3,,A1,236_A3_NS_A1,7,7,3
+Primary in Tube,548,236_A3F_NS_A1,,,,Box4_B7,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2019-06-10,,A3F,,A1,236_A3F_NS_A1,7,7,4
+Primary in Tube,549,236_A4_NS_A1,,,,Box4_B8,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2019-06-14,,A4,,A1,236_A4_NS_A1,7,7,5
+Primary in Tube,550,237_S1_NS_A1,,,,Box4_B9,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2019-05-24,,S1,,A1,237_S1_NS_A1,11,6,12
+Primary in Tube,551,240_A1F_NS_A1,,,,Box4_C1,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2019-05-08,,A1F,,A1,240_A1F_NS_A1,9,6,5
+Primary in Tube,552,247_V8_NS_A1,,,,Box4_C2,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2019-05-28,,V8,,A1,247_V8_NS_A1,12,7,2
+Primary in Tube,553,250_S3_NS_A1,,,,Box4_C3,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2019-05-28,,S3,,A1,250_S3_NS_A1,1,4,3
+Primary in Tube,554,251_V8_NS_A1,,,,Box4_C4,Nasal Swab,Human Infant,16S,251,,2018-08-29,,2019-05-31,,V8,,A1,251_V8_NS_A1,9,4,6
+Primary in Tube,555,252_V8_NS_A1,,,,Box4_C5,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2019-06-11,,V8,,A1,252_V8_NS_A1,1,7,5
+Primary in Tube,556,256_A2F_NS_A1,,,,Box4_C6,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-05-22,,A2F,,A1,256_A2F_NS_A1,12,3,4
+Primary in Tube,557,259_V7_NS_A1,,,,Box4_C7,Nasal Swab,Human Infant,16S,259,,2018-10-26,,2019-05-10,,V7,,A1,259_V7_NS_A1,4,4,11
+Primary in Tube,558,260_V7_NS_A1,,,,Box4_C8,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2019-05-06,,V7,,A1,260_V7_NS_A1,9,2,9
+Primary in Tube,559,261_V7_NS_A1,,,,Box4_C9,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2019-05-02,,V7,,A1,261_V7_NS_A1,6,2,7
+Primary in Tube,560,261_S2_NS_A1,,,,Box4_D1,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2019-06-04,,S2,,A1,261_S2_NS_A1,6,2,8
+Primary in Tube,561,263_V7_NS_A1,,,,Box4_D2,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2019-05-28,,V7,,A1,263_V7_NS_A1,4,6,6
+Primary in Tube,562,264_V7_NS_A1,,,,Box4_D3,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2019-06-05,,V7,,A1,264_V7_NS_A1,2,7,7
+Primary in Tube,563,264_S2_NS_A1,,,,Box4_D4,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2019-06-12,,S2,,A1,264_S2_NS_A1,2,7,8
+Primary in Tube,564,265_V7_NS_A1,,,,Box4_D5,Nasal Swab,Human Infant,16S,265,,2018-12-06,,2019-06-12,,V7,,A1,265_V7_NS_A1,3,5,5
+Primary in Tube,565,103_V11_NS_A1,,,,Box5_A1,Nasal Swab,Human Infant,16S,103,,2018-02-21,,2019-09-12,,V11,,A1,103_V11_NS_A1,4,7,8
+Primary in Tube,566,103_S3_NS_A1,,,,Box5_A2,Nasal Swab,Human Infant,16S,103,,2018-02-21,,2020-01-07,,S3,,A1,103_S3_NS_A1,4,7,9
+Primary in Tube,567,103_V12_NS_A1,,,,Box5_A3,Nasal Swab,Human Infant,16S,103,,2018-02-21,,2020-05-05,,V12,,A1,103_V12_NS_A1,4,7,10
+Primary in Tube,568,108_V10_NS_A1,,,,Box5_A4,Nasal Swab,Human Infant,16S,108,,2018-03-28,,2019-06-27,,V10,,A1,108_V10_NS_A1,5,2,10
+Primary in Tube,569,108_A1_NS_A1,,,,Box5_A5,Nasal Swab,Human Infant,16S,108,,2018-03-28,,2019-07-11,,A1,,A1,108_A1_NS_A1,5,2,11
+Primary in Tube,570,108_V11_NS_A1,,,,Box5_A6,Nasal Swab,Human Infant,16S,108,,2018-03-28,,2019-10-03,,V11,,A1,108_V11_NS_A1,5,2,12
+Primary in Tube,571,108_A2_NS_A1,,,,Box5_A7,Nasal Swab,Human Infant,16S,108,,2018-03-28,,2019-10-21,,A2,,A1,108_A2_NS_A1,5,3,1
+Primary in Tube,572,108_A3_NS_A1,,,,Box5_A8,Nasal Swab,Human Infant,16S,108,,2018-03-28,,2019-11-05,,A3,,A1,108_A3_NS_A1,5,3,2
+Primary in Tube,573,108_S7_NS_A1,,,,Box5_A9,Nasal Swab,Human Infant,16S,108,,2018-03-28,,2019-12-11,,S7,,A1,108_S7_NS_A1,5,3,3
+Primary in Tube,574,108_A4_NS_A1,,,,Box5_B1,Nasal Swab,Human Infant,16S,108,,2018-03-28,,2020-02-05,,A4,,A1,108_A4_NS_A1,5,3,4
+Primary in Tube,575,108_V12_NS_A1,,,,Box5_B2,Nasal Swab,Human Infant,16S,108,,2018-03-28,,2020-05-21,,V12,,A1,108_V12_NS_A1,5,3,5
+Primary in Tube,576,109_V10_NS_A1,,,,Box5_B3,Nasal Swab,Human Infant,16S,109,,2018-04-17,,2019-07-01,,V10,,A1,109_V10_NS_A1,6,1,10
+Primary in Tube,577,109_V11_NS_A1,,,,Box5_B4,Nasal Swab,Human Infant,16S,109,,2018-04-17,,2019-10-29,,V11,,A1,109_V11_NS_A1,6,1,11
+Primary in Tube,578,109_S5_NS_A1,,,,Box5_B5,Nasal Swab,Human Infant,16S,109,,2018-04-17,,2020-02-25,,S5,,A1,109_S5_NS_A1,6,1,12
+Primary in Tube,579,110_V10_NS_A1,,,,Box5_B6,Nasal Swab,Human Infant,16S,110,,2018-05-07,,2019-08-15,,V10,,A1,110_V10_NS_A1,12,4,10
+Primary in Tube,580,110_S3_NS_A1,,,,Box5_B7,Nasal Swab,Human Infant,16S,110,,2018-05-07,,2019-10-08,,S3,,A1,110_S3_NS_A1,12,4,11
+Primary in Tube,581,110_V11_NS_A1,,,,Box5_B8,Nasal Swab,Human Infant,16S,110,,2018-05-07,,2019-11-11,,V11,,A1,110_V11_NS_A1,12,4,12
+Primary in Tube,582,110_S4_NS_A1,,,,Box5_B9,Nasal Swab,Human Infant,16S,110,,2018-05-07,,2019-11-18,,S4,,A1,110_S4_NS_A1,12,5,1
+Primary in Tube,583,110_V12_NS_A1,,,,Box5_C1,Nasal Swab,Human Infant,16S,110,,2018-05-07,,2020-05-13,,V12,,A1,110_V12_NS_A1,12,5,2
+Primary in Tube,584,112_V10_NS_A1,,,,Box5_C2,Nasal Swab,Human Infant,16S,112,,2018-05-03,,2019-08-16,,V10,,A1,112_V10_NS_A1,1,5,6
+Primary in Tube,585,112_A2_NS_A1,,,,Box5_C3,Nasal Swab,Human Infant,16S,112,,2018-05-03,,2019-08-26,,A2,,A1,112_A2_NS_A1,1,5,7
+Primary in Tube,586,112_V11_NS_A1,,,,Box5_C4,Nasal Swab,Human Infant,16S,112,,2018-05-03,,2019-11-13,,V11,,A1,112_V11_NS_A1,1,5,8
+Primary in Tube,587,112_V12_NS_A1,,,,Box5_C5,Nasal Swab,Human Infant,16S,112,,2018-05-03,,2020-07-13,,V12,,A1,112_V12_NS_A1,1,5,9
+Primary in Tube,588,113_V10_NS_A1,,,,Box5_C6,Nasal Swab,Human Infant,16S,113,,2018-05-15,,2019-08-30,,V10,,A1,113_V10_NS_A1,2,3,7
+Primary in Tube,589,113_V11_NS_A1,,,,Box5_C7,Nasal Swab,Human Infant,16S,113,,2018-05-15,,2019-11-25,,V11,,A1,113_V11_NS_A1,2,3,8
+Primary in Tube,590,113_S1_NS_A1,,,,Box5_C8,Nasal Swab,Human Infant,16S,113,,2018-05-15,,2019-12-05,,S1,,A1,113_S1_NS_A1,2,3,9
+Primary in Tube,591,113_V12_NS_A1,,,,Box5_C9,Nasal Swab,Human Infant,16S,113,,2018-05-15,,2020-06-10,,V12,,A1,113_V12_NS_A1,2,3,10
+Primary in Tube,592,115_S1_NS_A1,,,,Box5_D1,Nasal Swab,Human Infant,16S,115,,2018-05-24,,2019-08-30,,S1,,A1,115_S1_NS_A1,11,3,10
+Primary in Tube,593,115_V10_NS_A1,,,,Box5_D2,Nasal Swab,Human Infant,16S,115,,2018-05-24,,2019-09-11,,V10,,A1,115_V10_NS_A1,11,3,11
+Primary in Tube,594,115_V11_NS_A1,,,,Box5_D3,Nasal Swab,Human Infant,16S,115,,2018-05-24,,2019-11-25,,V11,,A1,115_V11_NS_A1,11,3,12
+Primary in Tube,595,115_V12_NS_A1,,,,Box5_D4,Nasal Swab,Human Infant,16S,115,,2018-05-24,,2020-05-28,,V12,,A1,115_V12_NS_A1,11,4,1
+Primary in Tube,596,117_S2_NS_A1,,,,Box5_D5,Nasal Swab,Human Infant,16S,117,,2018-06-10,,2019-07-15,,S2,,A1,117_S2_NS_A1,6,5,11
+Primary in Tube,597,117_V10_NS_A1,,,,Box5_D6,Nasal Swab,Human Infant,16S,117,,2018-06-10,,2019-09-10,,V10,,A1,117_V10_NS_A1,6,5,12
+Primary in Tube,598,117_S3_NS_A1,,,,Box5_D7,Nasal Swab,Human Infant,16S,117,,2018-06-10,,2019-10-25,,S3,,A1,117_S3_NS_A1,6,6,1
+Primary in Tube,599,117_V11_NS_A1,,,,Box5_D8,Nasal Swab,Human Infant,16S,117,,2018-06-10,,2019-12-10,,V11,,A1,117_V11_NS_A1,6,6,2
+Primary in Tube,600,117_V12_NS_A1,,,,Box5_D9,Nasal Swab,Human Infant,16S,117,,2018-06-10,,2020-06-11,,V12,,A1,117_V12_NS_A1,6,6,3
+Primary in Tube,601,118_V9_NS_A1,,,,Box5_E1,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2019-06-24,,V9,,A1,118_V9_NS_A1,10,6,11
+Primary in Tube,602,118_V10_NS_A1,,,,Box5_E2,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2019-09-27,,V10,,A1,118_V10_NS_A1,10,6,12
+Primary in Tube,603,118_S4_NS_A1,,,,Box5_E3,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2019-11-25,,S4,,A1,118_S4_NS_A1,10,7,1
+Primary in Tube,604,118_V11_NS_A1,,,,Box5_E4,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2020-01-10,,V11,,A1,118_V11_NS_A1,10,7,2
+Primary in Tube,605,118_V12_NS_A1,,,,Box5_E5,Nasal Swab,Human Infant,16S,118,,2018-06-25,,2020-06-26,,V12,,A1,118_V12_NS_A1,10,7,3
+Primary in Tube,606,119_V9_NS_A1,,,,Box5_E6,Nasal Swab,Human Infant,16S,119,,2018-06-30,,2019-07-08,,V9,,A1,119_V9_NS_A1,7,1,7
+Primary in Tube,607,119_V10_NS_A1,,,,Box5_E7,Nasal Swab,Human Infant,16S,119,,2018-06-30,,2019-10-02,,V10,,A1,119_V10_NS_A1,7,1,8
+Primary in Tube,608,119_V11_NS_A1,,,,Box5_E8,Nasal Swab,Human Infant,16S,119,,2018-06-30,,2020-01-09,,V11,,A1,119_V11_NS_A1,7,1,9
+Primary in Tube,609,121_V9_NS_A1,,,,Box5_E9,Nasal Swab,Human Infant,16S,121,,2018-06-30,,2019-07-11,,V9,,A1,121_V9_NS_A1,6,4,4
+Primary in Tube,610,121_V10_NS_A1,,,,Box5_F1,Nasal Swab,Human Infant,16S,121,,2018-06-30,,2019-10-11,,V10,,A1,121_V10_NS_A1,6,4,5
+Primary in Tube,611,121_V11_NS_A1,,,,Box5_F2,Nasal Swab,Human Infant,16S,121,,2018-06-30,,2020-01-24,,V11,,A1,121_V11_NS_A1,6,4,6
+Primary in Tube,612,122_V9_NS_A1,,,,Box5_F3,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2019-07-19,,V9,,A1,122_V9_NS_A1,9,3,10
+Primary in Tube,613,122_V10_NS_A1,,,,Box5_F4,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2019-10-18,,V10,,A1,122_V10_NS_A1,9,3,11
+Primary in Tube,614,122_V11_NS_A1,,,,Box5_F5,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2020-01-24,,V11,,A1,122_V11_NS_A1,9,3,12
+Primary in Tube,615,122_V12_NS_A1,,,,Box5_F6,Nasal Swab,Human Infant,16S,122,,2018-07-05,,2020-07-10,,V12,,A1,122_V12_NS_A1,9,4,1
+Primary in Tube,616,123_V9_NS_A1,,,,Box5_F7,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2019-07-10,,V9,,A1,123_V9_NS_A1,10,2,2
+Primary in Tube,617,123_V10_NS_A1,,,,Box5_F8,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2019-10-09,,V10,,A1,123_V10_NS_A1,10,2,3
+Primary in Tube,618,123_V11_NS_A1,,,,Box5_F9,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2020-01-08,,V11,,A1,123_V11_NS_A1,10,2,4
+Primary in Tube,619,123_S4_NS_A1,,,,Box5_G1,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2020-02-24,,S4,,A1,123_S4_NS_A1,10,2,5
+Primary in Tube,620,123_V12_NS_A1,,,,Box5_G2,Nasal Swab,Human Infant,16S,123,,2018-07-08,,2020-07-10,,V12,,A1,123_V12_NS_A1,10,2,6
+Primary in Tube,621,124_V10_NS_A1,,,,Box5_G3,Nasal Swab,Human Infant,16S,124,,2018-08-22,,2019-10-22,,V10,,A1,124_V10_NS_A1,9,2,3
+Primary in Tube,622,124_V12_NS_A1,,,,Box5_G4,Nasal Swab,Human Infant,16S,124,,2018-08-22,,2020-09-02,,V12,,A1,124_V12_NS_A1,9,2,4
+Primary in Tube,623,125_V9_NS_A1,,,,Box5_G5,Nasal Swab,Human Infant,16S,125,,2018-08-16,,2019-08-20,,V9,,A1,125_V9_NS_A1,10,5,2
+Primary in Tube,624,125_V10_NS_A1,,,,Box5_G6,Nasal Swab,Human Infant,16S,125,,2018-08-16,,2019-11-20,,V10,,A1,125_V10_NS_A1,10,5,3
+Primary in Tube,625,125_V11_NS_A1,,,,Box5_G7,Nasal Swab,Human Infant,16S,125,,2018-08-16,,2020-02-19,,V11,,A1,125_V11_NS_A1,10,5,4
+Primary in Tube,626,125_V12_NS_A1,,,,Box5_G8,Nasal Swab,Human Infant,16S,125,,2018-08-16,,2020-08-21,,V12,,A1,125_V12_NS_A1,10,5,5
+Primary in Tube,627,127_V8_NS_A1,,,,Box5_G9,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2019-06-25,,V8,,A1,127_V8_NS_A1,4,1,6
+Primary in Tube,628,127_V9_NS_A1,,,,Box5_H1,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2019-09-23,,V9,,A1,127_V9_NS_A1,4,1,7
+Primary in Tube,629,127_V10_NS_A1,,,,Box5_H2,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2019-12-26,,V10,,A1,127_V10_NS_A1,4,1,8
+Primary in Tube,630,127_S2_NS_A1,,,,Box5_H3,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2020-01-15,,S2,,A1,127_S2_NS_A1,4,1,9
+Primary in Tube,631,127_V11_NS_A1,,,,Box5_H4,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2020-04-06,,V11,,A1,127_V11_NS_A1,4,1,10
+Primary in Tube,632,127_V12_NS_A1,,,,Box5_H5,Nasal Swab,Human Infant,16S,127,,2018-08-31,,2020-09-02,,V12,,A1,127_V12_NS_A1,4,1,11
+Primary in Tube,633,129_V9_NS_A1,,,,Box5_H6,Nasal Swab,Human Infant,16S,129,,2018-09-05,,2019-09-09,,V9,,A1,129_V9_NS_A1,8,7,5
+Primary in Tube,634,130_V8_NS_A1,,,,Box5_H7,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2019-08-14,,V8,,A1,130_V8_NS_A1,3,2,8
+Primary in Tube,635,130_V9_NS_A1,,,,Box5_H8,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2019-10-28,,V9,,A1,130_V9_NS_A1,3,2,9
+Primary in Tube,636,130_V10_NS_A1,,,,Box5_H9,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2020-01-27,,V10,,A1,130_V10_NS_A1,3,2,10
+Primary in Tube,637,130_V11_NS_A1,,,,Box5_I1,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2020-05-20,,V11,,A1,130_V11_NS_A1,3,2,11
+Primary in Tube,638,130_V12_NS_A1,,,,Box5_I2,Nasal Swab,Human Infant,16S,130,,2018-10-27,,2020-10-27,,V12,,A1,130_V12_NS_A1,3,2,12
+Primary in Tube,639,131_A1_NS_A1,,,,Box5_I3,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2019-07-01,,A1,,A1,131_A1_NS_A1,4,3,10
+Primary in Tube,640,131_A1F_NS_A1,,,,Box5_I4,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2019-07-09,,A1F,,A1,131_A1F_NS_A1,4,3,11
+Primary in Tube,641,131_S2_NS_A1,,,,Box5_I5,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2019-08-07,,S2,,A1,131_S2_NS_A1,4,3,12
+Primary in Tube,642,131_A2F_NS_A1,,,,Box5_I6,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2019-08-20,,A2F,,A1,131_A2F_NS_A1,4,4,1
+Primary in Tube,643,131_V9_NS_A1,,,,Box5_I7,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2019-11-19,,V9,,A1,131_V9_NS_A1,4,4,2
+Primary in Tube,644,131_S4_NS_A1,,,,Box5_I8,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2020-01-20,,S4,,A1,131_S4_NS_A1,4,4,3
+Primary in Tube,645,131_V10_NS_A1,,,,Box5_I9,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2020-04-03,,V10,,A1,131_V10_NS_A1,4,4,4
+Primary in Tube,646,131_V11_NS_A1,,,,Box6_A1,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2020-07-23,,V11,,A1,131_V11_NS_A1,4,4,5
+Primary in Tube,647,131_V12_NS_A1,,,,Box6_A2,Nasal Swab,Human Infant,16S,131,,2018-11-08,,2020-12-21,,V12,,A1,131_V12_NS_A1,4,4,6
+Primary in Tube,648,133_V8_NS_A1,,,,Box6_A3,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2019-08-19,,V8,,A1,133_V8_NS_A1,8,5,10
+Primary in Tube,649,133_V9_NS_A1,,,,Box6_A4,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2019-11-25,,V9,,A1,133_V9_NS_A1,8,5,11
+Primary in Tube,650,133_V11_NS_A1,,,,Box6_A5,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2020-05-19,,V11,,A1,133_V11_NS_A1,8,5,12
+Primary in Tube,651,133_V12_NS_A1,,,,Box6_A6,Nasal Swab,Human Infant,16S,133,,2018-11-19,,2020-12-15,,V12,,A1,133_V12_NS_A1,8,6,1
+Primary in Tube,652,134_V8_NS_A1,,,,Box6_A7,Nasal Swab,Human Infant,16S,134,,2018-11-22,,2019-09-06,,V8,,A1,134_V8_NS_A1,4,5,9
+Primary in Tube,653,134_V9_NS_A1,,,,Box6_A8,Nasal Swab,Human Infant,16S,134,,2018-11-22,,2019-12-06,,V9,,A1,134_V9_NS_A1,4,5,10
+Primary in Tube,654,134_V10_NS_A1,,,,Box6_A9,Nasal Swab,Human Infant,16S,134,,2018-11-22,,2020-03-12,,V10,,A1,134_V10_NS_A1,4,5,11
+Primary in Tube,655,134_V12_NS_A1,,,,Box6_B1,Nasal Swab,Human Infant,16S,134,,2018-11-22,,2020-10-05,,V12,,A1,134_V12_NS_A1,4,5,12
+Primary in Tube,656,135_V8_NS_A1,,,,Box6_B2,Nasal Swab,Human Infant,16S,135,,2018-11-26,,2019-09-09,,V8,,A1,135_V8_NS_A1,2,5,8
+Primary in Tube,657,135_S1_NS_A1,,,,Box6_B3,Nasal Swab,Human Infant,16S,135,,2018-11-26,,2019-10-14,,S1,,A1,135_S1_NS_A1,2,5,9
+Primary in Tube,658,135_V9_NS_A1,,,,Box6_B4,Nasal Swab,Human Infant,16S,135,,2018-11-26,,2019-11-26,,V9,,A1,135_V9_NS_A1,2,5,10
+Primary in Tube,659,135_S2_NS_A1,,,,Box6_B5,Nasal Swab,Human Infant,16S,135,,2018-11-26,,2019-12-18,,S2,,A1,135_S2_NS_A1,2,5,11
+Primary in Tube,660,135_V11_NS_A1,,,,Box6_B6,Nasal Swab,Human Infant,16S,135,,2018-11-26,,2020-06-08,,V11,,A1,135_V11_NS_A1,2,5,12
+Primary in Tube,661,136_V7_NS_A1,,,,Box6_B7,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2019-06-25,,V7,,A1,136_V7_NS_A1,11,7,8
+Primary in Tube,662,136_V8_NS_A1,,,,Box6_B8,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2019-10-01,,V8,,A1,136_V8_NS_A1,11,7,9
+Primary in Tube,663,136_V9_NS_A1,,,,Box6_B9,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2020-01-09,,V9,,A1,136_V9_NS_A1,11,7,10
+Primary in Tube,664,136_V10_NS_A1,,,,Box6_C1,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2020-03-16,,V10,,A1,136_V10_NS_A1,11,7,11
+Primary in Tube,665,136_V11_NS_A1,,,,Box6_C2,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2020-06-22,,V11,,A1,136_V11_NS_A1,11,7,12
+Primary in Tube,666,136_V12_NS_A1,,,,Box6_C3,Nasal Swab,Human Infant,16S,136,,2018-12-14,,2021-01-04,,V12,,A1,136_V12_NS_A1,11,8,1
+Primary in Tube,667,202_S2_NS_A1,,,,Box6_C4,Nasal Swab,Human Infant,16S,202,,2018-02-27,,2020-02-24,,S2,,A1,202_S2_NS_A1,8,1,10
+Primary in Tube,668,204_V11_NS_A1,,,,Box6_C5,Nasal Swab,Human Infant,16S,204,,2018-02-26,,2019-08-27,,V11,,A1,204_V11_NS_A1,7,5,9
+Primary in Tube,669,204_S2_NS_A1,,,,Box6_C6,Nasal Swab,Human Infant,16S,204,,2018-02-26,,2019-11-25,,S2,,A1,204_S2_NS_A1,7,5,10
+Primary in Tube,670,204_A2F_NS_A1,,,,Box6_C7,Nasal Swab,Human Infant,16S,204,,2018-02-26,,2019-12-13,,A2F,,A1,204_A2F_NS_A1,7,5,11
+Primary in Tube,671,204_V12_NS_A1,,,,Box6_C8,Nasal Swab,Human Infant,16S,204,,2018-02-26,,2020-02-11,,V12,,A1,204_V12_NS_A1,7,5,12
+Primary in Tube,672,205_V10_NS_A1,,,,Box6_C9,Nasal Swab,Human Infant,16S,205,,2018-02-28,,2019-06-28,,V10,,A1,205_V10_NS_A1,12,5,10
+Primary in Tube,673,205_V11_NS_A1,,,,Box6_D1,Nasal Swab,Human Infant,16S,205,,2018-02-28,,2019-08-28,,V11,,A1,205_V11_NS_A1,12,5,11
+Primary in Tube,674,205_A1_NS_A1,,,,Box6_D2,Nasal Swab,Human Infant,16S,205,,2018-02-28,,2019-10-30,,A1,,A1,205_A1_NS_A1,12,5,12
+Primary in Tube,675,205_A1F_NS_A1,,,,Box6_D3,Nasal Swab,Human Infant,16S,205,,2018-02-28,,2019-11-18,,A1F,,A1,205_A1F_NS_A1,12,6,1
+Primary in Tube,676,205_S2_NS_A1,,,,Box6_D4,Nasal Swab,Human Infant,16S,205,,2018-02-28,,2020-02-04,,S2,,A1,205_S2_NS_A1,12,6,2
+Primary in Tube,677,205_V12_NS_A1,,,,Box6_D5,Nasal Swab,Human Infant,16S,205,,2018-02-28,,2020-02-25,,V12,,A1,205_V12_NS_A1,12,6,3
+Primary in Tube,678,206_V11_NS_A1,,,,Box6_D6,Nasal Swab,Human Infant,16S,206,,2018-03-09,,2019-09-10,,V11,,A1,206_V11_NS_A1,3,3,7
+Primary in Tube,679,207_S6_NS_A1,,,,Box6_D7,Nasal Swab,Human Infant,16S,207,,2018-03-11,,2019-11-18,,S6,,A1,207_S6_NS_A1,11,5,12
+Primary in Tube,680,207_S7_NS_A1,,,,Box6_D8,Nasal Swab,Human Infant,16S,207,,2018-03-11,,2020-01-03,,S7,,A1,207_S7_NS_A1,11,6,1
+Primary in Tube,681,207_S8_NS_A1,,,,Box6_D9,Nasal Swab,Human Infant,16S,207,,2018-03-11,,2020-01-09,,S8,,A1,207_S8_NS_A1,11,6,2
+Primary in Tube,682,207_V12_NS_A1,,,,Box6_E1,Nasal Swab,Human Infant,16S,207,,2018-03-11,,2020-04-27,,V12,,A1,207_V12_NS_A1,11,6,3
+Primary in Tube,683,208_V11_NS_A1,,,,Box6_E2,Nasal Swab,Human Infant,16S,208,,2018-03-07,,2019-09-09,,V11,,A1,208_V11_NS_A1,5,4,10
+Primary in Tube,684,208_V12_NS_A1,,,,Box6_E3,Nasal Swab,Human Infant,16S,208,,2018-03-07,,2020-03-02,,V12,,A1,208_V12_NS_A1,5,4,11
+Primary in Tube,685,209_V10_NS_A1,,,,Box6_E4,Nasal Swab,Human Infant,16S,209,,2018-03-14,,2019-06-24,,V10,,A1,209_V10_NS_A1,8,2,11
+Primary in Tube,686,209_V11_NS_A1,,,,Box6_E5,Nasal Swab,Human Infant,16S,209,,2018-03-14,,2019-09-23,,V11,,A1,209_V11_NS_A1,8,2,12
+Primary in Tube,687,209_V12_NS_A1,,,,Box6_E6,Nasal Swab,Human Infant,16S,209,,2018-03-14,,2020-03-10,,V12,,A1,209_V12_NS_A1,8,3,1
+Primary in Tube,688,210_V11_NS_A1,,,,Box6_E7,Nasal Swab,Human Infant,16S,210,,2018-03-10,,2019-09-10,,V11,,A1,210_V11_NS_A1,5,4,1
+Primary in Tube,689,210_S1_NS_A1,,,,Box6_E8,Nasal Swab,Human Infant,16S,210,,2018-03-10,,2019-09-16,,S1,,A1,210_S1_NS_A1,5,4,2
+Primary in Tube,690,210_V12_NS_A1,,,,Box6_E9,Nasal Swab,Human Infant,16S,210,,2018-03-10,,2020-05-20,,V12,,A1,210_V12_NS_A1,5,4,3
+Primary in Tube,691,211_V11_NS_A1,,,,Box6_F1,Nasal Swab,Human Infant,16S,211,,2018-03-11,,2019-09-27,,V11,,A1,211_V11_NS_A1,5,5,7
+Primary in Tube,692,211_S1_NS_A1,,,,Box6_F2,Nasal Swab,Human Infant,16S,211,,2018-03-11,,2020-01-29,,S1,,A1,211_S1_NS_A1,5,5,8
+Primary in Tube,693,211_V12_NS_A1,,,,Box6_F3,Nasal Swab,Human Infant,16S,211,,2018-03-11,,2020-03-06,,V12,,A1,211_V12_NS_A1,5,5,9
+Primary in Tube,694,214_V10_NS_A1,,,,Box6_F4,Nasal Swab,Human Infant,16S,214,,2018-04-04,,2019-08-08,,V10,,A1,214_V10_NS_A1,7,3,9
+Primary in Tube,695,214_V11_NS_A1,,,,Box6_F5,Nasal Swab,Human Infant,16S,214,,2018-04-04,,2019-10-10,,V11,,A1,214_V11_NS_A1,7,3,10
+Primary in Tube,696,214_S3_NS_A1,,,,Box6_F6,Nasal Swab,Human Infant,16S,214,,2018-04-04,,2020-01-29,,S3,,A1,214_S3_NS_A1,7,3,11
+Primary in Tube,697,214_S4_NS_A1,,,,Box6_F7,Nasal Swab,Human Infant,16S,214,,2018-04-04,,2020-03-12,,S4,,A1,214_S4_NS_A1,7,3,12
+Primary in Tube,698,214_V12_NS_A1,,,,Box6_F8,Nasal Swab,Human Infant,16S,214,,2018-04-04,,2020-05-12,,V12,,A1,214_V12_NS_A1,7,4,1
+Primary in Tube,699,215_S2_NS_A1,,,,Box6_F9,Nasal Swab,Human Infant,16S,215,,2018-03-29,,2019-06-20,,S2,,A1,215_S2_NS_A1,2,4,5
+Primary in Tube,700,215_V10_NS_A1,,,,Box6_G1,Nasal Swab,Human Infant,16S,215,,2018-03-29,,2019-07-09,,V10,,A1,215_V10_NS_A1,2,4,6
+Primary in Tube,701,215_V11_NS_A1,,,,Box6_G2,Nasal Swab,Human Infant,16S,215,,2018-03-29,,2019-10-08,,V11,,A1,215_V11_NS_A1,2,4,7
+Primary in Tube,702,215_S3_NS_A1,,,,Box6_G3,Nasal Swab,Human Infant,16S,215,,2018-03-29,,2020-01-10,,S3,,A1,215_S3_NS_A1,2,4,8
+Primary in Tube,703,215_V12_NS_A1,,,,Box6_G4,Nasal Swab,Human Infant,16S,215,,2018-03-29,,2020-03-30,,V12,,A1,215_V12_NS_A1,2,4,9
+Primary in Tube,704,217_V10_NS_A1,,,,Box6_G5,Nasal Swab,Human Infant,16S,217,,2018-04-08,,2019-07-11,,V10,,A1,217_V10_NS_A1,6,7,8
+Primary in Tube,705,217_S7_NS_A1,,,,Box6_G6,Nasal Swab,Human Infant,16S,217,,2018-04-08,,2019-10-09,,S7,,A1,217_S7_NS_A1,6,7,9
+Primary in Tube,706,217_V11_NS_A1,,,,Box6_G7,Nasal Swab,Human Infant,16S,217,,2018-04-08,,2019-10-17,,V11,,A1,217_V11_NS_A1,6,7,10
+Primary in Tube,707,217_S8_NS_A1,,,,Box6_G8,Nasal Swab,Human Infant,16S,217,,2018-04-08,,2019-10-30,,S8,,A1,217_S8_NS_A1,6,7,11
+Primary in Tube,708,217_V12_NS_A1,,,,Box6_G9,Nasal Swab,Human Infant,16S,217,,2018-04-08,,2020-04-09,,V12,,A1,217_V12_NS_A1,6,7,12
+Primary in Tube,709,218_V11_NS_A1,,,,Box6_H1,Nasal Swab,Human Infant,16S,218,,2018-04-03,,2020-02-26,,V11,,A1,218_V11_NS_A1,3,4,3
+Primary in Tube,710,218_V12_NS_A1,,,,Box6_H2,Nasal Swab,Human Infant,16S,218,,2018-04-03,,2020-03-30,,V12,,A1,218_V12_NS_A1,3,4,4
+Primary in Tube,711,219_V10_NS_A1,,,,Box6_H3,Nasal Swab,Human Infant,16S,219,,2018-04-10,,2019-07-11,,V10,,A1,219_V10_NS_A1,9,1,7
+Primary in Tube,712,220_V10_NS_A1,,,,Box6_H4,Nasal Swab,Human Infant,16S,220,,2018-04-13,,2019-07-15,,V10,,A1,220_V10_NS_A1,5,1,9
+Primary in Tube,713,220_V11_NS_A1,,,,Box6_H5,Nasal Swab,Human Infant,16S,220,,2018-04-13,,2019-10-14,,V11,,A1,220_V11_NS_A1,5,1,10
+Primary in Tube,714,220_V12_NS_A1,,,,Box6_H6,Nasal Swab,Human Infant,16S,220,,2018-04-13,,2020-04-10,,V12,,A1,220_V12_NS_A1,5,1,11
+Primary in Tube,715,221_V10_NS_A1,,,,Box6_H7,Nasal Swab,Human Infant,16S,221,,2018-04-16,,2019-07-11,,V10,,A1,221_V10_NS_A1,10,5,11
+Primary in Tube,716,221_V11_NS_A1,,,,Box6_H8,Nasal Swab,Human Infant,16S,221,,2018-04-16,,2019-10-17,,V11,,A1,221_V11_NS_A1,10,5,12
+Primary in Tube,717,222_V11_NS_A1,,,,Box6_H9,Nasal Swab,Human Infant,16S,222,,2018-04-17,,2019-09-19,,V11,,A1,222_V11_NS_A1,8,7,9
+Primary in Tube,718,222_V12_NS_A1,,,,Box6_I1,Nasal Swab,Human Infant,16S,222,,2018-04-17,,2020-04-16,,V12,,A1,222_V12_NS_A1,8,7,10
+Primary in Tube,719,223_A1F_NS_A1,,,,Box6_I2,Nasal Swab,Human Infant,16S,223,,2018-04-27,,2019-07-08,,A1F,,A1,223_A1F_NS_A1,5,6,3
+Primary in Tube,720,223_V10_NS_A1,,,,Box6_I3,Nasal Swab,Human Infant,16S,223,,2018-04-27,,2019-07-29,,V10,,A1,223_V10_NS_A1,5,6,4
+Primary in Tube,721,223_V11_NS_A1,,,,Box6_I4,Nasal Swab,Human Infant,16S,223,,2018-04-27,,2019-10-28,,V11,,A1,223_V11_NS_A1,5,6,5
+Primary in Tube,722,223_V12_NS_A1,,,,Box6_I5,Nasal Swab,Human Infant,16S,223,,2018-04-27,,2020-09-10,,V12,,A1,223_V12_NS_A1,5,6,6
+Primary in Tube,723,226_V10_NS_A1,,,,Box6_I6,Nasal Swab,Human Infant,16S,226,,2018-05-03,,2019-08-07,,V10,,A1,226_V10_NS_A1,2,1,12
+Primary in Tube,724,226_A3_NS_A1,,,,Box6_I7,Nasal Swab,Human Infant,16S,226,,2018-05-03,,2019-10-21,,A3,,A1,226_A3_NS_A1,2,2,1
+Primary in Tube,725,226_V11_NS_A1,,,,Box6_I8,Nasal Swab,Human Infant,16S,226,,2018-05-03,,2019-11-15,,V11,,A1,226_V11_NS_A1,2,2,2
+Primary in Tube,726,226_S2_NS_A1,,,,Box6_I9,Nasal Swab,Human Infant,16S,226,,2018-05-03,,2019-12-12,,S2,,A1,226_S2_NS_A1,2,2,3
+Primary in Tube,727,226_V12_NS_A1,,,,Box7_A1,Nasal Swab,Human Infant,16S,226,,2018-05-03,,2020-09-30,,V12,,A1,226_V12_NS_A1,2,2,4
+Primary in Tube,728,227_V10_NS_A1,,,,Box7_A2,Nasal Swab,Human Infant,16S,227,,2018-04-30,,2019-07-29,,V10,,A1,227_V10_NS_A1,10,3,10
+Primary in Tube,729,227_V11_NS_A1,,,,Box7_A3,Nasal Swab,Human Infant,16S,227,,2018-04-30,,2019-10-28,,V11,,A1,227_V11_NS_A1,10,3,11
+Primary in Tube,730,227_S2_NS_A1,,,,Box7_A4,Nasal Swab,Human Infant,16S,227,,2018-04-30,,2020-01-16,,S2,,A1,227_S2_NS_A1,10,3,12
+Primary in Tube,731,227_V12_NS_A1,,,,Box7_A5,Nasal Swab,Human Infant,16S,227,,2018-04-30,,2020-06-23,,V12,,A1,227_V12_NS_A1,10,4,1
+Primary in Tube,732,228_V10_NS_A1,,,,Box7_A6,Nasal Swab,Human Infant,16S,228,,2018-05-07,,2019-08-12,,V10,,A1,228_V10_NS_A1,5,7,8
+Primary in Tube,733,228_V11_NS_A1,,,,Box7_A7,Nasal Swab,Human Infant,16S,228,,2018-05-07,,2019-11-18,,V11,,A1,228_V11_NS_A1,5,7,9
+Primary in Tube,734,228_A2_NS_A1,,,,Box7_A8,Nasal Swab,Human Infant,16S,228,,2018-05-07,,2020-01-24,,A2,,A1,228_A2_NS_A1,5,7,10
+Primary in Tube,735,228_A3_NS_A1,,,,Box7_A9,Nasal Swab,Human Infant,16S,228,,2018-05-07,,2020-02-04,,A3,,A1,228_A3_NS_A1,5,7,11
+Primary in Tube,736,228_A3F_NS_A1,,,,Box7_B1,Nasal Swab,Human Infant,16S,228,,2018-05-07,,2020-02-28,,A3F,,A1,228_A3F_NS_A1,5,7,12
+Primary in Tube,737,228_V12_NS_A1,,,,Box7_B2,Nasal Swab,Human Infant,16S,228,,2018-05-07,,2020-04-28,,V12,,A1,228_V12_NS_A1,5,8,1
+Primary in Tube,738,230_V9_NS_A1,,,,Box7_B3,Nasal Swab,Human Infant,16S,230,,2018-05-10,,2019-07-10,,V9,,A1,230_V9_NS_A1,1,2,8
+Primary in Tube,739,230_A1F_NS_A1,,,,Box7_B4,Nasal Swab,Human Infant,16S,230,,2018-05-10,,2019-07-16,,A1F,,A1,230_A1F_NS_A1,1,2,9
+Primary in Tube,740,230_S2_NS_A1,,,,Box7_B5,Nasal Swab,Human Infant,16S,230,,2018-05-10,,2020-01-06,,S2,,A1,230_S2_NS_A1,1,2,10
+Primary in Tube,741,230_V12_NS_A1,,,,Box7_B6,Nasal Swab,Human Infant,16S,230,,2018-05-10,,2020-05-20,,V12,,A1,230_V12_NS_A1,1,2,11
+Primary in Tube,742,231_V10_NS_A1,,,,Box7_B7,Nasal Swab,Human Infant,16S,231,,2018-05-09,,2019-09-11,,V10,,A1,231_V10_NS_A1,8,5,1
+Primary in Tube,743,231_V11_NS_A1,,,,Box7_B8,Nasal Swab,Human Infant,16S,231,,2018-05-09,,2019-12-11,,V11,,A1,231_V11_NS_A1,8,5,2
+Primary in Tube,744,231_V12_NS_A1,,,,Box7_B9,Nasal Swab,Human Infant,16S,231,,2018-05-09,,2020-06-03,,V12,,A1,231_V12_NS_A1,8,5,3
+Primary in Tube,745,233_V10_NS_A1,,,,Box7_C1,Nasal Swab,Human Infant,16S,233,,2018-05-21,,2019-08-27,,V10,,A1,233_V10_NS_A1,1,6,6
+Primary in Tube,746,233_V11_NS_A1,,,,Box7_C2,Nasal Swab,Human Infant,16S,233,,2018-05-21,,2019-11-22,,V11,,A1,233_V11_NS_A1,1,6,7
+Primary in Tube,747,233_V12_NS_A1,,,,Box7_C3,Nasal Swab,Human Infant,16S,233,,2018-05-21,,2020-05-28,,V12,,A1,233_V12_NS_A1,1,6,8
+Primary in Tube,748,234_V9_NS_A1,,,,Box7_C4,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2019-08-08,,V9,,A1,234_V9_NS_A1,12,2,6
+Primary in Tube,749,234_V10_NS_A1,,,,Box7_C5,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2019-11-06,,V10,,A1,234_V10_NS_A1,12,2,7
+Primary in Tube,750,234_V11_NS_A1,,,,Box7_C6,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2020-02-03,,V11,,A1,234_V11_NS_A1,12,2,8
+Primary in Tube,751,234_V12_NS_A1,,,,Box7_C7,Nasal Swab,Human Infant,16S,234,,2018-06-15,,2020-06-12,,V12,,A1,234_V12_NS_A1,12,2,9
+Primary in Tube,752,235_V10_NS_A1,,,,Box7_C8,Nasal Swab,Human Infant,16S,235,,2018-06-13,,2019-09-25,,V10,,A1,235_V10_NS_A1,10,7,10
+Primary in Tube,753,235_S3_NS_A1,,,,Box7_C9,Nasal Swab,Human Infant,16S,235,,2018-06-13,,2019-11-18,,S3,,A1,235_S3_NS_A1,10,7,11
+Primary in Tube,754,235_A1_NS_A1,,,,Box7_D1,Nasal Swab,Human Infant,16S,235,,2018-06-13,,2019-12-09,,A1,,A1,235_A1_NS_A1,10,7,12
+Primary in Tube,755,235_V11_NS_A1,,,,Box7_D2,Nasal Swab,Human Infant,16S,235,,2018-06-13,,2019-12-17,,V11,,A1,235_V11_NS_A1,10,8,1
+Primary in Tube,756,235_A2_NS_A1,,,,Box7_D3,Nasal Swab,Human Infant,16S,235,,2018-06-13,,2020-02-10,,A2,,A1,235_A2_NS_A1,10,8,2
+Primary in Tube,757,235_V12_NS_A1,,,,Box7_D4,Nasal Swab,Human Infant,16S,235,,2018-06-13,,2020-06-10,,V12,,A1,235_V12_NS_A1,10,8,3
+Primary in Tube,758,236_V9_NS_A1,,,,Box7_D5,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2019-06-27,,V9,,A1,236_V9_NS_A1,7,7,6
+Primary in Tube,759,236_V10_NS_A1,,,,Box7_D6,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2019-09-30,,V10,,A1,236_V10_NS_A1,7,7,7
+Primary in Tube,760,236_V11_NS_A1,,,,Box7_D7,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2019-12-23,,V11,,A1,236_V11_NS_A1,7,7,8
+Primary in Tube,761,236_V12_NS_A1,,,,Box7_D8,Nasal Swab,Human Infant,16S,236,,2018-06-12,,2020-06-16,,V12,,A1,236_V12_NS_A1,7,7,9
+Primary in Tube,762,237_V9_NS_A1,,,,Box7_D9,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2019-06-24,,V9,,A1,237_V9_NS_A1,11,7,1
+Primary in Tube,763,237_V10_NS_A1,,,,Box7_E1,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2019-09-17,,V10,,A1,237_V10_NS_A1,11,7,2
+Primary in Tube,764,237_S2_NS_A1,,,,Box7_E2,Nasal Swab,Human Infant,16S,237,,2018-06-20,,2019-09-30,,S2,,A1,237_S2_NS_A1,11,7,3
+Primary in Tube,765,238_V9_NS_A1,,,,Box7_E3,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2019-06-24,,V9,,A1,238_V9_NS_A1,2,6,8
+Primary in Tube,766,238_S1_NS_A1,,,,Box7_E4,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2019-07-29,,S1,,A1,238_S1_NS_A1,2,6,9
+Primary in Tube,767,238_S2_NS_A1,,,,Box7_E5,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2019-08-01,,S2,,A1,238_S2_NS_A1,2,6,10
+Primary in Tube,768,238_V10_NS_A1,,,,Box7_E6,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2019-09-25,,V10,,A1,238_V10_NS_A1,2,6,11
+Primary in Tube,769,238_V11_NS_A1,,,,Box7_E7,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2019-12-23,,V11,,A1,238_V11_NS_A1,2,6,12
+Primary in Tube,770,238_V12_NS_A1,,,,Box7_E8,Nasal Swab,Human Infant,16S,238,,2018-06-20,,2020-06-18,,V12,,A1,238_V12_NS_A1,2,7,1
+Primary in Tube,771,239_V9_NS_A1,,,,Box7_E9,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2019-06-25,,V9,,A1,239_V9_NS_A1,3,1,9
+Primary in Tube,772,239_V10_NS_A1,,,,Box7_F1,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2019-10-18,,V10,,A1,239_V10_NS_A1,3,1,10
+Primary in Tube,773,239_V11_NS_A1,,,,Box7_F2,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2020-01-06,,V11,,A1,239_V11_NS_A1,3,1,11
+Primary in Tube,774,239_S3_NS_A1,,,,Box7_F3,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2020-02-21,,S3,,A1,239_S3_NS_A1,3,1,12
+Primary in Tube,775,239_V12_NS_A1,,,,Box7_F4,Nasal Swab,Human Infant,16S,239,,2018-06-24,,2020-06-26,,V12,,A1,239_V12_NS_A1,3,2,1
+Primary in Tube,776,240_V9_NS_A1,,,,Box7_F5,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2019-06-24,,V9,,A1,240_V9_NS_A1,9,6,6
+Primary in Tube,777,240_A2_NS_A1,,,,Box7_F6,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2019-07-19,,A2,,A1,240_A2_NS_A1,9,6,7
+Primary in Tube,778,240_A2F_NS_A1,,,,Box7_F7,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2019-08-09,,A2F,,A1,240_A2F_NS_A1,9,6,8
+Primary in Tube,779,240_V10_NS_A1,,,,Box7_F8,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2019-09-24,,V10,,A1,240_V10_NS_A1,9,6,9
+Primary in Tube,780,240_S1_NS_A1,,,,Box7_F9,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2019-10-09,,S1,,A1,240_S1_NS_A1,9,6,10
+Primary in Tube,781,240_A3_NS_A1,,,,Box7_G1,Nasal Swab,Human Infant,16S,240,,2018-06-21,,2019-11-26,,A3,,A1,240_A3_NS_A1,9,6,11
+Primary in Tube,782,241_A1_NS_A1,,,,Box7_G2,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2020-01-13,,A1,,A1,241_A1_NS_A1,8,6,9
+Primary in Tube,783,241_V11_NS_A1,,,,Box7_G3,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2020-01-21,,V11,,A1,241_V11_NS_A1,8,6,10
+Primary in Tube,784,241_S3_NS_A1,,,,Box7_G4,Nasal Swab,Human Infant,16S,241,,2018-06-24,,2020-01-23,,S3,,A1,241_S3_NS_A1,8,6,11
+Primary in Tube,785,243_V9_NS_A1,,,,Box7_G5,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2019-07-15,,V9,,A1,243_V9_NS_A1,11,4,8
+Primary in Tube,786,243_S1_NS_A1,,,,Box7_G6,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2019-09-17,,S1,,A1,243_S1_NS_A1,11,4,9
+Primary in Tube,787,243_V10_NS_A1,,,,Box7_G7,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2019-10-16,,V10,,A1,243_V10_NS_A1,11,4,10
+Primary in Tube,788,243_A1F_NS_A1,,,,Box7_G8,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2019-10-30,,A1F,,A1,243_A1F_NS_A1,11,4,11
+Primary in Tube,789,243_S2_NS_A1,,,,Box7_G9,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2019-11-04,,S2,,A1,243_S2_NS_A1,11,4,12
+Primary in Tube,790,243_V11_NS_A1,,,,Box7_H1,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2020-01-23,,V11,,A1,243_V11_NS_A1,11,5,1
+Primary in Tube,791,243_S3_NS_A1,,,,Box7_H2,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2020-03-12,,S3,,A1,243_S3_NS_A1,11,5,2
+Primary in Tube,792,243_V12_NS_A1,,,,Box7_H3,Nasal Swab,Human Infant,16S,243,,2018-07-11,,2020-07-06,,V12,,A1,243_V12_NS_A1,11,5,3
+Primary in Tube,793,245_A2_NS_A1,,,,Box7_H4,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2019-06-25,,A2,,A1,245_A2_NS_A1,4,2,6
+Primary in Tube,794,245_A3_NS_A1,,,,Box7_H5,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2019-07-19,,A3,,A1,245_A3_NS_A1,4,2,7
+Primary in Tube,795,245_V9_NS_A1,,,,Box7_H6,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2019-08-07,,V9,,A1,245_V9_NS_A1,4,2,8
+Primary in Tube,796,245_S1_NS_A1,,,,Box7_H7,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2019-11-06,,S1,,A1,245_S1_NS_A1,4,2,9
+Primary in Tube,797,245_V10_NS_A1,,,,Box7_H8,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2019-11-11,,V10,,A1,245_V10_NS_A1,4,2,10
+Primary in Tube,798,245_V11_NS_A1,,,,Box7_H9,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2020-01-23,,V11,,A1,245_V11_NS_A1,4,2,11
+Primary in Tube,799,245_S2_NS_A1,,,,Box7_I1,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2020-02-24,,S2,,A1,245_S2_NS_A1,4,2,12
+Primary in Tube,800,245_S3_NS_A1,,,,Box7_I2,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2020-03-05,,S3,,A1,245_S3_NS_A1,4,3,1
+Primary in Tube,801,245_S4_NS_A1,,,,Box7_I3,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2020-03-12,,S4,,A1,245_S4_NS_A1,4,3,2
+Primary in Tube,802,245_V12_NS_A1,,,,Box7_I4,Nasal Swab,Human Infant,16S,245,,2018-07-22,,2020-07-15,,V12,,A1,245_V12_NS_A1,4,3,3
+Primary in Tube,803,246_V10_NS_A1,,,,Box7_I5,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2019-10-03,,V10,,A1,246_V10_NS_A1,3,6,8
+Primary in Tube,804,246_S1_NS_A1,,,,Box7_I6,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2020-02-06,,S1,,A1,246_S1_NS_A1,3,6,9
+Primary in Tube,805,246_S2_NS_A1,,,,Box7_I7,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2020-02-14,,S2,,A1,246_S2_NS_A1,3,6,10
+Primary in Tube,806,246_V12_NS_A1,,,,Box7_I8,Nasal Swab,Human Infant,16S,246,,2018-07-28,,2020-07-29,,V12,,A1,246_V12_NS_A1,3,6,11
+Primary in Tube,807,247_V9_NS_A1,,,,Box7_I9,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2019-09-03,,V9,,A1,247_V9_NS_A1,12,7,3
+Primary in Tube,808,247_V10_NS_A1,,,,Box8_A1,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2019-12-03,,V10,,A1,247_V10_NS_A1,12,7,4
+Primary in Tube,809,247_S1_NS_A1,,,,Box8_A2,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2020-02-25,,S1,,A1,247_S1_NS_A1,12,7,5
+Primary in Tube,810,247_S3_NS_A1,,,,Box8_A3,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2020-03-04,,S3,,A1,247_S3_NS_A1,12,7,6
+Primary in Tube,811,247_V11_NS_A1,,,,Box8_A4,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2020-05-19,,V11,,A1,247_V11_NS_A1,12,7,7
+Primary in Tube,812,247_V12_NS_A1,,,,Box8_A5,Nasal Swab,Human Infant,16S,247,,2018-08-24,,2020-08-11,,V12,,A1,247_V12_NS_A1,12,7,8
+Primary in Tube,813,249_V9_NS_A1,,,,Box8_A6,Nasal Swab,Human Infant,16S,249,,2018-08-24,,2019-09-06,,V9,,A1,249_V9_NS_A1,7,2,9
+Primary in Tube,814,249_V10_NS_A1,,,,Box8_A7,Nasal Swab,Human Infant,16S,249,,2018-08-24,,2019-12-13,,V10,,A1,249_V10_NS_A1,7,2,10
+Primary in Tube,815,249_V11_NS_A1,,,,Box8_A8,Nasal Swab,Human Infant,16S,249,,2018-08-24,,2020-03-17,,V11,,A1,249_V11_NS_A1,7,2,11
+Primary in Tube,816,249_A1_NS_A1,,,,Box8_A9,Nasal Swab,Human Infant,16S,249,,2018-08-24,,2020-03-31,,A1,,A1,249_A1_NS_A1,7,2,12
+Primary in Tube,817,249_V12_NS_A1,,,,Box8_B1,Nasal Swab,Human Infant,16S,249,,2018-08-24,,2020-09-21,,V12,,A1,249_V12_NS_A1,7,3,1
+Primary in Tube,818,250_S4_NS_A1,,,,Box8_B2,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2019-06-21,,S4,,A1,250_S4_NS_A1,1,4,4
+Primary in Tube,819,250_A1_NS_A1,,,,Box8_B3,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2019-07-31,,A1,,A1,250_A1_NS_A1,1,4,5
+Primary in Tube,820,250_V9_NS_A1,,,,Box8_B4,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2019-09-09,,V9,,A1,250_V9_NS_A1,1,4,6
+Primary in Tube,821,250_A2_NS_A1,,,,Box8_B5,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2019-09-23,,A2,,A1,250_A2_NS_A1,1,4,7
+Primary in Tube,822,250_S5_NS_A1,,,,Box8_B6,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2019-11-01,,S5,,A1,250_S5_NS_A1,1,4,8
+Primary in Tube,823,250_V10_NS_A1,,,,Box8_B7,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2019-12-05,,V10,,A1,250_V10_NS_A1,1,4,9
+Primary in Tube,824,250_S6_NS_A1,,,,Box8_B8,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2020-02-13,,S6,,A1,250_S6_NS_A1,1,4,10
+Primary in Tube,825,250_S7_NS_A1,,,,Box8_B9,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2020-03-25,,S7,,A1,250_S7_NS_A1,1,4,11
+Primary in Tube,826,250_V11_NS_A1,,,,Box8_C1,Nasal Swab,Human Infant,16S,250,,2018-09-05,,2020-04-16,,V11,,A1,250_V11_NS_A1,1,4,12
+Primary in Tube,827,251_V9_NS_A1,,,,Box8_C2,Nasal Swab,Human Infant,16S,251,,2018-08-29,,2019-09-19,,V9,,A1,251_V9_NS_A1,9,4,7
+Primary in Tube,828,251_V10_NS_A1,,,,Box8_C3,Nasal Swab,Human Infant,16S,251,,2018-08-29,,2019-12-18,,V10,,A1,251_V10_NS_A1,9,4,8
+Primary in Tube,829,251_V11_NS_A1,,,,Box8_C4,Nasal Swab,Human Infant,16S,251,,2018-08-29,,2020-03-30,,V11,,A1,251_V11_NS_A1,9,4,9
+Primary in Tube,830,251_V12_NS_A1,,,,Box8_C5,Nasal Swab,Human Infant,16S,251,,2018-08-29,,2020-09-10,,V12,,A1,251_V12_NS_A1,9,4,10
+Primary in Tube,831,252_V9_NS_A1,,,,Box8_C6,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2019-09-10,,V9,,A1,252_V9_NS_A1,1,7,6
+Primary in Tube,832,252_V10_NS_A1,,,,Box8_C7,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2019-12-05,,V10,,A1,252_V10_NS_A1,1,7,7
+Primary in Tube,833,252_S3_NS_A1,,,,Box8_C8,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2020-03-11,,S3,,A1,252_S3_NS_A1,1,7,8
+Primary in Tube,834,252_V12_NS_A1,,,,Box8_C9,Nasal Swab,Human Infant,16S,252,,2018-09-06,,2020-09-14,,V12,,A1,252_V12_NS_A1,1,7,9
+Primary in Tube,835,253_V8_NS_A1,,,,Box8_D1,Nasal Swab,Human Infant,16S,253,,2018-09-27,,2019-07-01,,V8,,A1,253_V8_NS_A1,1,1,7
+Primary in Tube,836,253_V9_NS_A1,,,,Box8_D2,Nasal Swab,Human Infant,16S,253,,2018-09-27,,2019-09-30,,V9,,A1,253_V9_NS_A1,1,1,8
+Primary in Tube,837,253_V12_NS_A1,,,,Box8_D3,Nasal Swab,Human Infant,16S,253,,2018-09-27,,2020-09-24,,V12,,A1,253_V12_NS_A1,1,1,9
+Primary in Tube,838,254_V8_NS_A1,,,,Box8_D4,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2019-07-11,,V8,,A1,254_V8_NS_A1,6,4,12
+Primary in Tube,839,254_V9_NS_A1,,,,Box8_D5,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2019-09-30,,V9,,A1,254_V9_NS_A1,6,5,1
+Primary in Tube,840,254_A1_NS_A1,,,,Box8_D6,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2019-11-27,,A1,,A1,254_A1_NS_A1,6,5,2
+Primary in Tube,841,254_S3_NS_A1,,,,Box8_D7,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2019-12-12,,S3,,A1,254_S3_NS_A1,6,5,3
+Primary in Tube,842,254_V10_NS_A1,,,,Box8_D8,Nasal Swab,Human Infant,16S,254,,2018-09-28,,2020-01-03,,V10,,A1,254_V10_NS_A1,6,5,4
+Primary in Tube,843,255_V9_NS_A1,,,,Box8_D9,Nasal Swab,Human Infant,16S,255,,2018-09-27,,2019-09-30,,V9,,A1,255_V9_NS_A1,8,4,5
+Primary in Tube,844,256_V8_NS_A1,,,,Box8_E1,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-07-10,,V8,,A1,256_V8_NS_A1,12,3,5
+Primary in Tube,845,256_V9_NS_A1,,,,Box8_E2,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-10-08,,V9,,A1,256_V9_NS_A1,12,3,6
+Primary in Tube,846,256_A3_NS_A1,,,,Box8_E3,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-10-18,,A3,,A1,256_A3_NS_A1,12,3,7
+Primary in Tube,847,256_S3_NS_A1,,,,Box8_E4,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-11-26,,S3,,A1,256_S3_NS_A1,12,3,8
+Primary in Tube,848,256_S4_NS_A1,,,,Box8_E5,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2019-12-30,,S4,,A1,256_S4_NS_A1,12,3,9
+Primary in Tube,849,256_A4_NS_A1,,,,Box8_E6,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2020-01-15,,A4,,A1,256_A4_NS_A1,12,3,10
+Primary in Tube,850,256_V10_NS_A1,,,,Box8_E7,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2020-01-30,,V10,,A1,256_V10_NS_A1,12,3,11
+Primary in Tube,851,256_S5_NS_A1,,,,Box8_E8,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2020-02-17,,S5,,A1,256_S5_NS_A1,12,3,12
+Primary in Tube,852,256_V11_NS_A1,,,,Box8_E9,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2020-04-08,,V11,,A1,256_V11_NS_A1,12,4,1
+Primary in Tube,853,256_A5_NS_A1,,,,Box8_F1,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2020-05-11,,A5,,A1,256_A5_NS_A1,12,4,2
+Primary in Tube,854,256_V12_NS_A1,,,,Box8_F2,Nasal Swab,Human Infant,16S,256,,2018-10-02,,2020-10-21,,V12,,A1,256_V12_NS_A1,12,4,3
+Primary in Tube,855,257_V8_NS_A1,,,,Box8_F3,Nasal Swab,Human Infant,16S,257,,2018-10-12,,2019-08-14,,V8,,A1,257_V8_NS_A1,3,5,12
+Primary in Tube,856,257_S1_NS_A1,,,,Box8_F4,Nasal Swab,Human Infant,16S,257,,2018-10-12,,2019-12-06,,S1,,A1,257_S1_NS_A1,3,6,1
+Primary in Tube,857,258_V8_NS_A1,,,,Box8_F5,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2019-07-25,,V8,,A1,258_V8_NS_A1,3,7,4
+Primary in Tube,858,258_V9_NS_A1,,,,Box8_F6,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2019-11-18,,V9,,A1,258_V9_NS_A1,3,7,5
+Primary in Tube,859,258_A1_NS_A1,,,,Box8_F7,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2019-12-04,,A1,,A1,258_A1_NS_A1,3,7,6
+Primary in Tube,860,258_S1_NS_A1,,,,Box8_F8,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2020-02-03,,S1,,A1,258_S1_NS_A1,3,7,7
+Primary in Tube,861,258_V10_NS_A1,,,,Box8_F9,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2020-03-05,,V10,,A1,258_V10_NS_A1,3,7,8
+Primary in Tube,862,258_V11_NS_A1,,,,Box8_G1,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2020-05-08,,V11,,A1,258_V11_NS_A1,3,7,9
+Primary in Tube,863,258_S2_NS_A1,,,,Box8_G2,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2020-06-15,,S2,,A1,258_S2_NS_A1,3,7,10
+Primary in Tube,864,258_V12_NS_A1,,,,Box8_G3,Nasal Swab,Human Infant,16S,258,,2018-10-23,,2020-10-15,,V12,,A1,258_V12_NS_A1,3,7,11
+Primary in Tube,865,259_V8_NS_A1,,,,Box8_G4,Nasal Swab,Human Infant,16S,259,,2018-10-26,,2019-09-18,,V8,,A1,259_V8_NS_A1,4,4,12
+Primary in Tube,866,259_V9_NS_A1,,,,Box8_G5,Nasal Swab,Human Infant,16S,259,,2018-10-26,,2019-10-30,,V9,,A1,259_V9_NS_A1,4,5,1
+Primary in Tube,867,259_V10_NS_A1,,,,Box8_G6,Nasal Swab,Human Infant,16S,259,,2018-10-26,,2020-01-31,,V10,,A1,259_V10_NS_A1,4,5,2
+Primary in Tube,868,259_V11_NS_A1,,,,Box8_G7,Nasal Swab,Human Infant,16S,259,,2018-10-26,,2020-05-06,,V11,,A1,259_V11_NS_A1,4,5,3
+Primary in Tube,869,260_S1_NS_A1,,,,Box8_G8,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2019-06-24,,S1,,A1,260_S1_NS_A1,9,2,10
+Primary in Tube,870,260_V8_NS_A1,,,,Box8_G9,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2019-08-06,,V8,,A1,260_V8_NS_A1,9,2,11
+Primary in Tube,871,260_V9_NS_A1,,,,Box8_H1,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2019-11-07,,V9,,A1,260_V9_NS_A1,9,2,12
+Primary in Tube,872,260_V10_NS_A1,,,,Box8_H2,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2020-02-04,,V10,,A1,260_V10_NS_A1,9,3,1
+Primary in Tube,873,260_V11_NS_A1,,,,Box8_H3,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2020-05-05,,V11,,A1,260_V11_NS_A1,9,3,2
+Primary in Tube,874,260_V12_NS_A1,,,,Box8_H4,Nasal Swab,Human Infant,16S,260,,2018-11-05,,2020-11-10,,V12,,A1,260_V12_NS_A1,9,3,3
+Primary in Tube,875,261_V8_NS_A1,,,,Box8_H5,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2019-08-02,,V8,,A1,261_V8_NS_A1,6,2,9
+Primary in Tube,876,261_S3_NS_A1,,,,Box8_H6,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2019-08-22,,S3,,A1,261_S3_NS_A1,6,2,10
+Primary in Tube,877,261_V9_NS_A1,,,,Box8_H7,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2019-11-06,,V9,,A1,261_V9_NS_A1,6,2,11
+Primary in Tube,878,261_S4_NS_A1,,,,Box8_H8,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2019-12-13,,S4,,A1,261_S4_NS_A1,6,2,12
+Primary in Tube,879,261_S5_NS_A1,,,,Box8_H9,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2020-01-06,,S5,,A1,261_S5_NS_A1,6,3,1
+Primary in Tube,880,261_V10_NS_A1,,,,Box8_I1,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2020-01-30,,V10,,A1,261_V10_NS_A1,6,3,2
+Primary in Tube,881,261_S6_NS_A1,,,,Box8_I2,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2020-02-06,,S6,,A1,261_S6_NS_A1,6,3,3
+Primary in Tube,882,261_V11_NS_A1,,,,Box8_I3,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2020-05-06,,V11,,A1,261_V11_NS_A1,6,3,4
+Primary in Tube,883,261_V12_NS_A1,,,,Box8_I4,Nasal Swab,Human Infant,16S,261,,2018-11-01,,2020-10-22,,V12,,A1,261_V12_NS_A1,6,3,5
+Primary in Tube,884,263_V8_NS_A1,,,,Box8_I5,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2019-09-04,,V8,,A1,263_V8_NS_A1,4,6,7
+Primary in Tube,885,263_V9_NS_A1,,,,Box8_I6,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2019-11-26,,V9,,A1,263_V9_NS_A1,4,6,8
+Primary in Tube,886,263_V10_NS_A1,,,,Box8_I7,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2020-02-25,,V10,,A1,263_V10_NS_A1,4,6,9
+Primary in Tube,887,263_V11_NS_A1,,,,Box8_I8,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2020-06-25,,V11,,A1,263_V11_NS_A1,4,6,10
+Primary in Tube,888,263_V12_NS_A1,,,,Box8_I9,Nasal Swab,Human Infant,16S,263,,2018-11-24,,2020-11-19,,V12,,A1,263_V12_NS_A1,4,6,11
+Primary in Tube,889,264_V8_NS_A1,,,,Box9_A1,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2019-09-06,,V8,,A1,264_V8_NS_A1,2,7,9
+Primary in Tube,890,264_V9_NS_A1,,,,Box9_A2,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2019-12-06,,V9,,A1,264_V9_NS_A1,2,7,10
+Primary in Tube,891,264_V10_NS_A1,,,,Box9_A3,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2020-03-09,,V10,,A1,264_V10_NS_A1,2,7,11
+Primary in Tube,892,264_V11_NS_A1,,,,Box9_A4,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2020-06-04,,V11,,A1,264_V11_NS_A1,2,7,12
+Primary in Tube,893,264_V12_NS_A1,,,,Box9_A5,Nasal Swab,Human Infant,16S,264,,2018-12-04,,2020-12-23,,V12,,A1,264_V12_NS_A1,2,8,1
+Primary in Tube,894,265_V8_NS_A1,,,,Box9_A6,Nasal Swab,Human Infant,16S,265,,2018-12-06,,2019-09-19,,V8,,A1,265_V8_NS_A1,3,5,6
+Primary in Tube,895,265_S1_NS_A1,,,,Box9_A7,Nasal Swab,Human Infant,16S,265,,2018-12-06,,2019-11-19,,S1,,A1,265_S1_NS_A1,3,5,7
+Primary in Tube,896,265_V9_NS_A1,,,,Box9_A8,Nasal Swab,Human Infant,16S,265,,2018-12-06,,2019-12-09,,V9,,A1,265_V9_NS_A1,3,5,8
+Primary in Tube,897,102_V5_NS_A1,,,,Box9_A9,Nasal Swab,Human Infant,16S,102,,2018-02-20,,2018-04-20,,V5,,A1,102_V5_NS_A1,7,6,3
+Primary in Tube,898,102_V6_NS_A1,,,,Box9_B1,Nasal Swab,Human Infant,16S,102,,2018-02-20,,2018-06-20,,V6,,A1,102_V6_NS_A1,7,6,4
+Primary in Tube,899,105_V2_NS_A1,,,,Box9_B2,Nasal Swab,Human Infant,16S,105,,2018-03-30,,2018-04-04,,V2,,A1,105_V2_NS_A1,8,1,11
+Primary in Tube,900,105_S1_NS_1a,,,,Box9_B3,Nasal Swab,Human Infant,16S,105,,2018-03-30,,2018-04-11,,S1,,1a,105_S1_NS_1a,8,1,12
+Primary in Tube,901,105_V5_NS_A1,,,,Box9_B4,Nasal Swab,Human Infant,16S,105,,2018-03-30,,2018-06-01,,V5,,A1,105_V5_NS_A1,8,2,1
+Primary in Tube,902,111_V2_NS_1a,,,,Box9_B5,Nasal Swab,Human Infant,16S,111,,2018-05-05,,2018-05-16,,V2,,1a,111_V2_NS_1a,1,1,10
+Primary in Tube,903,111_S1V3_NS_A1,,,,Box9_B6,Nasal Swab,Human Infant,16S,111,,2018-05-05,,2018-05-23,,S1V3,,A1,111_S1V3_NS_A1,1,1,11
+Primary in Tube,904,213_V1_NS_1a,,,,Box9_B7,Nasal Swab,Human Infant,16S,213,,2018-03-31,,2018-04-06,,V1,,1a,213_V1_NS_1a,11,3,3
+Primary in Tube,905,213_V2_NS_1a,,,,Box9_B8,Nasal Swab,Human Infant,16S,213,,2018-03-31,,2018-04-10,,V2,,1a,213_V2_NS_1a,11,3,4
+Primary in Tube,906,213_V5_NS_A1,,,,Box9_B9,Nasal Swab,Human Infant,16S,213,,2018-03-31,,2018-05-23,,V5,,A1,213_V5_NS_A1,11,3,5
+Primary in Tube,907,216_V1_NS_1a,,,,Box9_C1,Nasal Swab,Human Infant,16S,216,,2018-04-06,,2018-04-10,,V1,,1a,216_V1_NS_1a,2,2,9
+Primary in Tube,908,216_V2_NS_1a,,,,Box9_C2,Nasal Swab,Human Infant,16S,216,,2018-04-06,,2018-04-18,,V2,,1a,216_V2_NS_1a,2,2,10
+Primary in Tube,909,216_V4_NS_A1,,,,Box9_C3,Nasal Swab,Human Infant,16S,216,,2018-04-06,,2018-05-21,,V4,,A1,216_V4_NS_A1,2,2,11
+Primary in Tube,910,216_V5_NS_A1,,,,Box9_C4,Nasal Swab,Human Infant,16S,216,,2018-04-06,,2018-06-11,,V5,,A1,216_V5_NS_A1,2,2,12
+Primary in Tube,911,101_V3_NS_A1,,,,Box9_C5,Nasal Swab,Human Infant,16S,101,,2018-01-24,,2018-02-16,,V3,,A1,101_V3_NS_A1,2,5,1
+Primary in Tube,912,101_S1_NS_A1,,,,Box9_C6,Nasal Swab,Human Infant,16S,101,,2018-01-24,,2018-03-09,,S1,,A1,101_S1_NS_A1,2,5,2
+Primary in Tube,913,101_V5_NS_A1,,,,Box9_C7,Nasal Swab,Human Infant,16S,101,,2018-01-24,,2018-03-26,,V5,,A1,101_V5_NS_A1,2,5,3
+Primary in Tube,914,102_V1_NS_A1,,,,Box9_C8,Nasal Swab,Human Infant,16S,102,,2018-02-20,,2018-02-26,,V1,,A1,102_V1_NS_A1,7,6,5
+Primary in Tube,915,102_V3_NS_A1,,,,Box9_C9,Nasal Swab,Human Infant,16S,102,,2018-02-20,,2018-03-07,,V3,,A1,102_V3_NS_A1,7,6,6
+Primary in Tube,916,104_V2_NS_A1,,,,Box9_D1,Nasal Swab,Human Infant,16S,104,,2018-03-12,,2018-03-23,,V2,,A1,104_V2_NS_A1,6,6,9
+Primary in Tube,917,105_V1_NS_A1,,,,Box9_D2,Nasal Swab,Human Infant,16S,105,,2018-03-30,,2018-04-02,,V1,,A1,105_V1_NS_A1,8,2,2
+Primary in Tube,918,105_V6_NS_A1,,,,Box9_D3,Nasal Swab,Human Infant,16S,105,,2018-03-30,,2018-08-01,,V6,,A1,105_V6_NS_A1,8,2,3
+Primary in Tube,919,105_V7_NS_A1,,,,Box9_D4,Nasal Swab,Human Infant,16S,105,,2018-03-30,,2018-09-24,,V7,,A1,105_V7_NS_A1,8,2,4
+Primary in Tube,920,105_S2_NS_A1,,,,Box9_D5,Nasal Swab,Human Infant,16S,105,,2018-03-30,,2018-11-28,,S2,,A1,105_S2_NS_A1,8,2,5
+Primary in Tube,921,111_V7_NS_A1,,,,Box9_D6,Nasal Swab,Human Infant,16S,111,,2018-05-05,,2018-11-12,,V7,,A1,111_V7_NS_A1,1,1,12
+Primary in Tube,922,111_S1_NS_A1,,,,Box9_D7,Nasal Swab,Human Infant,16S,111,,2018-05-05,,2019-02-01,,S1,,A1,111_S1_NS_A1,1,2,1
+Primary in Tube,923,216_V7_NS_A1,,,,Box9_D8,Nasal Swab,Human Infant,16S,216,,2018-04-06,,2018-10-18,,V7,,A1,216_V7_NS_A1,2,3,1
+Primary in Tube,924,103_V1_NS_A2,,,103_NS_V1_A1,Box9_D9,Nasal Swab,Human Infant,16S,103,,2018-02-21,,2018-02-26,,V1,,A2,103_V1_NS_A2,4,7,11
+Primary in Tube,925,106_V2_NS_A2,,,106_V2_NS_A1,Box9_E1,Nasal Swab,Human Infant,16S,106,,2018-03-27,,2018-04-06,,V2,,A2,106_V2_NS_A2,8,3,12
+Primary in Tube,926,107_V8_NS_A1,,,,Box9_E2,Nasal Swab,Human Infant,16S,107,,2018-04-02,,2019-02-22,,V8,,A1,107_V8_NS_A1,11,2,12
+Primary in Tube,927,109_V3_NS_2a,,,109_V3_NS_1a,Box9_E3,Nasal Swab,Human Infant,16S,109,,2018-04-17,,2018-05-04,,V3,,2a,109_V3_NS_2a,6,2,1
+Primary in Tube,928,109_V4_NS_2a,,,109_V4_NS_1a,Box9_E4,Nasal Swab,Human Infant,16S,109,,2018-04-17,,2018-05-17,,V4,,2a,109_V4_NS_2a,6,2,2
+Primary in Tube,929,110_V1_NS_A2,,,,Box9_E5,Nasal Swab,Human Infant,16S,110,,2018-05-07,,2018-05-10,,V1,,A2,110_V1_NS_A2,12,5,3
+Primary in Tube,930,110_V2_NS_2a,,,110_V2_NS_1a,Box9_E6,Nasal Swab,Human Infant,16S,110,,2018-05-07,,2018-05-18,,V2,,2a,110_V2_NS_2a,12,5,4
+Primary in Tube,931,112_V3_NS_2a,,,112_V3_NS_1a,Box9_E7,Nasal Swab,Human Infant,16S,112,,2018-05-03,,2018-05-18,,V3,,2a,112_V3_NS_2a,1,5,10
+Primary in Tube,932,112_V6_NS_A2,,,112_V6_NS_A1,Box9_E8,Nasal Swab,Human Infant,16S,112,,2018-05-03,,2018-09-21,,V6,,A2,112_V6_NS_A2,1,5,11
+Primary in Tube,933,113_V1_NS_2a,,,113_V1_NS_1a,Box9_E9,Nasal Swab,Human Infant,16S,113,,2018-05-15,,2018-05-18,,V1,,2a,113_V1_NS_2a,2,3,11
+Primary in Tube,934,114_S1_NS_2a,,,114_S1_NS_1a,Box9_F1,Nasal Swab,Human Infant,16S,114,,2018-05-21,,2018-06-27,,S1,,2a,114_S1_NS_2a,3,4,10
+Primary in Tube,935,114_V1_NS_2a,,,114_V1_NS_1a,Box9_F2,Nasal Swab,Human Infant,16S,114,,2018-05-21,,2018-05-24,,V1,,2a,114_V1_NS_2a,3,4,11
+Primary in Tube,936,114_V8_NS_A2,,,114_V8_NS_A1,Box9_F3,Nasal Swab,Human Infant,16S,114,,2018-05-21,,2019-02-27,,V8,,A2,114_V8_NS_A2,3,4,12
+Primary in Tube,937,115_V1_NS_2a,,,115_V1_NS_1a,Box9_F4,Nasal Swab,Human Infant,16S,115,,2018-05-24,,2018-05-29,,V1,,2a,115_V1_NS_2a,11,4,2
+Primary in Tube,938,115_V3_NS_A2,,,115_V3_NS_A1,Box9_F5,Nasal Swab,Human Infant,16S,115,,2018-05-24,,2018-06-20,,V3,,A2,115_V3_NS_A2,11,4,3
+Primary in Tube,939,116_V1_NS_2a,,,116_V1_NS_1a,Box9_F6,Nasal Swab,Human Infant,16S,116,,2018-05-26,,2018-05-30,,V1,,2a,116_V1_NS_2a,10,2,12
+Primary in Tube,940,117_S1_NS_A2,,,117_S1_NS_A1,Box9_F7,Nasal Swab,Human Infant,16S,117,,2018-06-10,,2019-02-19,,S1,,A2,117_S1_NS_A2,6,6,4
+Primary in Tube,941,117_V1_NS_2a,,,117_V1_NS_1a,Box9_F8,Nasal Swab,Human Infant,16S,117,,2018-06-10,,2018-06-15,,V1,,2a,117_V1_NS_2a,6,6,5
+Primary in Tube,942,201_V5_NS_2a,,,201_V5_NS_1a,Box9_F9,Nasal Swab,Human Infant,16S,201,,2018-02-22,,2018-04-30,,V5,,2a,201_V5_NS_2a,11,2,1
+Primary in Tube,943,203_V1_NS_A1,,,203_V1_NS_1b,Box9_G1,Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-03-05,,V1,,A1,203_V1_NS_A1,12,1,8
+Primary in Tube,944,203_S1_NS_2a,,,203_S1_NS_1a,Box9_G2,Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-04-11,,S1,,2a,203_S1_NS_2a,12,1,9
+Primary in Tube,945,203_S2_NS_A2,,,203_S2_NS_A1,Box9_G3,Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-05-29,,S2,,A2,203_S2_NS_A2,12,1,10
+Primary in Tube,946,203_V5_NS_2a,,,203_V5_NS_1a,Box9_G4,Nasal Swab,Human Infant,16S,203,,2018-02-28,,2018-04-30,,V5,,2a,203_V5_NS_2a,12,1,11
+Primary in Tube,947,204_A1F_NS_A2,,,204_A1F_NS_A1,Box9_G5,Nasal Swab,Human Infant,16S,204,,2018-02-26,,2019-06-18,,A1F,,A2,204_A1F_NS_A2,7,6,1
+Primary in Tube,948,204_V9_NS_A2,,,204_V9_NS_A1,Box9_G6,Nasal Swab,Human Infant,16S,204,,2018-02-26,,2019-03-08,,V9,,A2,204_V9_NS_A2,7,6,2
+Primary in Tube,949,205_S1_NS_A2,,,205_S1_NS_A1,Box9_G7,Nasal Swab,Human Infant,16S,205,,2018-02-28,,2019-03-27,,S1,,A2,205_S1_NS_A2,12,6,4
+Primary in Tube,950,205_V5_NS_2a,,,205_V5_NS_1a,Box9_G8,Nasal Swab,Human Infant,16S,205,,2018-02-28,,2018-04-30,,V5,,2a,205_V5_NS_2a,12,6,5
+Primary in Tube,951,206_V2_NS_A2,,,206_NS_V2_A1,Box9_G9,Nasal Swab,Human Infant,16S,206,,2018-03-09,,2018-03-19,,V2,,A2,206_V2_NS_A2,3,3,8
+Primary in Tube,952,206_V5_NS_2a,,,206_V5_NS_1a,Box9_H1,Nasal Swab,Human Infant,16S,206,,2018-03-09,,2018-05-09,,V5,,2a,206_V5_NS_2a,3,3,9
+Primary in Tube,953,207_S1_NS_2a,,,207_S1_NS_1a,Box9_H2,Nasal Swab,Human Infant,16S,207,,2018-03-11,,2018-04-11,,S1,,2a,207_S1_NS_2a,11,6,4
+Primary in Tube,954,207_V4_NS_2a,,,207_V4_NS_1a,Box9_H3,Nasal Swab,Human Infant,16S,207,,2018-03-11,,2018-04-09,,V4,,2a,207_V4_NS_2a,11,6,5
+Primary in Tube,955,208_V10_NS_A2,,,208_V10_NS_A1,Box9_H4,Nasal Swab,Human Infant,16S,208,,2018-03-07,,2019-06-10,,V10,,A2,208_V10_NS_A2,5,4,12
+Primary in Tube,956,208_V5_NS_2a,,,208_V5_NS_1a,Box9_H5,Nasal Swab,Human Infant,16S,208,,2018-03-07,,2018-05-09,,V5,,2a,208_V5_NS_2a,5,5,1
+Primary in Tube,957,209_V9_NS_A2,,,209_V9_NS_A1,Box9_H6,Nasal Swab,Human Infant,16S,209,,2018-03-14,,2019-03-27,,V9,,A2,209_V9_NS_A2,8,3,2
+Primary in Tube,958,210_V10_NS_A2,,,210_V10_NS_A1,Box9_H7,Nasal Swab,Human Infant,16S,210,,2018-03-10,,2019-06-11,,V10,,A2,210_V10_NS_A2,5,4,4
+Primary in Tube,959,211_V10_NS_A2,,,211_V10_NS_A1,Box9_H8,Nasal Swab,Human Infant,16S,211,,2018-03-11,,2019-06-14,,V10,,A2,211_V10_NS_A2,5,5,10
+Primary in Tube,960,211_V5_NS_2a,,,211_V5_NS_1a,Box9_H9,Nasal Swab,Human Infant,16S,211,,2018-03-11,,2018-05-16,,V5,,2a,211_V5_NS_2a,5,5,11
+Primary in Tube,961,212_V3_NS_2a,,,212_NS_V3_3b,Box9_I1,Nasal Swab,Human Infant,16S,212,,2018-03-18,,2018-04-02,,V3,,2a,212_V3_NS_2a,9,5,6
+Primary in Tube,962,212_V2_NS_A2,,,212_V2_NS_A1,Box9_I2,Nasal Swab,Human Infant,16S,212,,2018-03-18,,2018-03-26,,V2,,A2,212_V2_NS_A2,9,5,7
+Primary in Tube,963,212_V9_NS_A2,,,212_V9_NS_A1,Box9_I3,Nasal Swab,Human Infant,16S,212,,2018-03-18,,2019-03-21,,V9,,A2,212_V9_NS_A2,9,5,8
+Primary in Tube,964,214_V1_NS_2a,,,214_V1_NS_1a,Box9_I4,Nasal Swab,Human Infant,16S,214,,2018-04-04,,2018-04-06,,V1,,2a,214_V1_NS_2a,7,4,2
+Primary in Tube,965,214_V2_NS_2a,,,214_V2_NS_1a,Box9_I5,Nasal Swab,Human Infant,16S,214,,2018-04-04,,2018-04-11,,V2,,2a,214_V2_NS_2a,7,4,3
+Primary in Tube,966,214_V3_NS_2a,,,214_V3_NS_1a,Box9_I6,Nasal Swab,Human Infant,16S,214,,2018-04-04,,2018-04-18,,V3,,2a,214_V3_NS_2a,7,4,4
+Primary in Tube,967,215_S1_NS_A2,,,215_S1_NS_A1,Box9_I7,Nasal Swab,Human Infant,16S,215,,2018-03-29,,2019-02-11,,S1,,A2,215_S1_NS_A2,2,4,10
+Primary in Tube,968,215_V2_NS_2a,,,215_V2_NS_1a,Box9_I8,Nasal Swab,Human Infant,16S,215,,2018-03-29,,2018-04-09,,V2,,2a,215_V2_NS_2a,2,4,11
+Primary in Tube,969,215_V3_NS_2a,,,215_V3_NS_1a,Box9_I9,Nasal Swab,Human Infant,16S,215,,2018-03-29,,2018-04-16,,V3,,2a,215_V3_NS_2a,2,4,12
+Primary in Tube,970,217_S6_NS_A2,,,217_S6_NS_A1,Box 10_A1,Nasal Swab,Human Infant,16S,217,,2018-04-08,,2019-06-17,,S6,,A2,217_S6_NS_A2,6,8,1
+Primary in Tube,971,217_V1_NS_2a,,,217_V1_NS_1a,Box 10_A2,Nasal Swab,Human Infant,16S,217,,2018-04-08,,2018-04-12,,V1,,2a,217_V1_NS_2a,6,8,2
+Primary in Tube,972,217_V2_NS_2a,,,217_V2_NS_1a,Box 10_A3,Nasal Swab,Human Infant,16S,217,,2018-04-08,,2018-04-16,,V2,,2a,217_V2_NS_2a,6,8,3
+Primary in Tube,973,218_V2_NS_2a,,,218_V2_NS_1a,Box 10_A4,Nasal Swab,Human Infant,16S,218,,2018-04-03,,2018-04-13,,V2,,2a,218_V2_NS_2a,3,4,5
+Primary in Tube,974,219_V1_NS_2a,,,219_V1_NS_1a,Box 10_A5,Nasal Swab,Human Infant,16S,219,,2018-04-10,,2018-04-16,,V1,,2a,219_V1_NS_2a,9,1,8
+Primary in Tube,975,219_V3_NS_2a,,,219_V3_NS_1a,Box 10_A6,Nasal Swab,Human Infant,16S,219,,2018-04-10,,2018-04-25,,V3,,2a,219_V3_NS_2a,9,1,9
+Primary in Tube,976,220_S1_NS_2a,,,220_S1_NS_1a,Box 10_A7,Nasal Swab,Human Infant,16S,220,,2018-04-13,,2018-05-15,,S1,,2a,220_S1_NS_2a,5,1,12
+Primary in Tube,977,220_V1_NS_2a,,,220_V1_NS_1a,Box 10_A8,Nasal Swab,Human Infant,16S,220,,2018-04-13,,2018-04-17,,V1,,2a,220_V1_NS_2a,5,2,1
+Primary in Tube,978,221_V1_NS_2a,,,221_V1_NS_1a,Box 10_A9,Nasal Swab,Human Infant,16S,221,,2018-04-16,,2018-04-18,,V1,,2a,221_V1_NS_2a,10,6,1
+Primary in Tube,979,221_V3_NS_2a,,,221_V3_NS_1a,Box 10_B1,Nasal Swab,Human Infant,16S,221,,2018-04-16,,2018-04-30,,V3,,2a,221_V3_NS_2a,10,6,2
+Primary in Tube,980,221_V8_NS_A2,,,221_V8_NS_A1,Box 10_B2,Nasal Swab,Human Infant,16S,221,,2018-04-16,,2019-01-17,,V8,,A2,221_V8_NS_A2,10,6,3
+Primary in Tube,981,222_V1_NS_2a,,,222_V1_NS_1a,Box 10_B3,Nasal Swab,Human Infant,16S,222,,2018-04-17,,2018-04-23,,V1,,2a,222_V1_NS_2a,8,7,11
+Primary in Tube,982,222_V3_NS_2a,,,222_V3_NS_1a,Box 10_B4,Nasal Swab,Human Infant,16S,222,,2018-04-17,,2018-05-02,,V3,,2a,222_V3_NS_2a,8,7,12
+Primary in Tube,983,222_V4_NS_2a,,,222_V4_NS_1a,Box 10_B5,Nasal Swab,Human Infant,16S,222,,2018-04-17,,2018-05-16,,V4,,2a,222_V4_NS_2a,8,8,1
+Primary in Tube,984,223_A1_NS_A2,,,223_AOM1_NS_A1,Box 10_B6,Nasal Swab,Human Infant,16S,223,,2018-04-27,,2019-06-11,,A1,,A2,223_A1_NS_A2,5,6,7
+Primary in Tube,985,223_V1_NS_2a,,,223_V1_NS_1a,Box 10_B7,Nasal Swab,Human Infant,16S,223,,2018-04-27,,2018-05-03,,V1,,2a,223_V1_NS_2a,5,6,8
+Primary in Tube,986,223_V2_NS_2a,,,223_V2_NS_1a,Box 10_B8,Nasal Swab,Human Infant,16S,223,,2018-04-27,,2018-05-09,,V2,,2a,223_V2_NS_2a,5,6,9
+Primary in Tube,987,224_V2_NS_2a,,,224_V2_NS_1a,Box 10_B9,Nasal Swab,Human Infant,16S,224,,2018-04-22,,2018-05-03,,V2,,2a,224_V2_NS_2a,6,3,10
+Primary in Tube,988,225_V1_NS_2a,,,225_V1_NS_1a,Box 10_C1,Nasal Swab,Human Infant,16S,225,,2018-04-30,,2018-05-04,,V1,,2a,225_V1_NS_2a,10,4,9
+Primary in Tube,989,226_A2F_NS_A2,,,226_A2_F/U_NS_A1,Box 10_C2,Nasal Swab,Human Infant,16S,226,,2018-05-03,,2019-06-14,,A2F,,A2,226_A2F_NS_A2,2,2,5
+Primary in Tube,990,226_V1_NS_2a,,,226_V1_NS_1a,Box 10_C3,Nasal Swab,Human Infant,16S,226,,2018-05-03,,2018-05-07,,V1,,2a,226_V1_NS_2a,2,2,6
+Primary in Tube,991,227_V2_NS_2a,,,227_V2_NS_1a,Box 10_C4,Nasal Swab,Human Infant,16S,227,,2018-04-30,,2018-05-10,,V2,,2a,227_V2_NS_2a,10,4,2
+Primary in Tube,992,228_V1_NS_2a,,,228_V1_NS_1a,Box 10_C5,Nasal Swab,Human Infant,16S,228,,2018-05-07,,2018-05-10,,V1,,2a,228_V1_NS_2a,5,8,2
+Primary in Tube,993,228_V2_NS_2a,,,228_V2_NS_1a,Box 10_C6,Nasal Swab,Human Infant,16S,228,,2018-05-07,,2018-05-15,,V2,,2a,228_V2_NS_2a,5,8,3
+Primary in Tube,994,228_V3_NS_2a,,,228_V3_NS_1a,Box 10_C7,Nasal Swab,Human Infant,16S,228,,2018-05-07,,2018-05-21,,V3,,2a,228_V3_NS_2a,5,8,4
+Primary in Tube,995,229_V2_NS_A2,,,229_V2_NS_1b,Box 10_C8,Nasal Swab,Human Infant,16S,229,,2018-04-29,,2018-05-11,,V2,,A2,229_V2_NS_A2,7,4,9
+Primary in Tube,996,230_V1_NS_2a,,,230_V1_NS_1a,Box 10_C9,Nasal Swab,Human Infant,16S,230,,2018-05-10,,2018-05-14,,V1,,2a,230_V1_NS_2a,1,2,12
+Primary in Tube,997,230_V2_NS_2a,,,230_V2_NS_1a,Box 10_D1,Nasal Swab,Human Infant,16S,230,,2018-05-10,,2018-05-23,,V2,,2a,230_V2_NS_2a,1,3,1
+Primary in Tube,998,232_V1_NS_2a,,,232_V1_NS_1a,Box 10_D2,Nasal Swab,Human Infant,16S,232,,2018-05-14,,2018-05-17,,V1,,2a,232_V1_NS_2a,7,2,4
+Primary in Tube,999,233_V2_NS_A2,,,233_V2_NS_A1,Box 10_D3,Nasal Swab,Human Infant,16S,233,,2018-05-21,,2018-06-01,,V2,,A2,233_V2_NS_A2,1,6,9
+Primary in Tube,1000,235_S2_NS_A2,,,235_S2_NS_A1,Box 10_D4,Nasal Swab,Human Infant,16S,235,,2018-06-13,,2019-04-04,,S2,,A2,235_S2_NS_A2,10,8,4
+Primary in Tube,1001,235_V8_NS_A2,,,235_V8_NS_A1,Box 10_D5,Nasal Swab,Human Infant,16S,235,,2018-06-13,,2019-03-21,,V8,,A2,235_V8_NS_A2,10,8,5
+Primary in Tube,1002,235_V9_NS_A2,,,235_V9_NS_A2,Box 10_D6,Nasal Swab,Human Infant,16S,235,,2018-06-13,,2019-06-17,,V9,,A2,235_V9_NS_A2,10,8,6
+Primary in Tube,1003,223_V8_NS_A2,,,223_V8_NS_A1,Box 10_D7,Nasal Swab,Human Infant,16S,223,,2018-04-27,,2019-02-26,,V8,,A2,223_V8_NS_A2,5,6,10
+Primary in Tube,1004,233_A2_NS_A2_Extra,,,233_A2_NS_A1,Box 10_D8,Nasal Swab,Human Infant,16S,233,,2018-05-21,,2018-12-27,,A2,,A2,233_A2_NS_A2_Extra,1,6,10
+Primary in Tube,1005,107_V3_NS_A2,,,107_V3_N!_A1,Box 10_D9,Nasal Swab,Human Infant,16S,107,,2018-04-02,,2018-04-20,,V3,,A2,107_V3_NS_A2,11,3,1
+Primary in Tube,1006,209_V4_NS_A2,,,209_V4_NS_A1,Box 10_E1,Nasal Swab,Human Infant,16S,209,,2018-03-14,,2018-04-27,,V4,,A2,209_V4_NS_A2,8,3,3
+Primary in Tube,1007,107_V4_NS_2a,,,,Box9_E2,Nasal Swab,Human Infant,16S,107,,2018-04-02,,2019-04-30,,V8,,2a,107_V4_NS_2a,11,3,2
+Primary in Tube,1008,229_V2_NS_A1,,,,Box 10_C8,Nasal Swab,Human Infant,16S,229,,2018-04-29,,2018-05-11,,V2,,A1,229_V2_NS_A1,7,4,10

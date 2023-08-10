@@ -1,0 +1,245 @@
+PrimaryKey	BabyN	AntibioticN	Name	Reason	Start_Date	End_Date	Duration_(days)	DateOfBirth	AgeAtStart	AgeAtEnd	Route
+Baby134_Antibiotic1	Baby134	1	piperacillin/ tazobactam	R/O sepsis	2018-11-26	2018-11-28	2	2018-11-22	4.0	6.0	IV
+Baby134_Antibiotic2	Baby134	2	ampicillin	R/O sepsis	2018-11-26	2018-11-27	1	2018-11-22	4.0	5.0	IV
+Baby134_Antibiotic3	Baby134	3	gentamicin	R/O sepsis	2018-11-26	2018-11-27	1	2018-11-22	4.0	5.0	IV
+Baby134_Antibiotic4	Baby134	4	vancomycin	R/O sepsis	2018-11-26	2018-11-27	1	2018-11-22	4.0	5.0	IV
+Baby235_Antibiotic1	Baby235	1	unknown anitbiotic(s)	R/O sepsis, later confirmed neg.	2018-06-19	Not Documented	Unknown	2018-06-13	6.0		
+Baby245_Antibiotic1	Baby245	1	ampicillin	respiratory issues, R/O sepsis at birth	2018-07-23	2018-07-26	3	2018-07-22	1.0	4.0	IV
+Baby245_Antibiotic2	Baby245	2	gentamicin	respiratory issues, R/O sepsis at birth	2018-07-23	2018-07-26	3	2018-07-22	1.0	4.0	IV
+Baby246_Antibiotic1	Baby246	1	ampicillin	maternal chorioamnionitis	2018-07-28	2018-07-31	3	2018-07-28	0.0	3.0	IV
+Baby263_Antibiotic1	Baby263	1	penicillin	GBS	Not Documented	Not Documented	Unknown	2018-11-24			oral
+Baby102_Antibiotic1	Baby102	1	erythromycin	conjunctivitis	2018-03-07	2018-03-14	7	2018-02-20	15.0	22.0	topical
+Baby103_Antibiotic1	Baby103	1	amoxicillin	Pneumonia	2020-01-07	2020-01-17	10	2018-02-21	685.0	695.0	oral
+Baby105_Antibiotic1	Baby105	1	erythromycin	conjunctivitis	2018-04-11	2018-04-18	7	2018-03-30	12.0	19.0	topical
+Baby106_Antibiotic1	Baby106	1	erythromycin	conjunctivitis	2018-07-11	2018-07-18	7	2018-03-27	106.0	113.0	topical
+Baby106_Antibiotic2	Baby106	2	amoxicillin	AOM	2019-01-16	2019-01-26	10	2018-03-27	295.0	305.0	oral
+Baby107_Antibiotic1	Baby107	1	tobramycin	conjunctivitis	2018-07-10	2018-07-25	15	2018-04-02	99.0	114.0	topical
+Baby107_Antibiotic2	Baby107	2	amoxicillin	OME	2018-12-12	2018-12-22	10	2018-04-02	254.0	264.0	oral
+Baby107_Antibiotic3	Baby107	3	amoxicillin	bronchiolitis	2019-01-04	2019-01-11	7	2018-04-02	277.0	284.0	oral
+Baby107_Antibiotic4	Baby107	4	cefdinir	bronchilitis, pneumonia	2019-01-11	2019-01-14	3	2018-04-02	284.0	287.0	oral
+Baby107_Antibiotic5	Baby107	5	cefdinir	Started to treat pneumonia, continued on treatment for AOM	2019-01-14	2019-01-18	4	2018-04-02	287.0	291.0	oral
+Baby107_Antibiotic6	Baby107	6	oseltamivir (antiviral)	Urgent Care dx of flu	2019-03-01	2019-03-03	2	2018-04-02	333.0	335.0	
+Baby107_Antibiotic7	Baby107	7	cefdinir	AOM	2019-04-13	2019-04-23	10	2018-04-02	376.0	386.0	oral
+Baby107_Antibiotic8	Baby107	8	ceftriaxone	AOM	2019-04-29	2019-04-30	1	2018-04-02	392.0	393.0	IM
+Baby108_Antibiotic1	Baby108	1	erythromycin	conjunctivitis	2018-06-12	2018-06-19	7	2018-03-28	76.0	83.0	topical
+Baby108_Antibiotic2	Baby108	2	amoxicillin	AOM	2019-04-04	2019-04-14	10	2018-03-28	372.0	382.0	oral
+Baby108_Antibiotic3	Baby108	3	cefdinir	AOM	2019-06-27	2019-07-07	10	2018-03-28	456.0	466.0	oral
+Baby108_Antibiotic4	Baby108	4	ceftriaxone	AOM	2019-07-11	2019-07-13	2	2018-03-28	470.0	472.0	IM
+Baby108_Antibiotic5	Baby108	5	ceftriaxone	AOM	2019-07-13	2019-07-13	0	2018-03-28	472.0	472.0	IM
+Baby108_Antibiotic6	Baby108	6	cefdinir	AOM, Viral URI, perioral cyanosis	2019-07-18	2019-07-25	7	2018-03-28	477.0	484.0	oral
+Baby108_Antibiotic7	Baby108	7	cefdinir	AOM	2019-10-21	2019-10-28	7	2018-03-28	572.0	579.0	oral
+Baby108_Antibiotic8	Baby108	8	cefdinir	AOM	2019-11-05	2019-11-15	10	2018-03-28	587.0	597.0	oral
+Baby108_Antibiotic9	Baby108	9	cefdinir	OME	2020-01-23	2020-02-02	10	2018-03-28	666.0	676.0	oral
+Baby108_Antibiotic10	Baby108	10	tobramycin	conjunctivitis	2020-01-23	2020-01-28	5	2018-03-28	666.0	671.0	topical
+Baby108_Antibiotic11	Baby108	11	cefdinir	AOM	2020-02-05	2020-02-15	10	2018-03-28	679.0	689.0	oral
+Baby108_Antibiotic12	Baby108	12	cefdinir	AOM	2020-02-17	2020-02-27	10	2018-03-28	691.0	701.0	oral
+Baby109_Antibiotic1	Baby109	1	erythromycin	conjunctivitis	2018-05-04	2018-05-17	13	2018-04-17	17.0	30.0	topical
+Baby109_Antibiotic2	Baby109	2	amoxicillin	URI	2018-11-26	2018-12-06	10	2018-04-17	223.0	233.0	oral
+Baby109_Antibiotic3	Baby109	3	cefdinir	URI	2019-05-03	2019-05-08	5	2018-04-17	381.0	386.0	oral
+Baby109_Antibiotic4	Baby109	4	ceftriaxone	given in emergency department	2019-05-08	2019-05-08	0	2018-04-17	386.0	386.0	IM
+Baby110_Antibiotic1	Baby110	1	erythromycin	conjunctivitis	2018-10-03	2018-10-10	7	2018-05-07	149.0	156.0	topical
+Baby112_Antibiotic1	Baby112	1	amoxicillin	AOM, skin infection	2018-12-20	2018-12-30	10	2018-05-03	231.0	241.0	oral
+Baby112_Antibiotic2	Baby112	2	amoxicillin	AOM	2019-04-29	2019-05-08	9	2018-05-03	361.0	370.0	oral
+Baby112_Antibiotic3	Baby112	3	ofloxacin	AOM	2019-05-13	2019-05-18	5	2018-05-03	375.0	380.0	topical
+Baby112_Antibiotic4	Baby112	4	cefdinir	AOM	2019-05-13	2019-05-20	7	2018-05-03	375.0	382.0	oral
+Baby112_Antibiotic5	Baby112	5	amoxicillin	AOM	2019-08-26	2019-09-05	10	2018-05-03	480.0	490.0	oral
+Baby113_Antibiotic1	Baby113	1	amoxicillin	AOM	2018-09-19	2018-09-29	10	2018-05-15	127.0	137.0	oral
+Baby113_Antibiotic2	Baby113	2	erythromycin	conjunctivitis	2018-08-24	2018-08-31	7	2018-05-15	101.0	108.0	topical
+Baby113_Antibiotic3	Baby113	3	tobramycin	conjunctivitis then stanosis of the nasolacrimal duct. Taken as needed (not regular schedule)	2018-10-09	2018-11-17	39	2018-05-15	147.0	186.0	topical
+Baby114_Antibiotic1	Baby114	1	erythromycin	conjunctivitis	2018-06-05	2018-06-12	7	2018-05-21	15.0	22.0	topical
+Baby114_Antibiotic2	Baby114	2	tobramycin	conjunctivitis	2019-04-09	2019-04-14	5	2018-05-21	323.0	328.0	topical
+Baby114_Antibiotic3	Baby114	3	amoxicillin	AOM	2019-05-22	2019-06-01	10	2018-05-21	366.0	376.0	oral
+Baby119_Antibiotic1	Baby119	1	amoxicillin	AOM, bullous myringitis	2019-12-10	2019-12-20	10	2018-06-30	528.0	538.0	oral
+Baby121_Antibiotic1	Baby121	1	cephalexin	skin infection	2018-12-06	2018-12-13	7	2018-06-30	159.0	166.0	oral
+Baby123_Antibiotic1	Baby123	1	erythromycin	delayed gastric emptying/delayed motility	2018-11-27	2019-03-12	105	2018-07-08	142.0	247.0	
+Baby127_Antibiotic1	Baby127	1	amoxicillin	AOM, rule out Pertussis	2018-11-09	2018-11-19	10	2018-08-31	70.0	80.0	oral
+Baby127_Antibiotic2	Baby127	2	cefdinir	AOM	2018-12-10	2018-12-20	10	2018-08-31	101.0	111.0	oral
+Baby127_Antibiotic3	Baby127	3	amoxicillin clavulanate	AOM	2019-01-07	2019-01-17	10	2018-08-31	129.0	139.0	oral
+Baby127_Antibiotic4	Baby127	4	cefdinir	UTI	2019-10-19	2019-10-26	7	2018-08-31	414.0	421.0	oral
+Baby127_Antibiotic5	Baby127	5	amoxicillin	AOM	2019-12-26	2020-01-04	9	2018-08-31	482.0	491.0	oral
+Baby127_Antibiotic6	Baby127	6	cefdinir	UTI	2020-08-26	2020-09-05	10	2018-08-31	726.0	736.0	oral
+Baby128_Antibiotic1	Baby128	1	amoxicillin clavulanate	AOM	2019-01-21	2019-01-31	10	2018-08-26	148.0	158.0	oral
+Baby128_Antibiotic2	Baby128	2	cefdinir	AOM	2019-04-02	2019-04-12	10	2018-08-26	219.0	229.0	oral
+Baby128_Antibiotic3	Baby128	3	ceftriaxone	AOM	2019-04-15	2019-04-15	0	2018-08-26	232.0	232.0	IM
+Baby128_Antibiotic4	Baby128	4	cefdinir	AOM	2019-04-02	2019-04-12	10	2018-08-26	219.0	229.0	oral
+Baby128_Antibiotic5	Baby128	5	ceftriaxone	AOM	2019-04-16	2019-04-17	1	2018-08-26	233.0	234.0	IM
+Baby128_Antibiotic6	Baby128	6	ofloxacin	Ear Infection w/ tubes	2019-05-27	2019-06-02	6	2018-08-26	274.0	280.0	topical
+Baby130_Antibiotic1	Baby130	1	amoxicillin	AOM	2019-08-24	2019-09-03	10	2018-10-27	301.0	311.0	oral
+Baby131_Antibiotic1	Baby131	1	amoxicillin clavulanate	AOM	2019-05-01	2019-05-11	10	2018-11-08	174.0	184.0	oral
+Baby131_Antibiotic2	Baby131	2	cefdinir	AOM	2019-07-01	2019-07-16	15	2018-11-08	235.0	250.0	oral
+Baby131_Antibiotic3	Baby131	3	amoxicillin clavulanate	AOM	2019-08-07	2019-08-20	13	2018-11-08	272.0	285.0	oral
+Baby131_Antibiotic4	Baby131	4	amoxicillin clavulanate	AOM, Conjunctivitis	2019-10-05	2019-10-15	10	2018-11-08	331.0	341.0	oral
+Baby131_Antibiotic5	Baby131	5	cefdinir	AOM	2019-10-16	2019-10-26	10	2018-11-08	342.0	352.0	oral
+Baby131_Antibiotic6	Baby131	6	ciprofloxacin ear drops	AOM	2020-01-27	2020-02-03	7	2018-11-08	445.0	452.0	topical
+Baby131_Antibiotic7	Baby131	7	ofloxacin ear drops	AOM	2020-01-20	2020-01-27	7	2018-11-08	438.0	445.0	topical
+Baby133_Antibiotic1	Baby133	1	amoxicillin	AOM	2020-02-01	2020-02-11	10	2018-11-19	439.0	449.0	oral
+Baby201_Antibiotic1	Baby201	1	amoxicillin	AOM	2018-11-30	2018-12-10	10	2018-02-22	281.0	291.0	oral
+Baby202_Antibiotic1	Baby202	1	amoxicillin	AOM	2018-07-26	2018-08-02	7	2018-02-27	149.0	156.0	oral
+Baby202_Antibiotic2	Baby202	2	amoxicillin	Pneumonia	2019-01-23	2019-02-02	10	2018-02-27	330.0	340.0	oral
+Baby202_Antibiotic3	Baby202	3	amoxicillin clavulanate	AOM	2019-04-18	2019-04-19	1	2018-02-27	415.0	416.0	oral
+Baby202_Antibiotic4	Baby202	4	cefdinir	AOM	2019-04-19	2019-04-24	5	2018-02-27	416.0	421.0	oral
+Baby203_Antibiotic1	Baby203	1	amoxicillin	AOM	2018-12-31	2019-01-10	10	2018-02-28	306.0	316.0	oral
+Baby204_Antibiotic1	Baby204	1	amoxicillin clavulanate	AOM	2019-01-10	2019-01-20	10	2018-02-26	318.0	328.0	oral
+Baby204_Antibiotic2	Baby204	2	amoxicillin	AOM	2018-12-19	2019-01-10	22	2018-02-26	296.0	318.0	oral
+Baby204_Antibiotic3	Baby204	3	amoxicillin	AOM	2019-05-20	2019-05-23	3	2018-02-26	448.0	451.0	oral
+Baby204_Antibiotic4	Baby204	4	cefdinir	AOM	2019-05-23	2019-06-02	10	2018-02-26	451.0	461.0	oral
+Baby204_Antibiotic5	Baby204	5	amoxicillin clavulanate	AOM	2019-05-28	2019-06-07	10	2018-02-26	456.0	466.0	oral
+Baby204_Antibiotic6	Baby204	6	amoxicillin	AOM, acute pharyngitis	2019-11-18	2019-11-28	10	2018-02-26	630.0	640.0	oral
+Baby204_Antibiotic7	Baby204	7	amoxicillin clavulanate	AOM	2019-11-29	2019-12-09	10	2018-02-26	641.0	651.0	oral
+Baby205_Antibiotic1	Baby205	1	amoxicillin clavulanate	AOM	2019-01-21	2019-01-31	10	2018-02-28	327.0	337.0	oral
+Baby205_Antibiotic2	Baby205	2	amoxicillin clavulanate	AOM	2019-03-06	2019-03-16	10	2018-02-28	371.0	381.0	oral
+Baby205_Antibiotic3	Baby205	3	amoxicillin	AOM	2019-10-28	2019-11-07	10	2018-02-28	607.0	617.0	oral
+Baby207_Antibiotic1	Baby207	1	amoxicillin	AOM	2019-01-15	2019-01-25	10	2018-03-11	310.0	320.0	oral
+Baby207_Antibiotic2	Baby207	2	amoxicillin	OME, tonsillitis	2019-11-30	2019-12-10	10	2018-03-11	629.0	639.0	oral
+Baby210_Antibiotic1	Baby210	1	cefdinir	misdiagnosed AOM at ER/Urgent Care	2019-05-25	2019-05-26	1	2018-03-10	441.0	442.0	oral
+Baby211_Antibiotic1	Baby211	1	amoxicillin	AOM	2018-12-08	2018-12-18	10	2018-03-11	272.0	282.0	oral
+Baby212_Antibiotic1	Baby212	1	amoxicillin clavulanate	AOM	2018-12-18	2018-12-25	7	2018-03-18	275.0	282.0	oral
+Baby212_Antibiotic2	Baby212	2	cefdinir	AOM	2019-01-15	2019-01-25	10	2018-03-18	303.0	313.0	oral
+Baby212_Antibiotic3	Baby212	3	amoxicillin clavulanate	AOM	2019-01-28	2019-02-04	7	2018-03-18	316.0	323.0	oral
+Baby214_Antibiotic1	Baby214	1	amoxicillin	AOM	2018-09-27	2018-10-07	10	2018-04-04	176.0	186.0	oral
+Baby214_Antibiotic2	Baby214	2	cefdinir	AOM	2018-10-17	2018-10-23	6	2018-04-04	196.0	202.0	oral
+Baby214_Antibiotic3	Baby214	3	cefdinir	OME	2018-11-15	2018-11-25	10	2018-04-04	225.0	235.0	oral
+Baby214_Antibiotic4	Baby214	4	amoxicillin clavulanate	via phone for ear pain, no diagnosis	2018-10-26	2018-11-05	10	2018-04-04	205.0	215.0	oral
+Baby214_Antibiotic5	Baby214	5	cefdinir	OME	2018-11-29	2018-12-08	9	2018-04-04	239.0	248.0	oral
+Baby214_Antibiotic6	Baby214	6	oseltamivir (antiviral)	URI	2019-03-12	2019-03-17	5	2018-04-04	342.0	347.0	
+Baby214_Antibiotic7	Baby214	7	ciprofloxacin/ dexamethasone	externa OM	2019-04-23	2019-04-28	5	2018-04-04	384.0	389.0	oral
+Baby214_Antibiotic8	Baby214	8	ciprofloxacin/ dexamethasone	otorrhea	2019-05-21	2019-06-10	20	2018-04-04	412.0	432.0	oral
+Baby214_Antibiotic9	Baby214	9	tobramycin	conjunctivitis	2019-06-12	2019-06-22	10	2018-04-04	434.0	444.0	topical
+Baby214_Antibiotic10	Baby214	10	ciprofloxacin/ dexamethasone	Not Documented	2020-01-02	2020-01-09	7	2018-04-04	638.0	645.0	oral
+Baby214_Antibiotic11	Baby214	11	tobramycin	conjunctivitis	2019-12-11	2019-12-18	7	2018-04-04	616.0	623.0	topical
+Baby214_Antibiotic12	Baby214	12	Tamiflu	prescribed w/o office visit	2020-05-12	2020-05-17	5	2018-04-04	769.0	774.0	
+Baby215_Antibiotic1	Baby215	1	unkown	surgery-pyelplasty	2020-02-06	2020-02-06	0	2018-03-29	679.0	679.0	
+Baby217_Antibiotic1	Baby217	1	cefdinir	UTI	2018-10-14	2018-11-02	19	2018-04-08	189.0	208.0	oral
+Baby217_Antibiotic2	Baby217	2	mupirocin	skin infection	2019-04-02	2019-04-09	7	2018-04-08	359.0	366.0	topical
+Baby218_Antibiotic1	Baby218	1	amoxicillin	AOM	2018-09-13	2018-09-23	10	2018-04-03	163.0	173.0	oral
+Baby219_Antibiotic1	Baby219	1	amoxicillin	AOM	2018-12-27	2019-01-06	10	2018-04-10	261.0	271.0	oral
+Baby219_Antibiotic2	Baby219	2	polymyxin B sulfate/ trimethoprim	conjunctivitis	2018-12-05	2018-12-12	7	2018-04-10	239.0	246.0	topical
+Baby220_Antibiotic1	Baby220	1	polymyxin B sulfate/ trimethoprim	conjunctivitis	2018-05-15	2018-05-21	6	2018-04-13	32.0	38.0	topical
+Baby220_Antibiotic2	Baby220	2	polymyxin B sulfate/ trimethoprim	conjunctivitis	2018-07-12	2018-07-19	7	2018-04-13	90.0	97.0	topical
+Baby220_Antibiotic3	Baby220	3	amoxicillin	AOM	2018-12-10	2018-12-20	10	2018-04-13	241.0	251.0	oral
+Baby220_Antibiotic4	Baby220	4	amoxicillin clavulanate	AOM	2018-12-27	2019-01-06	10	2018-04-13	258.0	268.0	oral
+Baby220_Antibiotic5	Baby220	5	oseltamivir (antiviral)	Influenza A	2019-03-14	2019-03-19	5	2018-04-13	335.0	340.0	
+Baby223_Antibiotic1	Baby223	1	amoxicillin clavulanate	AOM, conjunctivitis	2019-06-11	2019-06-21	10	2018-04-27	410.0	420.0	oral
+Baby224_Antibiotic1	Baby224	1	cefdinir	pyelonephritis	2019-01-05	2019-01-07	2	2018-04-22	258.0	260.0	oral
+Baby226_Antibiotic1	Baby226	1	ciprofloxacin/ dexamethasone	otorrhea 	2018-10-15	2018-10-22	7	2018-05-03	165.0	172.0	oral
+Baby226_Antibiotic2	Baby226	2	erythromycin	conjunctivitis	2019-05-15	2019-05-21	6	2018-05-03	377.0	383.0	topical
+Baby226_Antibiotic3	Baby226	3	amoxicillin clavulanate	AOM	2019-05-24	2019-05-29	5	2018-05-03	386.0	391.0	oral
+Baby226_Antibiotic4	Baby226	4	polymyxin B sulfate/ trimethoprim	conjunctivitis	2019-05-24	2019-05-29	5	2018-05-03	386.0	391.0	topical
+Baby226_Antibiotic5	Baby226	5	amoxicillin clavulanate	AOM	2019-10-21	2019-10-26	5	2018-05-03	536.0	541.0	oral
+Baby227_Antibiotic1	Baby227	1	ceftriaxone	UTI	2018-09-16	2018-09-16	0	2018-04-30	139.0	139.0	IM
+Baby227_Antibiotic2	Baby227	2	Bactrim (timethoprim/sulfamethaxazole)	UTI	2018-09-16	2018-09-23	7	2018-04-30	139.0	146.0	oral
+Baby227_Antibiotic3	Baby227	3	amoxicillin	AOM	2019-03-29	2019-04-08	10	2018-04-30	333.0	343.0	oral
+Baby227_Antibiotic4	Baby227	4	cefdinir	AOM	2019-04-18	2019-04-28	10	2018-04-30	353.0	363.0	oral
+Baby228_Antibiotic1	Baby228	1	erythromycin	conjunctivitis	2018-11-01	2018-11-11	10	2018-05-07	178.0	188.0	topical
+Baby228_Antibiotic2	Baby228	2	polymyxin B sulfate/ trimethoprim	conjunctivitis	2018-11-01	2018-11-11	10	2018-05-07	178.0	188.0	topical
+Baby228_Antibiotic3	Baby228	3	amoxicillin	AOM	2019-05-06	2019-05-16	10	2018-05-07	364.0	374.0	oral
+Baby228_Antibiotic4	Baby228	4	polymyxin B sulfate/ trimethoprim	conjunctivitis	2019-10-18	2019-10-25	7	2018-05-07	529.0	536.0	topical
+Baby228_Antibiotic5	Baby228	5	amoxicillin clavulanate	AOM	2020-01-24	2020-01-29	5	2018-05-07	627.0	632.0	oral
+Baby228_Antibiotic6	Baby228	6	cefdinir	AOM	2020-02-04	2020-02-09	5	2018-05-07	638.0	643.0	oral
+Baby229_Antibiotic1	Baby229	1	amoxicillin clavulanate	AOM	2019-02-07	2019-02-17	10	2018-04-29	284.0	294.0	oral
+Baby229_Antibiotic2	Baby229	2	amoxicillin clavulanate	AOM	2019-03-06	2019-03-13	7	2018-04-29	311.0	318.0	oral
+Baby229_Antibiotic3	Baby229	3	polymyxin B sulfate/ trimethoprim	conjunctivitis	2019-06-05	2019-06-12	7	2018-04-29	402.0	409.0	topical
+Baby230_Antibiotic1	Baby230	1	amoxicillin clavulanate	AOM	2019-01-07	2019-01-17	10	2018-05-10	242.0	252.0	oral
+Baby230_Antibiotic2	Baby230	2	amoxicillin clavulanate	AOM	2019-04-29	2019-05-09	10	2018-05-10	354.0	364.0	oral
+Baby230_Antibiotic3	Baby230	3	amoxicillin	AOM	2019-04-23	2019-04-29	6	2018-05-10	348.0	354.0	oral
+Baby230_Antibiotic4	Baby230	4	amoxicillin clavulanate	AOM, conjunctivitis	2019-07-10	2019-07-20	10	2018-05-10	426.0	436.0	oral
+Baby230_Antibiotic5	Baby230	5	cefdinir	AOM	2019-07-22	2019-08-01	10	2018-05-10	438.0	448.0	oral
+Baby230_Antibiotic6	Baby230	6	amoxicillin	AOM	2019-09-29	2019-09-30	1	2018-05-10	507.0	508.0	oral
+Baby230_Antibiotic7	Baby230	7	amoxicillin clavulanate	AOM	2019-09-30	2019-10-10	10	2018-05-10	508.0	518.0	oral
+Baby231_Antibiotic1	Baby231	1	amoxicillin	AOM, Urgent Care	2019-07-22	2019-08-01	10	2018-05-09	439.0	449.0	oral
+Baby231_Antibiotic2	Baby231	2	amoxicillin	AOM	2020-02-12	2020-02-22	10	2018-05-09	644.0	654.0	oral
+Baby233_Antibiotic1	Baby233	1	amoxicillin	AOM	2018-12-10	2018-12-20	10	2018-05-21	203.0	213.0	oral
+Baby233_Antibiotic2	Baby233	2	amoxicillin clavulanate	AOM	2018-12-27	2019-01-05	9	2018-05-21	220.0	229.0	oral
+Baby233_Antibiotic3	Baby233	3	amoxicillin clavulanate	AOM, conjunctivitis	2019-04-06	2019-04-13	7	2018-05-21	320.0	327.0	oral
+Baby233_Antibiotic4	Baby233	4	cefdinir	AOM, conjunctivitis	2019-04-13	2019-04-23	10	2018-05-21	327.0	337.0	oral
+Baby233_Antibiotic5	Baby233	5	polymyxin B sulfate/ trimethoprim	conjunctivitis	2019-04-13	2019-04-18	5	2018-05-21	327.0	332.0	topical
+Baby233_Antibiotic6	Baby233	6	bacitracin	conjunctivitis	2019-04-06	2019-04-11	5	2018-05-21	320.0	325.0	topical
+Baby234_Antibiotic1	Baby234	1	cefdinir	AOM	2019-02-05	2019-02-15	10	2018-06-15	235.0	245.0	oral
+Baby234_Antibiotic2	Baby234	2	cefdinir	OME	2019-01-15	2019-02-05	21	2018-06-15	214.0	235.0	oral
+Baby234_Antibiotic3	Baby234	3	amoxicillin clavulanate	AOM	2018-12-26	2019-01-05	10	2018-06-15	194.0	204.0	oral
+Baby234_Antibiotic4	Baby234	4	ofloxacin	Ear tubes placed	2019-06-28	2019-07-05	7	2018-06-15	378.0	385.0	topical
+Baby234_Antibiotic5	Baby234	5	amoxicillin	Pneumonia	2020-01-11	2020-01-18	7	2018-06-15	575.0	582.0	oral
+Baby235_Antibiotic2	Baby235	2	amoxicillin clavulanate	AOM	2019-01-07	2019-01-12	5	2018-06-13	208.0	213.0	oral
+Baby235_Antibiotic3	Baby235	3	ciprofloxacin/ dexamethasone	AOM, ear drainage	2019-12-09	2019-12-16	7	2018-06-13	544.0	551.0	oral
+Baby235_Antibiotic4	Baby235	4	cefdinir	otorrhea	2019-12-12	2019-12-22	10	2018-06-13	547.0	557.0	oral
+Baby235_Antibiotic5	Baby235	5	ofloxacin	otorrhea	2019-12-12	2019-12-17	5	2018-06-13	547.0	552.0	topical
+Baby235_Antibiotic6	Baby235	6	ciprofloxacin/ dexamethasone	ear drainage, PE Tubes	2020-02-07	2020-02-14	7	2018-06-13	604.0	611.0	oral
+Baby235_Antibiotic7	Baby235	7	cefdinir	AOM	2020-03-24	2020-04-03	10	2018-06-13	650.0	660.0	oral
+Baby235_Antibiotic8	Baby235	8	ofloxacin ear drops	pulling on ears (no office visit)	2020-03-21	2020-03-22	1	2018-06-13	647.0	648.0	topical
+Baby235_Antibiotic9	Baby235	9	ofloxacin ear drops	unknown (no office visit)	2020-05-18	2020-05-25	7	2018-06-13	705.0	712.0	topical
+Baby236_Antibiotic1	Baby236	1	polymyxin B sulfate/ trimethoprim	conjunctivitis	2018-11-23	2018-11-28	5	2018-06-12	164.0	169.0	topical
+Baby236_Antibiotic2	Baby236	2	cefdinir	AOM	2018-12-27	2019-01-01	5	2018-06-12	198.0	203.0	oral
+Baby236_Antibiotic3	Baby236	3	ciprofloxacin/ dexamethasone	AOM	2019-04-14	2019-04-19	5	2018-06-12	306.0	311.0	oral
+Baby236_Antibiotic4	Baby236	4	amoxicillin	AOM	2019-04-16	2019-04-26	10	2018-06-12	308.0	318.0	oral
+Baby236_Antibiotic5	Baby236	5	ciprofloxacin/ dexamethasone	AOM	2019-04-14	2019-04-21	7	2018-06-12	306.0	313.0	oral
+Baby236_Antibiotic6	Baby236	6	amoxicillin clavulanate	AOM, conjunctivitis	2019-05-15	2019-05-25	10	2018-06-12	337.0	347.0	oral
+Baby236_Antibiotic7	Baby236	7	amoxicillin clavulanate	AOM	2019-05-27	2019-06-06	10	2018-06-12	349.0	359.0	oral
+Baby236_Antibiotic8	Baby236	8	tobramycin	conjunctivitis	2019-05-27	2019-06-06	10	2018-06-12	349.0	359.0	topical
+Baby236_Antibiotic9	Baby236	9	cefdinir	AOM	2019-06-14	2019-06-24	10	2018-06-12	367.0	377.0	oral
+Baby236_Antibiotic10	Baby236	10	polymyxin B sulfate/ trimethoprim	conjunctivitis	2019-07-10	2019-07-15	5	2018-06-12	393.0	398.0	topical
+Baby238_Antibiotic1	Baby238	1	unknown in IV (at Strong Memorial Hospital)	Viral meningitis (to rule out bacterial infection)	2018-07-13	2018-07-14	1	2018-06-20	23.0	24.0	IV
+Baby238_Antibiotic2	Baby238	2	polymyxin B sulfate/ trimethoprim	dacryostenosis left eye	2018-09-19	2018-09-24	5	2018-06-20	91.0	96.0	topical
+Baby239_Antibiotic1	Baby239	1	erythromycin	conjunctivitis	2020-01-02	2020-01-06	4	2018-06-24	557.0	561.0	topical
+Baby239_Antibiotic2	Baby239	2	polymyxin B sulfate/ trimethoprim	conjunctivitis	2020-01-06	2020-01-13	7	2018-06-24	561.0	568.0	topical
+Baby239_Antibiotic3	Baby239	3	erythromycin	conjunctivitis	2020-01-06	2020-01-11	5	2018-06-24	561.0	566.0	topical
+Baby240_Antibiotic1	Baby240	1	amoxicillin clavulanate	AOM	2019-04-18	2019-04-28	10	2018-06-21	301.0	311.0	oral
+Baby240_Antibiotic2	Baby240	2	polymyxin B sulfate/ trimethoprim	conjunctivitis	2019-04-18	2019-04-23	5	2018-06-21	301.0	306.0	topical
+Baby240_Antibiotic3	Baby240	3	amoxicillin clavulanate	AOM	2019-07-19	2019-07-24	5	2018-06-21	393.0	398.0	oral
+Baby240_Antibiotic4	Baby240	4	amoxicillin clavulanate	AOM, OME	2019-11-26	2019-12-06	10	2018-06-21	523.0	533.0	oral
+Baby241_Antibiotic1	Baby241	1	amoxicillin	AOM	2020-01-02	2020-01-12	10	2018-06-24	557.0	567.0	oral
+Baby241_Antibiotic2	Baby241	2	amoxicillin clavulanate	AOM, conjunctivitis	2019-07-09	2019-07-19	10	2018-06-24	380.0	390.0	oral
+Baby241_Antibiotic3	Baby241	3	amoxicillin	AOM	2019-11-07	2019-11-27	20	2018-06-24	501.0	521.0	oral
+Baby241_Antibiotic4	Baby241	4	amoxicillin	AOM	2019-05-03	2019-05-13	10	2018-06-24	313.0	323.0	oral
+Baby241_Antibiotic5	Baby241	5	cefdinir	AOM	2020-01-13	2020-01-21	8	2018-06-24	568.0	576.0	oral
+Baby241_Antibiotic6	Baby241	6	ceftriaxone	AOM	2020-01-21	2020-01-21	0	2018-06-24	576.0	576.0	IM
+Baby243_Antibiotic1	Baby243	1	amoxicillin	AOM	2018-12-23	2018-12-27	4	2018-07-11	165.0	169.0	oral
+Baby243_Antibiotic2	Baby243	2	amoxicillin	AOM	2019-10-16	2019-10-26	10	2018-07-11	462.0	472.0	oral
+Baby245_Antibiotic3	Baby245	3	amoxicillin	AOM	2019-04-16	2019-04-26	10	2018-07-22	268.0	278.0	oral
+Baby245_Antibiotic4	Baby245	4	amoxicillin	AOM	2019-06-25	2019-07-05	10	2018-07-22	338.0	348.0	oral
+Baby245_Antibiotic5	Baby245	5	amoxicillin clavulanate	AOM	2019-07-19	2019-07-24	5	2018-07-22	362.0	367.0	oral
+Baby245_Antibiotic6	Baby245	6	amoxicillin	AOM	2020-01-11	2020-01-21	10	2018-07-22	538.0	548.0	oral
+Baby245_Antibiotic7	Baby245	7	amoxicillin clavulanate	strep throat	2020-02-17	2020-02-23	6	2018-07-22	575.0	581.0	oral
+Baby245_Antibiotic8	Baby245	8	Bactrim (timethoprim/sulfamethaxazole)	cellulitis and abscess	2020-02-24	2020-03-05	10	2018-07-22	582.0	592.0	
+Baby247_Antibiotic1	Baby247	1	tamiflu	Influenza A	2020-02-25	2020-03-01	5	2018-08-24	550.0	555.0	
+Baby248_Antibiotic1	Baby248	1	erythromycin	conjunctivitis	2018-08-30	2018-09-25	26	2018-08-19	11.0	37.0	topical
+Baby249_Antibiotic1	Baby249	1	amoxicillin clavulanate	AOM	2019-01-04	2019-01-14	10	2018-08-24	133.0	143.0	oral
+Baby249_Antibiotic2	Baby249	2	amoxicillin	AOM	2019-01-30	2019-02-09	10	2018-08-24	159.0	169.0	oral
+Baby249_Antibiotic3	Baby249	3	Tamiflu	Influenza A	2019-03-04	2019-03-09	5	2018-08-24	192.0	197.0	
+Baby249_Antibiotic4	Baby249	4	amoxicillin	AOM	2020-03-31	2020-04-10	10	2018-08-24	585.0	595.0	oral
+Baby250_Antibiotic1	Baby250	1	cephalexin	Insect Bite	2019-02-14	2019-02-24	10	2018-09-05	162.0	172.0	oral
+Baby250_Antibiotic2	Baby250	2	amoxicillin	AOM	2019-07-28	2019-07-31	3	2018-09-05	326.0	329.0	oral
+Baby250_Antibiotic3	Baby250	3	cefdinir	AOM, switched due to allergic reaction to amoxicillin	2019-07-31	2019-08-03	3	2018-09-05	329.0	332.0	oral
+Baby250_Antibiotic4	Baby250	4	azithromycin	AOM	2019-09-23	2019-09-28	5	2018-09-05	383.0	388.0	oral
+Baby250_Antibiotic5	Baby250	5	azithromycin	AOM	2019-10-19	2019-10-24	5	2018-09-05	409.0	414.0	oral
+Baby250_Antibiotic6	Baby250	6	azithromycin	AOM	2020-01-31	2020-02-03	3	2018-09-05	513.0	516.0	oral
+Baby250_Antibiotic7	Baby250	7	ciprofloxacin/ dexamethasone	AOM	2020-01-31	2020-02-05	5	2018-09-05	513.0	518.0	oral
+Baby250_Antibiotic8	Baby250	8	azithromycin	strep throat	2020-03-25	2020-03-30	5	2018-09-05	567.0	572.0	oral
+Baby252_Antibiotic1	Baby252	1	Tamiflu	Influenza	2019-12-08	2019-12-12	4	2018-09-06	458.0	462.0	
+Baby252_Antibiotic2	Baby252	2	polymyxin B sulfate/ trimethoprim	conjunctivitis	2020-03-11	2020-03-21	10	2018-09-06	552.0	562.0	topical
+Baby253_Antibiotic1	Baby253	1	oseltamivir (antiviral)	URI	2019-02-20	2019-02-25	5	2018-09-27	146.0	151.0	
+Baby254_Antibiotic1	Baby254	1	amoxicillin	AOM	2019-04-02	2019-04-12	10	2018-09-28	186.0	196.0	oral
+Baby254_Antibiotic2	Baby254	2	amoxicillin clavulanate	pneumonia, AOM	2019-11-22	2019-11-25	3	2018-09-28	420.0	423.0	oral
+Baby254_Antibiotic3	Baby254	3	amoxicillin	AOM	2019-11-18	2019-11-22	4	2018-09-28	416.0	420.0	oral
+Baby254_Antibiotic4	Baby254	4	cefdinir	AOM	2019-11-25	2019-12-11	16	2018-09-28	423.0	439.0	oral
+Baby254_Antibiotic5	Baby254	5	cefdinir	AOM	2020-01-03	2020-01-13	10	2018-09-28	462.0	472.0	oral
+Baby254_Antibiotic6	Baby254	6	cefdinir	AOM	2020-01-03	2020-01-13	10	2018-09-28	462.0	472.0	oral
+Baby256_Antibiotic1	Baby256	1	amoxicillin clavulanate	AOM	2019-02-01	2019-02-11	10	2018-10-02	122.0	132.0	oral
+Baby256_Antibiotic2	Baby256	2	amoxicillin	AOM	2019-05-17	2019-05-27	10	2018-10-02	227.0	237.0	oral
+Baby256_Antibiotic3	Baby256	3	amoxicillin	AOM	2019-10-18	2019-10-28	10	2018-10-02	381.0	391.0	oral
+Baby256_Antibiotic4	Baby256	4	amoxicillin	RSV, AOM, Bronchiolitis	2019-12-26	2020-01-05	10	2018-10-02	450.0	460.0	oral
+Baby256_Antibiotic5	Baby256	5	amoxicillin clavulanate	AOM	2020-01-15	2020-01-25	10	2018-10-02	470.0	480.0	oral
+Baby256_Antibiotic6	Baby256	6	cefdinir	AOM	2020-03-16	2020-03-18	2	2018-10-02	531.0	533.0	oral
+Baby256_Antibiotic7	Baby256	7	amoxicillin clavulanate	cellulitis	2020-03-18	2020-03-28	10	2018-10-02	533.0	543.0	oral
+Baby256_Antibiotic8	Baby256	8	Unknown	AOM; Given at ER, not in the medical record	2020-10-07	2020-10-17	10	2018-10-02	736.0	746.0	
+Baby258_Antibiotic1	Baby258	1	amoxicillin	AOM	2019-03-28	2019-04-07	10	2018-10-23	156.0	166.0	oral
+Baby258_Antibiotic2	Baby258	2	amoxicillin	AOM	2019-12-04	2019-12-14	10	2018-10-23	407.0	417.0	oral
+Baby259_Antibiotic1	Baby259	1	amoxicillin	AOM, URI	2019-04-21	2019-05-01	10	2018-10-26	177.0	187.0	oral
+Baby259_Antibiotic2	Baby259	2	oseltamivir (antiviral)	AOM, URI	2019-04-21	2019-05-01	10	2018-10-26	177.0	187.0	
+Baby260_Antibiotic1	Baby260	1	polymyxin B sulfate/ trimethoprim	conjunctivitis	2018-11-20	2018-11-27	7	2018-11-05	15.0	22.0	topical
+Baby261_Antibiotic1	Baby261	1	amoxicillin	Bronchiolitis	2019-04-08	2019-04-13	5	2018-11-01	158.0	163.0	oral
+Baby261_Antibiotic2	Baby261	2	amoxicillin clavulanate	pyoderma	2019-10-21	2019-10-28	7	2018-11-01	354.0	361.0	oral
+Baby261_Antibiotic3	Baby261	3	Bactrim (timethoprim/sulfamethaxazole)	pyoderma	2019-10-21	2019-10-28	7	2018-11-01	354.0	361.0	topical
+Baby261_Antibiotic4	Baby261	4	polymyxin B sulfate/ trimethoprim	conjunctivitis	2019-11-06	2019-11-13	7	2018-11-01	370.0	377.0	topical
+Baby261_Antibiotic5	Baby261	5	amoxicillin	AOM	2020-01-30	2020-02-09	10	2018-11-01	455.0	465.0	oral
+Baby261_Antibiotic6	Baby261	6	amoxicillin clavulanate	dog bite, had stitches	2020-04-26	2020-05-04	8	2018-11-01	542.0	550.0	oral
+Baby265_Antibiotic1	Baby265	1	erythromycin	skin infection	2018-12-28	2019-01-02	5	2018-12-06	22.0	27.0	topical
